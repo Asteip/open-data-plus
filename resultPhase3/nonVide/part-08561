@@ -1,0 +1,32 @@
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#street-address> "5 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+PLACE CHARLES LECHAT" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique, France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node496b770d382de846d27bdf413ab398 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:nodef3dd75d454fe1ab6d8af9dbff07ae339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#fn> "CABINET VETERINAIRE DR SCHWERER-ROZE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lkv8r6x237299627 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1b4lkv8r6x237299627 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1b4lkv8r6x237299627 <http://www.w3.org/2006/vcard/ns#given-name> "CABINET" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1b4lkv8r6x237299627 <http://www.w3.org/2006/vcard/ns#family-name> "SCHWERER-ROZE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lkv8r6x237299628 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1b4lkv8r6x237299628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1b4lkv8r6x237299628 <http://www.w3.org/2006/vcard/ns#organization-name> "CABINET VETERINAIRE DR SCHWERER-ROZE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#adr> _:node496b770d382de846d27bdf413ab398 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2073%2084%2028> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/2006/vcard/ns#geo> _:nodef3dd75d454fe1ab6d8af9dbff07ae339 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node1a4818176802a18bc0b3c97ec5f526 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:nodeb2bf18e9b1728c346a73b733ca4cf545 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:nodeb2bf18e9b1728c346a73b733ca4cf545 <http://data-vocabulary.org/Breadcrumb/title> "Accueil" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:nodeb2bf18e9b1728c346a73b733ca4cf545 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb2bf18e9b1728c346a73b733ca4cf545 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node322083cdb29ce3447cfda9ac572942cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node322083cdb29ce3447cfda9ac572942cb <http://data-vocabulary.org/Breadcrumb/title> "Annuaire des v\u00E9t\u00E9rinaires en France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+_:node322083cdb29ce3447cfda9ac572942cb <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/annuaire-veterinaire-france.html> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node322083cdb29ce3447cfda9ac572942cb <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> <http://purl.org/dc/terms/title> "Site v\u00E9t\u00E9rinaire <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+Chezmonveto.com <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .
+Cr\u00E9ation de sites internet pour les v\u00E9t\u00E9rinaires" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-dr-schwerer-roze-nantes-102808.html> .

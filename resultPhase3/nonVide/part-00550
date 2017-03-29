@@ -1,0 +1,41 @@
+_:noded783e58c7892745b464646acbb53e6b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/63910309.html> .
+_:noded783e58c7892745b464646acbb53e6b8 <http://www.w3.org/2006/vcard/ns#street-address> "9 Rue de la Basse Porte" <http://fr.nomao.com/63910309.html> .
+_:noded783e58c7892745b464646acbb53e6b8 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/63910309.html> .
+_:noded783e58c7892745b464646acbb53e6b8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/63910309.html> .
+_:noded783e58c7892745b464646acbb53e6b8 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/63910309.html> .
+_:node24ebe5adb2d4a0f18f1a139764812052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/63910309.html> .
+_:node6973adde754f5a1e12f2e09c7a7ece8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/63910309.html> .
+_:node6973adde754f5a1e12f2e09c7a7ece8 <http://schema.org/ListItem/item> <http://fr.nomao.com/63910309.html//> <http://fr.nomao.com/63910309.html> .
+_:node6973adde754f5a1e12f2e09c7a7ece8 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/63910309.html> .
+_:node24ebe5adb2d4a0f18f1a139764812052 <http://schema.org/BreadcrumbList/itemListElement> _:node6973adde754f5a1e12f2e09c7a7ece8 <http://fr.nomao.com/63910309.html> .
+_:node82b413ea7c612ce3be9c644c17854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/63910309.html> .
+_:node82b413ea7c612ce3be9c644c17854 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit.html> <http://fr.nomao.com/63910309.html> .
+_:node82b413ea7c612ce3be9c644c17854 <http://schema.org/ListItem/name> "Soir\u00E9e Nantes"@fr <http://fr.nomao.com/63910309.html> .
+_:node24ebe5adb2d4a0f18f1a139764812052 <http://schema.org/BreadcrumbList/itemListElement> _:node82b413ea7c612ce3be9c644c17854 <http://fr.nomao.com/63910309.html> .
+_:nodea0ff2db8452bc7675869c9567e69880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/63910309.html> .
+_:nodea0ff2db8452bc7675869c9567e69880 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/soiree/spectacle.html> <http://fr.nomao.com/63910309.html> .
+_:nodea0ff2db8452bc7675869c9567e69880 <http://schema.org/ListItem/name> "Spectacle Nantes"@fr <http://fr.nomao.com/63910309.html> .
+_:node24ebe5adb2d4a0f18f1a139764812052 <http://schema.org/BreadcrumbList/itemListElement> _:nodea0ff2db8452bc7675869c9567e69880 <http://fr.nomao.com/63910309.html> .
+_:nodec2d6334945a867cdccbfd737e5d25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/63910309.html> .
+_:nodec2d6334945a867cdccbfd737e5d25 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/soiree/spectacle,salle+de+concerts.html> <http://fr.nomao.com/63910309.html> .
+_:nodec2d6334945a867cdccbfd737e5d25 <http://schema.org/ListItem/name> "Salle de concerts Nantes"@fr <http://fr.nomao.com/63910309.html> .
+_:node24ebe5adb2d4a0f18f1a139764812052 <http://schema.org/BreadcrumbList/itemListElement> _:nodec2d6334945a867cdccbfd737e5d25 <http://fr.nomao.com/63910309.html> .
+<http://fr.nomao.com/63910309.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node24ebe5adb2d4a0f18f1a139764812052 <http://fr.nomao.com/63910309.html> .
+_:node79360ea3e61b1982ece81e8bf6a84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/63910309.html> .
+_:node5bb85278e6f41455881ba62dea27965a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/63910309.html> .
+_:node5bb85278e6f41455881ba62dea27965a <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/63910309.html> .
+_:node5bb85278e6f41455881ba62dea27965a <http://schema.org/PostalAddress/streetAddress> "9 Rue de la Basse Porte"@fr <http://fr.nomao.com/63910309.html> .
+_:node5bb85278e6f41455881ba62dea27965a <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/63910309.html> .
+_:node5bb85278e6f41455881ba62dea27965a <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/63910309.html> .
+_:node79360ea3e61b1982ece81e8bf6a84 <http://schema.org/LocalBusiness/address> _:node5bb85278e6f41455881ba62dea27965a <http://fr.nomao.com/63910309.html> .
+_:node79360ea3e61b1982ece81e8bf6a84 <http://schema.org/LocalBusiness/name> "Salle Paul Fort <http://fr.nomao.com/63910309.html> .
+La Bouche d'air"@fr <http://fr.nomao.com/63910309.html> .
+_:node79360ea3e61b1982ece81e8bf6a84 <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/missingPictureNomao.png"@fr <http://fr.nomao.com/63910309.html> .
+_:node79360ea3e61b1982ece81e8bf6a84 <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/63910309.html"@fr <http://fr.nomao.com/63910309.html> .
+<http://fr.nomao.com/63910309.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node79360ea3e61b1982ece81e8bf6a84 <http://fr.nomao.com/63910309.html> .
+<http://fr.nomao.com/63910309.html> <http://purl.org/dc/terms/title> "Salle Paul Fort <http://fr.nomao.com/63910309.html> .
+La Bouche d'air <http://fr.nomao.com/63910309.html> .
+Salle de concerts, <http://fr.nomao.com/63910309.html> .
+Rue de la Basse Porte, Nantes <http://fr.nomao.com/63910309.html> .
+Soir\u00E9e <http://fr.nomao.com/63910309.html> .
+Nomao"@fr <http://fr.nomao.com/63910309.html> .

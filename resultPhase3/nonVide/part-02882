@@ -1,0 +1,50 @@
+_:node208d0b2fb885e386d889ac91aeea68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node208d0b2fb885e386d889ac91aeea68 <http://www.w3.org/2006/vcard/ns#street-address> "23 Rue Du Chemin Rouge" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node208d0b2fb885e386d889ac91aeea68 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node208d0b2fb885e386d889ac91aeea68 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node208d0b2fb885e386d889ac91aeea68 <http://www.w3.org/2006/vcard/ns#postal-code> "44300" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:noded35279998fe9195e83402963be10105b <http://www.w3.org/2006/vcard/ns#fn> "City Residence Nantes Beaujoire" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:noded35279998fe9195e83402963be10105b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m371nex108610719 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1b4m371nex108610719 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1b4m371nex108610719 <http://www.w3.org/2006/vcard/ns#given-name> "City" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1b4m371nex108610719 <http://www.w3.org/2006/vcard/ns#family-name> "Beaujoire" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:noded35279998fe9195e83402963be10105b <http://www.w3.org/2006/vcard/ns#org> _:node1b4m371nex108610720 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1b4m371nex108610720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1b4m371nex108610720 <http://www.w3.org/2006/vcard/ns#organization-name> "City Residence Nantes Beaujoire" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:noded35279998fe9195e83402963be10105b <http://www.w3.org/2006/vcard/ns#adr> _:node208d0b2fb885e386d889ac91aeea68 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:noded35279998fe9195e83402963be10105b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node8aa0685aca92f9805e57b62f63bc9a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node8aa0685aca92f9805e57b62f63bc9a2 <http://purl.org/stuff/rev#type> "\u00E9tablissement scolaire" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node5f766a6d465f19e28e3cfbd6b67d275 <http://www.w3.org/2006/vcard/ns#fn> "City Residence Nantes Beaujoire" <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node5f766a6d465f19e28e3cfbd6b67d275 <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/nantes-hotels/> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node5f766a6d465f19e28e3cfbd6b67d275 <http://purl.org/stuff/rev#hasReview> _:node8aa0685aca92f9805e57b62f63bc9a2 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1e5b4db1117528bf12a61e45b35e20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node1e5b4db1117528bf12a61e45b35e20 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:node1e5b4db1117528bf12a61e45b35e20 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:nodea18bdfca8556971ab65333cd1173dcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:nodea18bdfca8556971ab65333cd1173dcb <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:nodea18bdfca8556971ab65333cd1173dcb <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:nodea18bdfca8556971ab65333cd1173dcb <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:nodef050da82f5e999b3ea352a7f62c1ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:nodef050da82f5e999b3ea352a7f62c1ad <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef050da82f5e999b3ea352a7f62c1ad <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node124b32973b1ef7c442fbdf5b383f886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node124b32973b1ef7c442fbdf5b383f886 <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:node124b32973b1ef7c442fbdf5b383f886 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node11de56f99daad697c1b06d60b876b895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node11de56f99daad697c1b06d60b876b895 <http://data-vocabulary.org/Breadcrumb/title> "Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node11de56f99daad697c1b06d60b876b895 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDlZz-nantes-h%C3%B4tels> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:node11de56f99daad697c1b06d60b876b895 <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node457b83297a61b461b2b2bbf16cd5aed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+_:node457b83297a61b461b2b2bbf16cd5aed <http://data-vocabulary.org/Breadcrumb/title> "City Residence Nantes Beaujoire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.w3.org/1999/xhtml/microdata#item> _:node457b83297a61b461b2b2bbf16cd5aed <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://purl.org/dc/terms/title> "\nCity Residence Nantes Beaujoire, hotel Nantes <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+France <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://opengraphprotocol.org/schema/description> "City Residence Nantes Beaujoire \u00E0 Nantes. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/nantes-hotels/residence-eole-europe"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .
+<http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> <http://opengraphprotocol.org/schema/title> "City Residence Nantes Beaujoire, Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/residence-eole-europe> .

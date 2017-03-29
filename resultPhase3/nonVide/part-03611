@@ -1,0 +1,31 @@
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#street-address> "5 RUE YVES BODIGUEL" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique, France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node5f5fa86b7463fc3828822418aea5f759 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node26f1c4a956eeaf998912ab68bafe92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#fn> "CABINET VETERINAIRE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x66471533 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node1b4ltna17x66471533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node1b4ltna17x66471533 <http://www.w3.org/2006/vcard/ns#given-name> "CABINET" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node1b4ltna17x66471533 <http://www.w3.org/2006/vcard/ns#family-name> "VETERINAIRE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#org> _:node1b4ltna17x66471534 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node1b4ltna17x66471534 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node1b4ltna17x66471534 <http://www.w3.org/2006/vcard/ns#organization-name> "CABINET VETERINAIRE" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#adr> _:node5f5fa86b7463fc3828822418aea5f759 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2047%2061%2017> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/2006/vcard/ns#geo> _:node26f1c4a956eeaf998912ab68bafe92 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node638f809e74d8ebff57e87755a11b7d4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:nodebfe5732752805661671d5297ae9257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:nodebfe5732752805661671d5297ae9257 <http://data-vocabulary.org/Breadcrumb/title> "Accueil" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:nodebfe5732752805661671d5297ae9257 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodebfe5732752805661671d5297ae9257 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node3d3beb9ac4c753e9f1f91942efc68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node3d3beb9ac4c753e9f1f91942efc68 <http://data-vocabulary.org/Breadcrumb/title> "Annuaire des v\u00E9t\u00E9rinaires en France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+_:node3d3beb9ac4c753e9f1f91942efc68 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/annuaire-veterinaire-france.html> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node3d3beb9ac4c753e9f1f91942efc68 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> <http://purl.org/dc/terms/title> "Site v\u00E9t\u00E9rinaire <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+Chezmonveto.com <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .
+Cr\u00E9ation de sites internet pour les v\u00E9t\u00E9rinaires" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-nantes-102802.html> .

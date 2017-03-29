@@ -1,0 +1,18 @@
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/2006/vcard/ns#street-address> "12 RUE GAETON RONDEAU" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:nodec29b99804f7884c0c936153bd872451 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node2172644735b51bb9e3b7af82423b23a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node2172644735b51bb9e3b7af82423b23a <http://www.w3.org/2006/vcard/ns#latitude> "47.206204" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node2172644735b51bb9e3b7af82423b23a <http://www.w3.org/2006/vcard/ns#longitude> "-1.535652" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/2006/vcard/ns#fn> "SISMLA" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltn8adx265999899 <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node1b4ltn8adx265999899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node1b4ltn8adx265999899 <http://www.w3.org/2006/vcard/ns#given-name> "SISMLA" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node1b4ltn8adx265999899 <http://www.w3.org/2006/vcard/ns#family-name> "SISMLA" <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/2006/vcard/ns#adr> _:nodec29b99804f7884c0c936153bd872451 <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2048%2065%2028> <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/2006/vcard/ns#geo> _:node2172644735b51bb9e3b7af82423b23a <http://le-portail.com/categorie/dr-julien-betbeze/1430> .
+_:node999c6fc415cd5bf91c51a51c4b3a1343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://le-portail.com/categorie/dr-julien-betbeze/1430> .

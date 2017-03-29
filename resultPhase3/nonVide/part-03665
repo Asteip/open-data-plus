@@ -1,0 +1,95 @@
+_:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www-subatech.in2p3.fr/fr/> .
+_:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www.w3.org/2006/vcard/ns#street-address> "4 rue Alfred Kastler <http://www-subatech.in2p3.fr/fr/> .
+La Chantrerie <http://www-subatech.in2p3.fr/fr/> .
+BP 20722" <http://www-subatech.in2p3.fr/fr/> .
+_:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www.w3.org/2006/vcard/ns#locality> "Nantes cedex 3" <http://www-subatech.in2p3.fr/fr/> .
+_:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www-subatech.in2p3.fr/fr/> .
+_:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www.w3.org/2006/vcard/ns#postal-code> "44307" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285974 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Du Protocole de Montr\u00E9al \u00E0 la COP 21" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285974 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "24 <http://www-subatech.in2p3.fr/fr/> .
+11 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285974 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285975 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Double Chooz Improved Multi-Detector Measurements" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285975 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "27 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285975 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285976 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285976 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Soutenance de th\u00E8se <http://www-subatech.in2p3.fr/fr/> .
+Estimation of the composition of cosmic rays using the radio signal" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285976 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "26 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285976 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285977 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285977 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Soutenance de th\u00E8se <http://www-subatech.in2p3.fr/fr/> .
+Geometrie, electronic structures and physico-chemical properties of astatine species: An application of relativistic quantum mechanics" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285977 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "19 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285977 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285978 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Super-K Gd: Traking Supernova Relic Neutrinos with <http://www-subatech.in2p3.fr/fr/> .
+Gd-loaded water Cherenkov detector" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285978 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "29 <http://www-subatech.in2p3.fr/fr/> .
+09 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285978 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285979 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Sujet de th\u00E8se: Sp\u00E9ciation du tritium dans les \u00E9chantillons de l\u2019environnement" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285979 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "01 <http://www-subatech.in2p3.fr/fr/> .
+01 <http://www-subatech.in2p3.fr/fr/> .
+2017" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285979 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285980 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Colloque national des jeunes soci\u00E9taires de la SFEN" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285980 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "17 <http://www-subatech.in2p3.fr/fr/> .
+11 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285980 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285981 <http://www.w3.org/2002/12/cal/icaltzd#summary> "F\u00EAte de la Science" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285981 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "14 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285981 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285982 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Visite des \u00E9tudiants de M1 A3M et ENR-C\u2019Nano de l\u2019Universit\u00E9 de Nantes \u00E0 Subatech" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285982 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "10 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285982 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285984 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Visite des \u00E9tudiants de Licence <http://www-subatech.in2p3.fr/fr/> .
+et Master <http://www-subatech.in2p3.fr/fr/> .
+mention Physique" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285984 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "03 <http://www-subatech.in2p3.fr/fr/> .
+10 <http://www-subatech.in2p3.fr/fr/> .
+2016" <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4qheftvx57285984 <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/2006/vcard/ns#fn> "Subatech <http://www-subatech.in2p3.fr/fr/> .
+UMR 6457 <http://www-subatech.in2p3.fr/fr/> .
+Laboratoire de physique subatomique et des technologies associ\u00E9es" <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/2006/vcard/ns#n> _:node1b4qheftvx57285986 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285986 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285986 <http://www.w3.org/2006/vcard/ns#given-name> "Subatech" <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285986 <http://www.w3.org/2006/vcard/ns#family-name> "associ\u00E9es" <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/2006/vcard/ns#org> _:node1b4qheftvx57285987 <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285987 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www-subatech.in2p3.fr/fr/> .
+_:node1b4qheftvx57285987 <http://www.w3.org/2006/vcard/ns#organization-name> "Subatech <http://www-subatech.in2p3.fr/fr/> .
+UMR 6457 <http://www-subatech.in2p3.fr/fr/> .
+Laboratoire de physique subatomique et des technologies associ\u00E9es" <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/2006/vcard/ns#adr> _:node15f3b8c7a28d4db38973caa3e6ef7e3 <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)2%2051%2085%2084%2083> <http://www-subatech.in2p3.fr/fr/> .
+_:nodef382ded4230681dd0b6c4d5a52e7d9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www-subatech.in2p3.fr/fr/> .
+_:node5fabc4c7af61deb74241e38d49b8aa6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://www-subatech.in2p3.fr/fr/> .
+_:nodeb161d1e24f81c669db1a3d46f38b8f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://www-subatech.in2p3.fr/fr/> .
+_:nodeb161d1e24f81c669db1a3d46f38b8f2 <http://schema.org/ListItem/name> "\n\t\t\t\t\tAccueil\t\t\t\t"@fr-fr <http://www-subatech.in2p3.fr/fr/> .
+_:nodeb161d1e24f81c669db1a3d46f38b8f2 <http://schema.org/ListItem/position> "1"@fr-fr <http://www-subatech.in2p3.fr/fr/> .
+_:node5fabc4c7af61deb74241e38d49b8aa6 <http://schema.org/BreadcrumbList/itemListElement> _:nodeb161d1e24f81c669db1a3d46f38b8f2 <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://www.w3.org/1999/xhtml/microdata#item> _:node5fabc4c7af61deb74241e38d49b8aa6 <http://www-subatech.in2p3.fr/fr/> .
+<http://www-subatech.in2p3.fr/fr/> <http://purl.org/dc/terms/title> "Actualit\u00E9s"@fr-fr <http://www-subatech.in2p3.fr/fr/> .

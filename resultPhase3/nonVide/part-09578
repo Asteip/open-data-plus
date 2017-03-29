@@ -1,0 +1,58 @@
+_:node33d7c3e6d753bf88e15aff21b1a73e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node33d7c3e6d753bf88e15aff21b1a73e <http://www.w3.org/2006/vcard/ns#street-address> "Boulevard Des Patureaux <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+Rn 23 Angers Paris" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node33d7c3e6d753bf88e15aff21b1a73e <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node33d7c3e6d753bf88e15aff21b1a73e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node33d7c3e6d753bf88e15aff21b1a73e <http://www.w3.org/2006/vcard/ns#postal-code> "44985" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node49a34262c3d53f4a82de282272c2e560 <http://www.w3.org/2006/vcard/ns#fn> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node49a34262c3d53f4a82de282272c2e560 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqc8s9x122565064 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node1b4lqc8s9x122565064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node1b4lqc8s9x122565064 <http://www.w3.org/2006/vcard/ns#given-name> "Campanile" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node1b4lqc8s9x122565064 <http://www.w3.org/2006/vcard/ns#family-name> "Loire" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node49a34262c3d53f4a82de282272c2e560 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lqc8s9x122565065 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node1b4lqc8s9x122565065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node1b4lqc8s9x122565065 <http://www.w3.org/2006/vcard/ns#organization-name> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node49a34262c3d53f4a82de282272c2e560 <http://www.w3.org/2006/vcard/ns#adr> _:node33d7c3e6d753bf88e15aff21b1a73e <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node49a34262c3d53f4a82de282272c2e560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodec46a3178a8ea6531703c4b8db56958e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodec46a3178a8ea6531703c4b8db56958e6 <http://purl.org/stuff/rev#type> "Stade" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node4f7af57e8aed4841bcb616419d73fcf <http://www.w3.org/2006/vcard/ns#fn> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire" <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node4f7af57e8aed4841bcb616419d73fcf <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/nantes-hotels/> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node4f7af57e8aed4841bcb616419d73fcf <http://purl.org/stuff/rev#hasReview> _:nodec46a3178a8ea6531703c4b8db56958e6 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:noded4c81d817b1a8094e14b19d24c7fd4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:noded4c81d817b1a8094e14b19d24c7fd4b <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:noded4c81d817b1a8094e14b19d24c7fd4b <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodedd3fc44ac9fa869b0a86c8e59d5cb4a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodedd3fc44ac9fa869b0a86c8e59d5cb4a <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodedd3fc44ac9fa869b0a86c8e59d5cb4a <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedd3fc44ac9fa869b0a86c8e59d5cb4a <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node7da9b2e3baabbcf831b6e41a94573521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:node7da9b2e3baabbcf831b6e41a94573521 <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:node7da9b2e3baabbcf831b6e41a94573521 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodeabde5cd22e7255448476f348dfd091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodeabde5cd22e7255448476f348dfd091 <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeabde5cd22e7255448476f348dfd091 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodebf2b985778a5acfd2a61c5dbc41a7655 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodebf2b985778a5acfd2a61c5dbc41a7655 <http://data-vocabulary.org/Breadcrumb/title> "Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodebf2b985778a5acfd2a61c5dbc41a7655 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDlZz-nantes-h%C3%B4tels> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:nodebf2b985778a5acfd2a61c5dbc41a7655 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodedb3bacfd47e7aade295bff3a728debf5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+_:nodedb3bacfd47e7aade295bff3a728debf5 <http://data-vocabulary.org/Breadcrumb/title> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedb3bacfd47e7aade295bff3a728debf5 <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://purl.org/dc/terms/title> "\nCampanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire, hotel Nantes <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+France <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://opengraphprotocol.org/schema/description> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire \u00E0 Nantes. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+<http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> <http://opengraphprotocol.org/schema/title> "Campanile Nantes Est <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .
+St Luce Sur Loire, Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/campanile-nantes-sainte-luce_1> .

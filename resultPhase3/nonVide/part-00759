@@ -1,0 +1,45 @@
+_:node2368696812e1f3e648955b8acb6113dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/4710053.html> .
+_:node2368696812e1f3e648955b8acb6113dc <http://www.w3.org/2006/vcard/ns#street-address> "8 Rue Scribe" <http://fr.nomao.com/4710053.html> .
+_:node2368696812e1f3e648955b8acb6113dc <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/4710053.html> .
+_:node2368696812e1f3e648955b8acb6113dc <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/4710053.html> .
+_:node2368696812e1f3e648955b8acb6113dc <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/4710053.html> .
+_:node67abccaeb0e517655156302e81634f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/4710053.html> .
+_:noded54e13f4a0b9c9c182249c55599e5bd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4710053.html> .
+_:noded54e13f4a0b9c9c182249c55599e5bd6 <http://schema.org/ListItem/item> <http://fr.nomao.com/4710053.html//> <http://fr.nomao.com/4710053.html> .
+_:noded54e13f4a0b9c9c182249c55599e5bd6 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/4710053.html> .
+_:node67abccaeb0e517655156302e81634f <http://schema.org/BreadcrumbList/itemListElement> _:noded54e13f4a0b9c9c182249c55599e5bd6 <http://fr.nomao.com/4710053.html> .
+_:node29a86228c259a85fd97f419f817b269 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4710053.html> .
+_:node29a86228c259a85fd97f419f817b269 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping.html> <http://fr.nomao.com/4710053.html> .
+_:node29a86228c259a85fd97f419f817b269 <http://schema.org/ListItem/name> "Shopping Nantes"@fr <http://fr.nomao.com/4710053.html> .
+_:node67abccaeb0e517655156302e81634f <http://schema.org/BreadcrumbList/itemListElement> _:node29a86228c259a85fd97f419f817b269 <http://fr.nomao.com/4710053.html> .
+_:noded79348ee0ee48985c6cb1ccf85332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4710053.html> .
+_:noded79348ee0ee48985c6cb1ccf85332 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+mode.html> <http://fr.nomao.com/4710053.html> .
+_:noded79348ee0ee48985c6cb1ccf85332 <http://schema.org/ListItem/name> "Magasin de mode Nantes"@fr <http://fr.nomao.com/4710053.html> .
+_:node67abccaeb0e517655156302e81634f <http://schema.org/BreadcrumbList/itemListElement> _:noded79348ee0ee48985c6cb1ccf85332 <http://fr.nomao.com/4710053.html> .
+_:node9bbf4a1399d0cd94d170e592b64bbf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4710053.html> .
+_:node9bbf4a1399d0cd94d170e592b64bbf <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+chaussures.html> <http://fr.nomao.com/4710053.html> .
+_:node9bbf4a1399d0cd94d170e592b64bbf <http://schema.org/ListItem/name> "Magasin de chaussures Nantes"@fr <http://fr.nomao.com/4710053.html> .
+_:node67abccaeb0e517655156302e81634f <http://schema.org/BreadcrumbList/itemListElement> _:node9bbf4a1399d0cd94d170e592b64bbf <http://fr.nomao.com/4710053.html> .
+<http://fr.nomao.com/4710053.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node67abccaeb0e517655156302e81634f <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <http://fr.nomao.com/4710053.html> .
+_:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/4710053.html> .
+_:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/4710053.html> .
+_:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://schema.org/PostalAddress/streetAddress> "8 Rue Scribe"@fr <http://fr.nomao.com/4710053.html> .
+_:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/4710053.html> .
+_:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/address> _:nodec28190e1a778f2d1c2aa620cae3a9b5 <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/name> "SCOTT PREMIUM"@fr <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/logo> "http://static.nomao.com/img/v4/5084_spot.png"@fr <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/photo> <http://mt3.nomao.com/pictures/45720255?w=178&h=145> <http://fr.nomao.com/4710053.html> .
+_:nodef59c2fee813610c1ade2e9658f084db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/4710053.html> .
+_:nodef59c2fee813610c1ade2e9658f084db <http://schema.org/AggregateRating/ratingValue> "4.2"@fr <http://fr.nomao.com/4710053.html> .
+_:nodef59c2fee813610c1ade2e9658f084db <http://schema.org/AggregateRating/ratingCount> "37"@fr <http://fr.nomao.com/4710053.html> .
+_:nodef59c2fee813610c1ade2e9658f084db <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/aggregateRating> _:nodef59c2fee813610c1ade2e9658f084db <http://fr.nomao.com/4710053.html> .
+_:node1317e512a0e27524b61f296e1b24ad <http://schema.org/Store/url> "http://fr.nomao.com/4710053.html"@fr <http://fr.nomao.com/4710053.html> .
+<http://fr.nomao.com/4710053.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node1317e512a0e27524b61f296e1b24ad <http://fr.nomao.com/4710053.html> .
+<http://fr.nomao.com/4710053.html> <http://purl.org/dc/terms/title> "SCOTT PREMIUM <http://fr.nomao.com/4710053.html> .
+Magasin de chaussures, <http://fr.nomao.com/4710053.html> .
+Rue Scribe, Nantes <http://fr.nomao.com/4710053.html> .
+Magasin de mode <http://fr.nomao.com/4710053.html> .
+Nomao"@fr <http://fr.nomao.com/4710053.html> .

@@ -1,0 +1,19 @@
+_:nodedc2d30794363afde17ad4a93c5ae766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.qivivo.com/fr/mentions-legales> .
+_:nodedc2d30794363afde17ad4a93c5ae766 <http://www.w3.org/2006/vcard/ns#street-address> "Immeuble Ehundura <http://www.qivivo.com/fr/mentions-legales> .
+Mail du Front Populaire" <http://www.qivivo.com/fr/mentions-legales> .
+_:nodedc2d30794363afde17ad4a93c5ae766 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.qivivo.com/fr/mentions-legales> .
+_:nodedc2d30794363afde17ad4a93c5ae766 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.qivivo.com/fr/mentions-legales> .
+_:nodedc2d30794363afde17ad4a93c5ae766 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.qivivo.com/fr/mentions-legales> .
+_:node4dda37e888e27c9afe0755435efed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.qivivo.com/fr/mentions-legales> .
+_:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.qivivo.com/fr/mentions-legales> .
+_:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://schema.org/PostalAddress/addressCountry> "France"@fr <http://www.qivivo.com/fr/mentions-legales> .
+_:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://schema.org/PostalAddress/streetAddress> "Immeuble Ehundura <http://www.qivivo.com/fr/mentions-legales> .
+Mail du Front Populaire"@fr <http://www.qivivo.com/fr/mentions-legales> .
+_:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.qivivo.com/fr/mentions-legales> .
+_:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.qivivo.com/fr/mentions-legales> .
+_:node4dda37e888e27c9afe0755435efed <http://schema.org/LocalBusiness/address> _:nodef3dd5cb53ed75c20c66df23dbc78ba8f <http://www.qivivo.com/fr/mentions-legales> .
+_:node4dda37e888e27c9afe0755435efed <http://schema.org/LocalBusiness/description> "Thermostat connect\u00E9 pour chauffage \u00E9lectrique, chaudi\u00E8re au gaz, au fioul, au bois, pompe \u00E0 chaleur. Le Thermostat Connect\u00E9 Qivivo r\u00E9alise jusqu'\u00E0 40% d'\u00E9conomies sur votre facture \u00E9nerg\u00E9tique."@fr <http://www.qivivo.com/fr/mentions-legales> .
+_:node4dda37e888e27c9afe0755435efed <http://schema.org/LocalBusiness/email> <http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/mentions-legales> .
+<http://www.qivivo.com/fr/mentions-legales> <http://www.w3.org/1999/xhtml/microdata#item> _:node4dda37e888e27c9afe0755435efed <http://www.qivivo.com/fr/mentions-legales> .
+<http://www.qivivo.com/fr/mentions-legales> <http://purl.org/dc/terms/title> "Mentions l\u00E9gales <http://www.qivivo.com/fr/mentions-legales> .
+Qivivo"@fr <http://www.qivivo.com/fr/mentions-legales> .

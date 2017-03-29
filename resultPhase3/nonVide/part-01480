@@ -1,0 +1,44 @@
+_:node4e6f92f2efe594fd9d409da6b9c608a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/4709955.html> .
+_:node4e6f92f2efe594fd9d409da6b9c608a <http://www.w3.org/2006/vcard/ns#street-address> "1 Rue du Calvaire" <http://fr.nomao.com/4709955.html> .
+_:node4e6f92f2efe594fd9d409da6b9c608a <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/4709955.html> .
+_:node4e6f92f2efe594fd9d409da6b9c608a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/4709955.html> .
+_:node4e6f92f2efe594fd9d409da6b9c608a <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/4709955.html> .
+_:node316c581c137c1c1b48459a834ea1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/4709955.html> .
+_:node2bd22cf31bc8476a934e6adbdc239 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4709955.html> .
+_:node2bd22cf31bc8476a934e6adbdc239 <http://schema.org/ListItem/item> <http://fr.nomao.com/4709955.html//> <http://fr.nomao.com/4709955.html> .
+_:node2bd22cf31bc8476a934e6adbdc239 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/4709955.html> .
+_:node316c581c137c1c1b48459a834ea1f <http://schema.org/BreadcrumbList/itemListElement> _:node2bd22cf31bc8476a934e6adbdc239 <http://fr.nomao.com/4709955.html> .
+_:node6aad1c871c93a50a93d99fc589ff823 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4709955.html> .
+_:node6aad1c871c93a50a93d99fc589ff823 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping.html> <http://fr.nomao.com/4709955.html> .
+_:node6aad1c871c93a50a93d99fc589ff823 <http://schema.org/ListItem/name> "Shopping Nantes"@fr <http://fr.nomao.com/4709955.html> .
+_:node316c581c137c1c1b48459a834ea1f <http://schema.org/BreadcrumbList/itemListElement> _:node6aad1c871c93a50a93d99fc589ff823 <http://fr.nomao.com/4709955.html> .
+_:nodedbb66b6b4726824ccc22d1eb72866ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4709955.html> .
+_:nodedbb66b6b4726824ccc22d1eb72866ae <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+mode.html> <http://fr.nomao.com/4709955.html> .
+_:nodedbb66b6b4726824ccc22d1eb72866ae <http://schema.org/ListItem/name> "Magasin de mode Nantes"@fr <http://fr.nomao.com/4709955.html> .
+_:node316c581c137c1c1b48459a834ea1f <http://schema.org/BreadcrumbList/itemListElement> _:nodedbb66b6b4726824ccc22d1eb72866ae <http://fr.nomao.com/4709955.html> .
+_:node3c527bc15bc7854ef15b098828bdaf8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4709955.html> .
+_:node3c527bc15bc7854ef15b098828bdaf8 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+chaussures.html> <http://fr.nomao.com/4709955.html> .
+_:node3c527bc15bc7854ef15b098828bdaf8 <http://schema.org/ListItem/name> "Magasin de chaussures Nantes"@fr <http://fr.nomao.com/4709955.html> .
+_:node316c581c137c1c1b48459a834ea1f <http://schema.org/BreadcrumbList/itemListElement> _:node3c527bc15bc7854ef15b098828bdaf8 <http://fr.nomao.com/4709955.html> .
+<http://fr.nomao.com/4709955.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node316c581c137c1c1b48459a834ea1f <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <http://fr.nomao.com/4709955.html> .
+_:nodef31534e6741cfded926198de490b1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/4709955.html> .
+_:nodef31534e6741cfded926198de490b1b <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/4709955.html> .
+_:nodef31534e6741cfded926198de490b1b <http://schema.org/PostalAddress/streetAddress> "1 Rue du Calvaire"@fr <http://fr.nomao.com/4709955.html> .
+_:nodef31534e6741cfded926198de490b1b <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/4709955.html> .
+_:nodef31534e6741cfded926198de490b1b <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://schema.org/Store/address> _:nodef31534e6741cfded926198de490b1b <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://schema.org/Store/name> "STAGGY"@fr <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://schema.org/Store/logo> "http://static.nomao.com/img/v4/5084_spot.png"@fr <http://fr.nomao.com/4709955.html> .
+_:node91ad209d89843ebb68cae0a556c8b460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/4709955.html> .
+_:node91ad209d89843ebb68cae0a556c8b460 <http://schema.org/AggregateRating/ratingValue> "3.8"@fr <http://fr.nomao.com/4709955.html> .
+_:node91ad209d89843ebb68cae0a556c8b460 <http://schema.org/AggregateRating/ratingCount> "4"@fr <http://fr.nomao.com/4709955.html> .
+_:node91ad209d89843ebb68cae0a556c8b460 <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://schema.org/Store/aggregateRating> _:node91ad209d89843ebb68cae0a556c8b460 <http://fr.nomao.com/4709955.html> .
+_:node712218adcffecd1c884225c79642384 <http://schema.org/Store/url> "http://fr.nomao.com/4709955.html"@fr <http://fr.nomao.com/4709955.html> .
+<http://fr.nomao.com/4709955.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node712218adcffecd1c884225c79642384 <http://fr.nomao.com/4709955.html> .
+<http://fr.nomao.com/4709955.html> <http://purl.org/dc/terms/title> "STAGGY <http://fr.nomao.com/4709955.html> .
+Magasin de chaussures, <http://fr.nomao.com/4709955.html> .
+Rue du Calvaire, Nantes <http://fr.nomao.com/4709955.html> .
+Magasin de mode <http://fr.nomao.com/4709955.html> .
+Nomao"@fr <http://fr.nomao.com/4709955.html> .

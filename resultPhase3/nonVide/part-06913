@@ -1,0 +1,30 @@
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/herreba> .
+_:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/2006/vcard/ns#fn> "Herreba" <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/2006/vcard/ns#n> _:node1b4otq0aax65741662 <http://dating.lt/users1/herreba> .
+_:node1b4otq0aax65741662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://dating.lt/users1/herreba> .
+_:node1b4otq0aax65741662 <http://www.w3.org/2006/vcard/ns#given-name> "Herreba" <http://dating.lt/users1/herreba> .
+_:node1b4otq0aax65741662 <http://www.w3.org/2006/vcard/ns#family-name> "Herreba" <http://dating.lt/users1/herreba> .
+_:node1b4otq0aax65741662 <http://www.w3.org/2006/vcard/ns#nickname> "Herreba" <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/2006/vcard/ns#photo> <http://static5.dating.lt/photos/40g/95/95rk40gg7t/95rk40gg7t_1_455894dabba08090b348c833cb08bb4e.jpg> <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/2006/vcard/ns#adr> _:nodead2e76f2c0d6ab6c824b7d38c176e875 <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/2006/vcard/ns#note> "I am <http://dating.lt/users1/herreba> .
+man, 87 years oldseeking <http://dating.lt/users1/herreba> .
+woman age from 27 till 47" <http://dating.lt/users1/herreba> .
+_:node2fcd9d734b45b2f2b9b2586328b7644 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://dating.lt/users1/herreba> .
+_:nodee19c497262b2ec7b509ad55ee0f6e9f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> <http://dating.lt/users1/herreba> .
+_:nodee19c497262b2ec7b509ad55ee0f6e9f2 <http://schema.org/WebPage/inLanguage> "en" <http://dating.lt/users1/herreba> .
+<http://dating.lt/users1/herreba> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee19c497262b2ec7b509ad55ee0f6e9f2 <http://dating.lt/users1/herreba> .
+_:nodeb2aa82ede991257334bc43a234234f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://dating.lt/users1/herreba> .
+_:nodeb2aa82ede991257334bc43a234234f0 <http://schema.org/Person/image> <http://static5.dating.lt/photos/40g/95/95rk40gg7t/95rk40gg7t_1_455894dabba08090b348c833cb08bb4e.jpg> <http://dating.lt/users1/herreba> .
+_:nodeb2aa82ede991257334bc43a234234f0 <http://schema.org/Person/name> "Herreba" <http://dating.lt/users1/herreba> .
+_:nodeb2aa82ede991257334bc43a234234f0 <http://schema.org/Person/description> "I am <http://dating.lt/users1/herreba> .
+man, 87 years oldseeking <http://dating.lt/users1/herreba> .
+woman age from 27 till 47" <http://dating.lt/users1/herreba> .
+<http://dating.lt/users1/herreba> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb2aa82ede991257334bc43a234234f0 <http://dating.lt/users1/herreba> .

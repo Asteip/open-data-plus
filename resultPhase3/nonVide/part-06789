@@ -1,0 +1,12 @@
+_:node80e15559204d7a4423ba9a7dd21ab478 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.msri.org/institutions/500000591> .
+_:node80e15559204d7a4423ba9a7dd21ab478 <http://www.w3.org/2006/vcard/ns#street-address> "2 Chemin de la Houssiniere" <http://www.msri.org/institutions/500000591> .
+_:node80e15559204d7a4423ba9a7dd21ab478 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.msri.org/institutions/500000591> .
+_:node80e15559204d7a4423ba9a7dd21ab478 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.msri.org/institutions/500000591> .
+_:node80e15559204d7a4423ba9a7dd21ab478 <http://www.w3.org/2006/vcard/ns#postal-code> "F-44072" <http://www.msri.org/institutions/500000591> .
+_:node7eb710ce734f4d2ce898acaaa7976ab <http://www.w3.org/2006/vcard/ns#n> _:node1b500kgmkx15644520 <http://www.msri.org/institutions/500000591> .
+_:node1b500kgmkx15644520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.msri.org/institutions/500000591> .
+_:node7eb710ce734f4d2ce898acaaa7976ab <http://www.w3.org/2006/vcard/ns#org> _:node1b500kgmkx15644521 <http://www.msri.org/institutions/500000591> .
+_:node1b500kgmkx15644521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.msri.org/institutions/500000591> .
+_:node1b500kgmkx15644521 <http://www.w3.org/2006/vcard/ns#organization-name> "Universit\u00E9 de Nantes" <http://www.msri.org/institutions/500000591> .
+_:node7eb710ce734f4d2ce898acaaa7976ab <http://www.w3.org/2006/vcard/ns#adr> _:node80e15559204d7a4423ba9a7dd21ab478 <http://www.msri.org/institutions/500000591> .
+_:node7eb710ce734f4d2ce898acaaa7976ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.msri.org/institutions/500000591> .

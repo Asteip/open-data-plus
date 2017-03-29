@@ -1,0 +1,330 @@
+_:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.w3.org/2006/vcard/ns#street-address> "Carr\u00E9 Pointu <http://www.carrepointu.com/points-de-vente> .
+Beaulieu" <http://www.carrepointu.com/points-de-vente> .
+_:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.w3.org/2006/vcard/ns#street-address> "10, Place du Pilori" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:node7d56f76c09d0b52864488e3fc588d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node7d56f76c09d0b52864488e3fc588d9 <http://www.w3.org/2006/vcard/ns#street-address> "20 Rue de la Fosse" <http://www.carrepointu.com/points-de-vente> .
+_:node7d56f76c09d0b52864488e3fc588d9 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node7d56f76c09d0b52864488e3fc588d9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node7d56f76c09d0b52864488e3fc588d9 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:node5760d6198961f427a5a62f156d972d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node5760d6198961f427a5a62f156d972d6 <http://www.w3.org/2006/vcard/ns#street-address> "Guzzi <http://www.carrepointu.com/points-de-vente> .
+Beaulieu" <http://www.carrepointu.com/points-de-vente> .
+_:node5760d6198961f427a5a62f156d972d6 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node5760d6198961f427a5a62f156d972d6 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node5760d6198961f427a5a62f156d972d6 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.carrepointu.com/points-de-vente> .
+_:node81608b6595ba33b6c4686cb45e2cb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node81608b6595ba33b6c4686cb45e2cb5 <http://www.w3.org/2006/vcard/ns#street-address> "13 Rue d\u2019Orl\u00E9ans" <http://www.carrepointu.com/points-de-vente> .
+_:node81608b6595ba33b6c4686cb45e2cb5 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node81608b6595ba33b6c4686cb45e2cb5 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node81608b6595ba33b6c4686cb45e2cb5 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:node42dd842871d77e5bdf4344f4713feb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node42dd842871d77e5bdf4344f4713feb <http://www.w3.org/2006/vcard/ns#street-address> "13 Rue d\u2019Orl\u00E9ans" <http://www.carrepointu.com/points-de-vente> .
+_:node42dd842871d77e5bdf4344f4713feb <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node42dd842871d77e5bdf4344f4713feb <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node42dd842871d77e5bdf4344f4713feb <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.w3.org/2006/vcard/ns#street-address> "13 rue d'Orl\u00E9ans" <http://www.carrepointu.com/points-de-vente> .
+_:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.w3.org/2006/vcard/ns#street-address> "4 Rue Scribe" <http://www.carrepointu.com/points-de-vente> .
+_:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.carrepointu.com/points-de-vente> .
+_:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.carrepointu.com/points-de-vente> .
+_:node3ccbae5443fc7eaff074492389414dba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node3ccbae5443fc7eaff074492389414dba <http://www.w3.org/2006/vcard/ns#street-address> "16 Rue Saint Fran\u00E7ois" <http://www.carrepointu.com/points-de-vente> .
+_:node3ccbae5443fc7eaff074492389414dba <http://www.w3.org/2006/vcard/ns#locality> "Quimper" <http://www.carrepointu.com/points-de-vente> .
+_:node3ccbae5443fc7eaff074492389414dba <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node3ccbae5443fc7eaff074492389414dba <http://www.w3.org/2006/vcard/ns#postal-code> "29000" <http://www.carrepointu.com/points-de-vente> .
+_:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.w3.org/2006/vcard/ns#street-address> "2 Rue de Co\u00EBtquen" <http://www.carrepointu.com/points-de-vente> .
+_:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.w3.org/2006/vcard/ns#locality> "Rennes" <http://www.carrepointu.com/points-de-vente> .
+_:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.w3.org/2006/vcard/ns#postal-code> "35000" <http://www.carrepointu.com/points-de-vente> .
+_:node5908734b165fafe5ebc6596d51aafd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node5908734b165fafe5ebc6596d51aafd7 <http://www.w3.org/2006/vcard/ns#street-address> "10 Rond-Point de la Corbinerie" <http://www.carrepointu.com/points-de-vente> .
+_:node5908734b165fafe5ebc6596d51aafd7 <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://www.carrepointu.com/points-de-vente> .
+_:node5908734b165fafe5ebc6596d51aafd7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node5908734b165fafe5ebc6596d51aafd7 <http://www.w3.org/2006/vcard/ns#postal-code> "44412" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.w3.org/2006/vcard/ns#street-address> "47-49 Rue de la R\u00E9publique" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.w3.org/2006/vcard/ns#locality> "Saint Nazaire" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.w3.org/2006/vcard/ns#postal-code> "44600" <http://www.carrepointu.com/points-de-vente> .
+_:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.carrepointu.com/points-de-vente> .
+_:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.w3.org/2006/vcard/ns#street-address> "6 Rue Salomon" <http://www.carrepointu.com/points-de-vente> .
+_:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.w3.org/2006/vcard/ns#locality> "Vannes" <http://www.carrepointu.com/points-de-vente> .
+_:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.carrepointu.com/points-de-vente> .
+_:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.w3.org/2006/vcard/ns#postal-code> "56000" <http://www.carrepointu.com/points-de-vente> .
+_:nodeccc90a1b1fd1d1dbeccbcc95ca2529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodeccc90a1b1fd1d1dbeccbcc95ca2529 <http://www.w3.org/2006/vcard/ns#latitude> "47.20454" <http://www.carrepointu.com/points-de-vente> .
+_:nodeccc90a1b1fd1d1dbeccbcc95ca2529 <http://www.w3.org/2006/vcard/ns#longitude> "-1.536648" <http://www.carrepointu.com/points-de-vente> .
+_:nodec7bd218381b2f959b2b28ad628e80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodec7bd218381b2f959b2b28ad628e80 <http://www.w3.org/2006/vcard/ns#latitude> "47.215982" <http://www.carrepointu.com/points-de-vente> .
+_:nodec7bd218381b2f959b2b28ad628e80 <http://www.w3.org/2006/vcard/ns#longitude> "-1.553379" <http://www.carrepointu.com/points-de-vente> .
+_:nodeed1b10cbbc927712d2b1cd0efafec97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodeed1b10cbbc927712d2b1cd0efafec97 <http://www.w3.org/2006/vcard/ns#latitude> "47.213549" <http://www.carrepointu.com/points-de-vente> .
+_:nodeed1b10cbbc927712d2b1cd0efafec97 <http://www.w3.org/2006/vcard/ns#longitude> "-1.558994" <http://www.carrepointu.com/points-de-vente> .
+_:node774b323cccd3f6826eb945be1c577f2a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:node774b323cccd3f6826eb945be1c577f2a <http://www.w3.org/2006/vcard/ns#latitude> "47.20455" <http://www.carrepointu.com/points-de-vente> .
+_:node774b323cccd3f6826eb945be1c577f2a <http://www.w3.org/2006/vcard/ns#longitude> "-1.536649" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9d3ba7812ed88b2ce68a7cd921a62f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9d3ba7812ed88b2ce68a7cd921a62f <http://www.w3.org/2006/vcard/ns#latitude> "47.214472" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9d3ba7812ed88b2ce68a7cd921a62f <http://www.w3.org/2006/vcard/ns#longitude> "-1.557583" <http://www.carrepointu.com/points-de-vente> .
+_:node2158aa6d975b112abd5e9da9a7ef367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:node2158aa6d975b112abd5e9da9a7ef367 <http://www.w3.org/2006/vcard/ns#latitude> "47.214473" <http://www.carrepointu.com/points-de-vente> .
+_:node2158aa6d975b112abd5e9da9a7ef367 <http://www.w3.org/2006/vcard/ns#longitude> "-1.557584" <http://www.carrepointu.com/points-de-vente> .
+_:node982dff10f52d196dd708f291b53490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:node982dff10f52d196dd708f291b53490 <http://www.w3.org/2006/vcard/ns#latitude> "47.2145390" <http://www.carrepointu.com/points-de-vente> .
+_:node982dff10f52d196dd708f291b53490 <http://www.w3.org/2006/vcard/ns#longitude> "-1.5573162" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb795a86cfed2f098138addc782224d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb795a86cfed2f098138addc782224d <http://www.w3.org/2006/vcard/ns#latitude> "47.2142" <http://www.carrepointu.com/points-de-vente> .
+_:nodeb795a86cfed2f098138addc782224d <http://www.w3.org/2006/vcard/ns#longitude> "-1.560786" <http://www.carrepointu.com/points-de-vente> .
+_:nodecfa428bcf8f1612b6142901313de8c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodecfa428bcf8f1612b6142901313de8c6 <http://www.w3.org/2006/vcard/ns#latitude> "47.995953" <http://www.carrepointu.com/points-de-vente> .
+_:nodecfa428bcf8f1612b6142901313de8c6 <http://www.w3.org/2006/vcard/ns#longitude> "-4.104187" <http://www.carrepointu.com/points-de-vente> .
+_:noded43e56b6bf6e8b97b4384873c4505d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:noded43e56b6bf6e8b97b4384873c4505d <http://www.w3.org/2006/vcard/ns#latitude> "48.110929" <http://www.carrepointu.com/points-de-vente> .
+_:noded43e56b6bf6e8b97b4384873c4505d <http://www.w3.org/2006/vcard/ns#longitude> "-1.679003" <http://www.carrepointu.com/points-de-vente> .
+_:node6866df011b055c58a6efaca2d7a136a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:node6866df011b055c58a6efaca2d7a136a <http://www.w3.org/2006/vcard/ns#latitude> "47.1604463" <http://www.carrepointu.com/points-de-vente> .
+_:node6866df011b055c58a6efaca2d7a136a <http://www.w3.org/2006/vcard/ns#longitude> "-1.5466518" <http://www.carrepointu.com/points-de-vente> .
+_:node722932389123811ded5f1cd5764d5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:node722932389123811ded5f1cd5764d5e <http://www.w3.org/2006/vcard/ns#latitude> "47.277608" <http://www.carrepointu.com/points-de-vente> .
+_:node722932389123811ded5f1cd5764d5e <http://www.w3.org/2006/vcard/ns#longitude> "-2.21291" <http://www.carrepointu.com/points-de-vente> .
+_:nodee9fa493aac74258bc5a43df872df17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.carrepointu.com/points-de-vente> .
+_:nodee9fa493aac74258bc5a43df872df17 <http://www.w3.org/2006/vcard/ns#latitude> "47.657625" <http://www.carrepointu.com/points-de-vente> .
+_:nodee9fa493aac74258bc5a43df872df17 <http://www.w3.org/2006/vcard/ns#longitude> "-2.75812" <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560518 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-carre-pointu-beaulieu> <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/2006/vcard/ns#adr> _:node8bbc79eb93115dee9ca12b525ae6e84 <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/2006/vcard/ns#tel> <tel:0240352795> <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/2006/vcard/ns#geo> _:nodeccc90a1b1fd1d1dbeccbcc95ca2529 <http://www.carrepointu.com/points-de-vente> .
+_:nodedaf55b7f8a6164d025c39cc3a60acba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560520 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-carre-pointu-decre> <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/2006/vcard/ns#adr> _:nodeb190bcdae6d89ace27a7c64484679ea5 <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/2006/vcard/ns#tel> <tel:0228440201> <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/2006/vcard/ns#geo> _:nodec7bd218381b2f959b2b28ad628e80 <http://www.carrepointu.com/points-de-vente> .
+_:nodef5b589827c925fc523b3db2ba66c7a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560521 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-carre-pointu-pommeraye> <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/2006/vcard/ns#adr> _:node7d56f76c09d0b52864488e3fc588d9 <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240482292> <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/2006/vcard/ns#geo> _:nodeed1b10cbbc927712d2b1cd0efafec97 <http://www.carrepointu.com/points-de-vente> .
+_:node4175892dd2d610da7573ae1104b2de7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560533 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-guzzi-beaulieu> <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/2006/vcard/ns#adr> _:node5760d6198961f427a5a62f156d972d6 <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/2006/vcard/ns#tel> <tel:0240478553> <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/2006/vcard/ns#geo> _:node774b323cccd3f6826eb945be1c577f2a <http://www.carrepointu.com/points-de-vente> .
+_:node7dda02850eef86aea6d797c6c58ef7a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560534 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560534 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-guzzi-rue-orleans> <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/2006/vcard/ns#adr> _:node81608b6595ba33b6c4686cb45e2cb5 <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240200291> <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/2006/vcard/ns#geo> _:nodeb9d3ba7812ed88b2ce68a7cd921a62f <http://www.carrepointu.com/points-de-vente> .
+_:node5767f72285c35256168127d9fd9888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560535 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-jb-martin> <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/2006/vcard/ns#adr> _:node42dd842871d77e5bdf4344f4713feb <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/2006/vcard/ns#tel> <tel:0251723256> <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/2006/vcard/ns#geo> _:node2158aa6d975b112abd5e9da9a7ef367 <http://www.carrepointu.com/points-de-vente> .
+_:noded3ced77b1bf6fccef283fd64495aeef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560536 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-mamzelle> <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/2006/vcard/ns#adr> _:node9a255fe1d293ebd97ea7c8f57ec8a39 <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240484919> <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/2006/vcard/ns#geo> _:node982dff10f52d196dd708f291b53490 <http://www.carrepointu.com/points-de-vente> .
+_:node7ab96c23a130d2f8181a6f66f2cb59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560537 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/nantes-mephisto> <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/2006/vcard/ns#adr> _:nodec13b1a3fc8492ec13f7c7361ff8b52a0 <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240697237> <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/2006/vcard/ns#geo> _:nodeb795a86cfed2f098138addc782224d <http://www.carrepointu.com/points-de-vente> .
+_:node816e19d23e197b9053e234212432ed90 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560538 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560538 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/quimper-guzzi> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/2006/vcard/ns#adr> _:node3ccbae5443fc7eaff074492389414dba <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/2006/vcard/ns#tel> <tel:0298957174> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/2006/vcard/ns#geo> _:nodecfa428bcf8f1612b6142901313de8c6 <http://www.carrepointu.com/points-de-vente> .
+_:nodeb64ffaef9fc0b51753bd675a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560539 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560539 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/rennes-geox> <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/2006/vcard/ns#adr> _:nodec747ad75ef3c88c1250b1b69f9f43b5 <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2099%2079%2005%2077> <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/2006/vcard/ns#geo> _:noded43e56b6bf6e8b97b4384873c4505d <http://www.carrepointu.com/points-de-vente> .
+_:nodef2151339a936ffb3787f96fd79f512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560540 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/reze-guzzi-oceane> <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/2006/vcard/ns#adr> _:node5908734b165fafe5ebc6596d51aafd7 <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240781486> <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/2006/vcard/ns#geo> _:node6866df011b055c58a6efaca2d7a136a <http://www.carrepointu.com/points-de-vente> .
+_:node57d0f0b61aea1fcea62afa6266f075a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560541 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560541 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/saint-nazaire-guzzi> <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/2006/vcard/ns#adr> _:nodeb3121dc7329ae1e91b5221e80ea69d0 <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/2006/vcard/ns#tel> <tel:0240190036> <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/2006/vcard/ns#geo> _:node722932389123811ded5f1cd5764d5e <http://www.carrepointu.com/points-de-vente> .
+_:node5a49dce5babca3bad1d68cdf8e23c78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1u7nex1560542 <http://www.carrepointu.com/points-de-vente> .
+_:node1b4n1u7nex1560542 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/2006/vcard/ns#url> <http://www.carrepointu.com/magasins-chaussures/vannes-geox> <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/2006/vcard/ns#adr> _:node9ea3989ec311f16c5c9814c34fdccf63 <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/2006/vcard/ns#tel> <tel:0297690153> <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/2006/vcard/ns#geo> _:nodee9fa493aac74258bc5a43df872df17 <http://www.carrepointu.com/points-de-vente> .
+_:nodea570c4656eaa11f6e3f6df44ed6af656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.carrepointu.com/points-de-vente> .
+_:nodebc639ee3b99f25013436081625978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodea392e8ab55cf882cdcc6c29a7a252166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodea392e8ab55cf882cdcc6c29a7a252166 <http://schema.org/PostalAddress/streetAddress> "Carr\u00E9 Pointu <http://www.carrepointu.com/points-de-vente> .
+Beaulieu"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodea392e8ab55cf882cdcc6c29a7a252166 <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodea392e8ab55cf882cdcc6c29a7a252166 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodebc639ee3b99f25013436081625978 <http://schema.org/LocalBusiness/address> _:nodea392e8ab55cf882cdcc6c29a7a252166 <http://www.carrepointu.com/points-de-vente> .
+_:nodebc639ee3b99f25013436081625978 <http://schema.org/LocalBusiness/name> "(44) Carr\u00E9 Pointu <http://www.carrepointu.com/points-de-vente> .
+Beaulieu"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodebc639ee3b99f25013436081625978 <http://schema.org/LocalBusiness/telephone> "0240352795"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodebc639ee3b99f25013436081625978 <http://www.carrepointu.com/points-de-vente> .
+_:node7dc5b035973f97bd66433a61aca10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodef7f97b598f8d39b1fb27dc3887cb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodef7f97b598f8d39b1fb27dc3887cb2 <http://schema.org/PostalAddress/streetAddress> "10, Place du Pilori"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodef7f97b598f8d39b1fb27dc3887cb2 <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodef7f97b598f8d39b1fb27dc3887cb2 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node7dc5b035973f97bd66433a61aca10 <http://schema.org/LocalBusiness/address> _:nodef7f97b598f8d39b1fb27dc3887cb2 <http://www.carrepointu.com/points-de-vente> .
+_:node7dc5b035973f97bd66433a61aca10 <http://schema.org/LocalBusiness/name> "(44) Carr\u00E9 Pointu <http://www.carrepointu.com/points-de-vente> .
+Decr\u00E9"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node7dc5b035973f97bd66433a61aca10 <http://schema.org/LocalBusiness/telephone> "0228440201"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:node7dc5b035973f97bd66433a61aca10 <http://www.carrepointu.com/points-de-vente> .
+_:node72bc3127eef84a671bf11584cd21c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:node6121758b7da2241efb8431ca09c76a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:node6121758b7da2241efb8431ca09c76a7 <http://schema.org/PostalAddress/streetAddress> "20 Rue de la Fosse"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node6121758b7da2241efb8431ca09c76a7 <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node6121758b7da2241efb8431ca09c76a7 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node72bc3127eef84a671bf11584cd21c6 <http://schema.org/LocalBusiness/address> _:node6121758b7da2241efb8431ca09c76a7 <http://www.carrepointu.com/points-de-vente> .
+_:node72bc3127eef84a671bf11584cd21c6 <http://schema.org/LocalBusiness/name> "(44) Carr\u00E9 Pointu <http://www.carrepointu.com/points-de-vente> .
+Pommeraye"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node72bc3127eef84a671bf11584cd21c6 <http://schema.org/LocalBusiness/telephone> "0240482292"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:node72bc3127eef84a671bf11584cd21c6 <http://www.carrepointu.com/points-de-vente> .
+_:nodee754af191329b09f19123d3baa8317b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb7b8d4313759b28b89e467c4cf672f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb7b8d4313759b28b89e467c4cf672f <http://schema.org/PostalAddress/streetAddress> "Guzzi <http://www.carrepointu.com/points-de-vente> .
+Beaulieu"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb7b8d4313759b28b89e467c4cf672f <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb7b8d4313759b28b89e467c4cf672f <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodee754af191329b09f19123d3baa8317b <http://schema.org/LocalBusiness/address> _:nodeb7b8d4313759b28b89e467c4cf672f <http://www.carrepointu.com/points-de-vente> .
+_:nodee754af191329b09f19123d3baa8317b <http://schema.org/LocalBusiness/name> "(44) Guzzi <http://www.carrepointu.com/points-de-vente> .
+Beaulieu"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodee754af191329b09f19123d3baa8317b <http://schema.org/LocalBusiness/telephone> "0240478553"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee754af191329b09f19123d3baa8317b <http://www.carrepointu.com/points-de-vente> .
+_:node29383951d6b22fe595beadfdf2b011db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodedcb824e447dacfcc41fa74838f81aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodedcb824e447dacfcc41fa74838f81aa <http://schema.org/PostalAddress/streetAddress> "13 Rue d\u2019Orl\u00E9ans"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodedcb824e447dacfcc41fa74838f81aa <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodedcb824e447dacfcc41fa74838f81aa <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node29383951d6b22fe595beadfdf2b011db <http://schema.org/LocalBusiness/address> _:nodedcb824e447dacfcc41fa74838f81aa <http://www.carrepointu.com/points-de-vente> .
+_:node29383951d6b22fe595beadfdf2b011db <http://schema.org/LocalBusiness/name> "(44) Guzzi <http://www.carrepointu.com/points-de-vente> .
+Rue d'Orl\u00E9ans"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node29383951d6b22fe595beadfdf2b011db <http://schema.org/LocalBusiness/telephone> "0240200291"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:node29383951d6b22fe595beadfdf2b011db <http://www.carrepointu.com/points-de-vente> .
+_:noded4f5bdc029f9593be9ab475ef360d565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:node3ef4147f3b22b44aec39319251cce99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:node3ef4147f3b22b44aec39319251cce99 <http://schema.org/PostalAddress/streetAddress> "13 Rue d\u2019Orl\u00E9ans"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node3ef4147f3b22b44aec39319251cce99 <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node3ef4147f3b22b44aec39319251cce99 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:noded4f5bdc029f9593be9ab475ef360d565 <http://schema.org/LocalBusiness/address> _:node3ef4147f3b22b44aec39319251cce99 <http://www.carrepointu.com/points-de-vente> .
+_:noded4f5bdc029f9593be9ab475ef360d565 <http://schema.org/LocalBusiness/name> "(44) JB Martin <http://www.carrepointu.com/points-de-vente> .
+Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:noded4f5bdc029f9593be9ab475ef360d565 <http://schema.org/LocalBusiness/telephone> "0251723256"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:noded4f5bdc029f9593be9ab475ef360d565 <http://www.carrepointu.com/points-de-vente> .
+_:nodeec6e37342f185e8825834e7f9af8152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:node46f3de705cc44823c82a5da026dad0f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:node46f3de705cc44823c82a5da026dad0f3 <http://schema.org/PostalAddress/streetAddress> "13 rue d'Orl\u00E9ans"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node46f3de705cc44823c82a5da026dad0f3 <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node46f3de705cc44823c82a5da026dad0f3 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeec6e37342f185e8825834e7f9af8152 <http://schema.org/LocalBusiness/address> _:node46f3de705cc44823c82a5da026dad0f3 <http://www.carrepointu.com/points-de-vente> .
+_:nodeec6e37342f185e8825834e7f9af8152 <http://schema.org/LocalBusiness/name> "(44) Mam'zelle"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeec6e37342f185e8825834e7f9af8152 <http://schema.org/LocalBusiness/telephone> "0240484919"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeec6e37342f185e8825834e7f9af8152 <http://www.carrepointu.com/points-de-vente> .
+_:node15ae6511718aecbaf12662e9a925a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb6df4091481d80cdf5229f626a15bbe4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb6df4091481d80cdf5229f626a15bbe4 <http://schema.org/PostalAddress/streetAddress> "4 Rue Scribe"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb6df4091481d80cdf5229f626a15bbe4 <http://schema.org/PostalAddress/postalCode> "44000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb6df4091481d80cdf5229f626a15bbe4 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node15ae6511718aecbaf12662e9a925a2 <http://schema.org/LocalBusiness/address> _:nodeb6df4091481d80cdf5229f626a15bbe4 <http://www.carrepointu.com/points-de-vente> .
+_:node15ae6511718aecbaf12662e9a925a2 <http://schema.org/LocalBusiness/name> "(44) Mephisto <http://www.carrepointu.com/points-de-vente> .
+Nantes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node15ae6511718aecbaf12662e9a925a2 <http://schema.org/LocalBusiness/telephone> "0240697237"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:node15ae6511718aecbaf12662e9a925a2 <http://www.carrepointu.com/points-de-vente> .
+_:node2f3eddd7c5903ce995aa4f199963465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:node6570ed728ce3cb74aa4450b43adf602b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:node6570ed728ce3cb74aa4450b43adf602b <http://schema.org/PostalAddress/streetAddress> "16 Rue Saint Fran\u00E7ois"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node6570ed728ce3cb74aa4450b43adf602b <http://schema.org/PostalAddress/postalCode> "29000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node6570ed728ce3cb74aa4450b43adf602b <http://schema.org/PostalAddress/addressLocality> "Quimper"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node2f3eddd7c5903ce995aa4f199963465 <http://schema.org/LocalBusiness/address> _:node6570ed728ce3cb74aa4450b43adf602b <http://www.carrepointu.com/points-de-vente> .
+_:node2f3eddd7c5903ce995aa4f199963465 <http://schema.org/LocalBusiness/name> "(29) Guzzi <http://www.carrepointu.com/points-de-vente> .
+Quimper"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node2f3eddd7c5903ce995aa4f199963465 <http://schema.org/LocalBusiness/telephone> "0298957174"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:node2f3eddd7c5903ce995aa4f199963465 <http://www.carrepointu.com/points-de-vente> .
+_:noded88b804fe34aecbc233d2b7be94a40cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodebdc999fec647bba4db34736ede889874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodebdc999fec647bba4db34736ede889874 <http://schema.org/PostalAddress/streetAddress> "2 Rue de Co\u00EBtquen"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodebdc999fec647bba4db34736ede889874 <http://schema.org/PostalAddress/postalCode> "35000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodebdc999fec647bba4db34736ede889874 <http://schema.org/PostalAddress/addressLocality> "Rennes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:noded88b804fe34aecbc233d2b7be94a40cb <http://schema.org/LocalBusiness/address> _:nodebdc999fec647bba4db34736ede889874 <http://www.carrepointu.com/points-de-vente> .
+_:noded88b804fe34aecbc233d2b7be94a40cb <http://schema.org/LocalBusiness/name> "(35) Geox <http://www.carrepointu.com/points-de-vente> .
+Rennes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:noded88b804fe34aecbc233d2b7be94a40cb <http://schema.org/LocalBusiness/telephone> "02 99 79 05 77"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:noded88b804fe34aecbc233d2b7be94a40cb <http://www.carrepointu.com/points-de-vente> .
+_:nodea0b3831bac4c4a4710a973554c52bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb5db97ffa907cad77fd59caa616 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodeb5db97ffa907cad77fd59caa616 <http://schema.org/PostalAddress/streetAddress> "10 Rond-Point de la Corbinerie"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb5db97ffa907cad77fd59caa616 <http://schema.org/PostalAddress/postalCode> "44412"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb5db97ffa907cad77fd59caa616 <http://schema.org/PostalAddress/addressLocality> "Rez\u00E9"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodea0b3831bac4c4a4710a973554c52bd <http://schema.org/LocalBusiness/address> _:nodeb5db97ffa907cad77fd59caa616 <http://www.carrepointu.com/points-de-vente> .
+_:nodea0b3831bac4c4a4710a973554c52bd <http://schema.org/LocalBusiness/name> "(44) Guzzi <http://www.carrepointu.com/points-de-vente> .
+Oc\u00E9ane"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodea0b3831bac4c4a4710a973554c52bd <http://schema.org/LocalBusiness/telephone> "0240781486"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodea0b3831bac4c4a4710a973554c52bd <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9234d8688309568626d244942bf25b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:node2610355502f6375f742c3ecdc4219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:node2610355502f6375f742c3ecdc4219 <http://schema.org/PostalAddress/streetAddress> "47-49 Rue de la R\u00E9publique"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node2610355502f6375f742c3ecdc4219 <http://schema.org/PostalAddress/postalCode> "44600"@fr <http://www.carrepointu.com/points-de-vente> .
+_:node2610355502f6375f742c3ecdc4219 <http://schema.org/PostalAddress/addressLocality> "Saint Nazaire"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9234d8688309568626d244942bf25b5 <http://schema.org/LocalBusiness/address> _:node2610355502f6375f742c3ecdc4219 <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9234d8688309568626d244942bf25b5 <http://schema.org/LocalBusiness/name> "(44) Guzzi <http://www.carrepointu.com/points-de-vente> .
+St Nazaire"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodeb9234d8688309568626d244942bf25b5 <http://schema.org/LocalBusiness/telephone> "0240190036"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb9234d8688309568626d244942bf25b5 <http://www.carrepointu.com/points-de-vente> .
+_:nodef6dc309ca9d17697362d65b0dd9f6533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.carrepointu.com/points-de-vente> .
+_:nodec52d4a1c799781823ef38a603967aea3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.carrepointu.com/points-de-vente> .
+_:nodec52d4a1c799781823ef38a603967aea3 <http://schema.org/PostalAddress/streetAddress> "6 Rue Salomon"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodec52d4a1c799781823ef38a603967aea3 <http://schema.org/PostalAddress/postalCode> "56000"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodec52d4a1c799781823ef38a603967aea3 <http://schema.org/PostalAddress/addressLocality> "Vannes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodef6dc309ca9d17697362d65b0dd9f6533 <http://schema.org/LocalBusiness/address> _:nodec52d4a1c799781823ef38a603967aea3 <http://www.carrepointu.com/points-de-vente> .
+_:nodef6dc309ca9d17697362d65b0dd9f6533 <http://schema.org/LocalBusiness/name> "(56) Geox <http://www.carrepointu.com/points-de-vente> .
+Vannes"@fr <http://www.carrepointu.com/points-de-vente> .
+_:nodef6dc309ca9d17697362d65b0dd9f6533 <http://schema.org/LocalBusiness/telephone> "0297690153"@fr <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef6dc309ca9d17697362d65b0dd9f6533 <http://www.carrepointu.com/points-de-vente> .
+<http://www.carrepointu.com/points-de-vente> <http://purl.org/dc/terms/title> "Les magasins de chaussures <http://www.carrepointu.com/points-de-vente> .
+Carr\u00E9 Pointu"@fr <http://www.carrepointu.com/points-de-vente> .

@@ -1,0 +1,31 @@
+_:node30f1639dbad8e9e831e1d83b3e35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node30f1639dbad8e9e831e1d83b3e35 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node30f1639dbad8e9e831e1d83b3e35 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+Nantes" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node30f1639dbad8e9e831e1d83b3e35 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node30f1639dbad8e9e831e1d83b3e35 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+Nantes" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1ps6nx106870760 <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m1ps6nx106870761 <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870761 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/2006/vcard/ns#adr> _:node30f1639dbad8e9e831e1d83b3e35 <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node8f3285a830744aacfb98f8a12e8a26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1ps6nx106870762 <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870762 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#org> _:node1b4m1ps6nx106870763 <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node1b4m1ps6nx106870763 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#email> <mailto:contact@greg-ludo.com> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#adr> _:node604b44a8891ce3ca87bdb3dc18cd51cd <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20350%20997> <http://www.sportcom.fr/sports-de-combat/taekwondo> .
+_:node9df2cd3c71d6f8a4117a178b8541fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/sports-de-combat/taekwondo> .

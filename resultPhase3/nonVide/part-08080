@@ -1,0 +1,43 @@
+_:node9bfeb95911667942ac5f7c4ee947d59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/532968.html> .
+_:node9bfeb95911667942ac5f7c4ee947d59 <http://www.w3.org/2006/vcard/ns#street-address> "3 Place Anatole France" <http://fr.nomao.com/532968.html> .
+_:node9bfeb95911667942ac5f7c4ee947d59 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/532968.html> .
+_:node9bfeb95911667942ac5f7c4ee947d59 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/532968.html> .
+_:node9bfeb95911667942ac5f7c4ee947d59 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/532968.html> .
+_:node68a18dd29bd0752332a5a074d2ade3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/532968.html> .
+_:node68a18dd29bd0752332a5a074d2ade3c <http://schema.org/ListItem/item> <http://fr.nomao.com/532968.html//> <http://fr.nomao.com/532968.html> .
+_:node68a18dd29bd0752332a5a074d2ade3c <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://schema.org/BreadcrumbList/itemListElement> _:node68a18dd29bd0752332a5a074d2ade3c <http://fr.nomao.com/532968.html> .
+_:node52dad9d5ee2c38a49e5155c7392f258f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/532968.html> .
+_:node52dad9d5ee2c38a49e5155c7392f258f <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/532968.html> .
+_:node52dad9d5ee2c38a49e5155c7392f258f <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://schema.org/BreadcrumbList/itemListElement> _:node52dad9d5ee2c38a49e5155c7392f258f <http://fr.nomao.com/532968.html> .
+_:node9e9812bf9ef14a88d26e9ac1674456b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/532968.html> .
+_:node9e9812bf9ef14a88d26e9ac1674456b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante.html> <http://fr.nomao.com/532968.html> .
+_:node9e9812bf9ef14a88d26e9ac1674456b <http://schema.org/ListItem/name> "Sant\u00E9 Nantes"@fr <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://schema.org/BreadcrumbList/itemListElement> _:node9e9812bf9ef14a88d26e9ac1674456b <http://fr.nomao.com/532968.html> .
+_:nodef3395fa9cd6cbbf4c9c91c1f182e2791 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/532968.html> .
+_:nodef3395fa9cd6cbbf4c9c91c1f182e2791 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante,etablissement.html> <http://fr.nomao.com/532968.html> .
+_:nodef3395fa9cd6cbbf4c9c91c1f182e2791 <http://schema.org/ListItem/name> "\u00C9tablissement Nantes"@fr <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://schema.org/BreadcrumbList/itemListElement> _:nodef3395fa9cd6cbbf4c9c91c1f182e2791 <http://fr.nomao.com/532968.html> .
+_:nodef523213eb66520a553ed707fb5b3786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/532968.html> .
+_:nodef523213eb66520a553ed707fb5b3786 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/medecine,hopital.html> <http://fr.nomao.com/532968.html> .
+_:nodef523213eb66520a553ed707fb5b3786 <http://schema.org/ListItem/name> "H\u00F4pital Nantes"@fr <http://fr.nomao.com/532968.html> .
+_:node377d937fd280e2e2f5fad0656f65f715 <http://schema.org/BreadcrumbList/itemListElement> _:nodef523213eb66520a553ed707fb5b3786 <http://fr.nomao.com/532968.html> .
+<http://fr.nomao.com/532968.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node377d937fd280e2e2f5fad0656f65f715 <http://fr.nomao.com/532968.html> .
+_:node2112d6fb6b8ab681fc84a9bff4c124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <http://fr.nomao.com/532968.html> .
+_:nodecfd8b414d738dadceeb75dd82592f29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/532968.html> .
+_:nodecfd8b414d738dadceeb75dd82592f29 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/532968.html> .
+_:nodecfd8b414d738dadceeb75dd82592f29 <http://schema.org/PostalAddress/streetAddress> "3 Place Anatole France"@fr <http://fr.nomao.com/532968.html> .
+_:nodecfd8b414d738dadceeb75dd82592f29 <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/532968.html> .
+_:nodecfd8b414d738dadceeb75dd82592f29 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/532968.html> .
+_:node2112d6fb6b8ab681fc84a9bff4c124 <http://schema.org/MedicalOrganization/address> _:nodecfd8b414d738dadceeb75dd82592f29 <http://fr.nomao.com/532968.html> .
+_:node2112d6fb6b8ab681fc84a9bff4c124 <http://schema.org/MedicalOrganization/name> "Clinique Sourdille"@fr <http://fr.nomao.com/532968.html> .
+_:node2112d6fb6b8ab681fc84a9bff4c124 <http://schema.org/MedicalOrganization/logo> "http://static.nomao.com/img/v4/5085886_spot.png"@fr <http://fr.nomao.com/532968.html> .
+_:node2112d6fb6b8ab681fc84a9bff4c124 <http://schema.org/MedicalOrganization/url> "http://fr.nomao.com/532968.html"@fr <http://fr.nomao.com/532968.html> .
+<http://fr.nomao.com/532968.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node2112d6fb6b8ab681fc84a9bff4c124 <http://fr.nomao.com/532968.html> .
+<http://fr.nomao.com/532968.html> <http://purl.org/dc/terms/title> "Clinique Sourdille <http://fr.nomao.com/532968.html> .
+H\u00F4pital, <http://fr.nomao.com/532968.html> .
+Place Anatole France, Nantes <http://fr.nomao.com/532968.html> .
+Chirurgie esth\u00E9tique <http://fr.nomao.com/532968.html> .
+Nomao"@fr <http://fr.nomao.com/532968.html> .

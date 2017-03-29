@@ -1,0 +1,37 @@
+_:nodefb72a43db463c0dcef326d58ebab5eba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodefb72a43db463c0dcef326d58ebab5eba <http://www.w3.org/2006/vcard/ns#street-address> "18, Allee Baco" <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodefb72a43db463c0dcef326d58ebab5eba <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodefb72a43db463c0dcef326d58ebab5eba <http://www.w3.org/2006/vcard/ns#country-name> "France" <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodefb72a43db463c0dcef326d58ebab5eba <http://www.w3.org/2006/vcard/ns#postal-code> "France" <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodee2b121a15dbd7285e8634cb128ef7936 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lv8k74x118321425 <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node1b4lv8k74x118321425 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodee2b121a15dbd7285e8634cb128ef7936 <http://www.w3.org/2006/vcard/ns#adr> _:nodefb72a43db463c0dcef326d58ebab5eba <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:nodee2b121a15dbd7285e8634cb128ef7936 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node3ee2afaeb50cdddc5e4a32411596e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node3ee2afaeb50cdddc5e4a32411596e1 <http://schema.org/PostalAddress/addressCountry> "France"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node3ee2afaeb50cdddc5e4a32411596e1 <http://schema.org/PostalAddress/streetAddress> "18, Allee Baco"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node3ee2afaeb50cdddc5e4a32411596e1 <http://schema.org/PostalAddress/postalCode> "France"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+_:node3ee2afaeb50cdddc5e4a32411596e1 <http://schema.org/PostalAddress/addressLocality> "\n <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+ <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+Nantes <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+ <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://www.w3.org/1999/xhtml/microdata#item> _:node3ee2afaeb50cdddc5e4a32411596e1 <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#site_name> "Taylor Guitars"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#type> "website"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#url> "https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#title> "Michenaud"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#description> "The Taylor Guitars Road Show is all about guitars, giving you <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+chance to talk shop with our team from the Taylor factory. Whether you're new to Taylor, <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+longtime Taylor owner, or thinking about getting your first guitar, we think you'll find our Road Show <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+fun, informative event."@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://ogp.me/ns#image> "https://www.taylorguitars.com/sites/default/files/tg-logo-red-2x.jpg"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Item> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://purl.org/dc/terms/title> "Michenaud"@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://purl.org/dc/terms/date> "2013-06-18T18:00:00-07:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+<https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> <http://purl.org/rss/1.0/modules/content/encoded> "The Taylor Guitars Road Show is all about guitars, giving you <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+chance to talk shop with our team from the Taylor factory. Whether you're new to Taylor, <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+longtime Taylor owner, or thinking about getting your first guitar, we think you'll find our Road Show <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .
+fun, informative event."@en <https://www.taylorguitars.com/events/road-show/2013/06/18/michenaud> .

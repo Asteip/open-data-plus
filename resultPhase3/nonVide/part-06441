@@ -1,0 +1,39 @@
+_:nodefa7fab333eeb6332960168c52701e29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodefa7fab333eeb6332960168c52701e29 <http://www.w3.org/2006/vcard/ns#street-address> "Rue Ga\u00EBtan Rondeau" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodefa7fab333eeb6332960168c52701e29 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodefa7fab333eeb6332960168c52701e29 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodefa7fab333eeb6332960168c52701e29 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node9e1bc42d74d98492bae5c329e3a59148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node9e1bc42d74d98492bae5c329e3a59148 <http://www.w3.org/2006/vcard/ns#latitude> "47.2066435" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node9e1bc42d74d98492bae5c329e3a59148 <http://www.w3.org/2006/vcard/ns#longitude> "-1.5340163" <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/addressCountry> "France"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/paymentAccepted> "cash and credit cards"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node3b3e35c4294c486a2bdc42af779925d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgPostalAddress> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/address> _:node3b3e35c4294c486a2bdc42af779925d2 <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/postalCode> "44000"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/latitude> "47.2066435"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/description> "idecoupon.com est le site web sp\u00E9cialiste de bons de remises et codes avantages, ce site vous offre toute la possibilit\u00E9 d'acheter moins cher en utilisant des coupons de r\u00E9ductions et bons de remises. Trouvez sur le site idecoupon.com les meilleurs codes avantages et coupons valides"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/telephone> "+33 76959 8713"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/url> "http://www.idecoupon.com"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node6c3f47a986c4505377d2af209fd18519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgGeoCoordinates> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/geo> _:node6c3f47a986c4505377d2af209fd18519 <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/streetAddress> "Rue Ga\u00EBtan Rondeau "@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/name> "idecoupon"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/addressLocality> "Nantes"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/priceRange> "\u20AC"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodeaa615166249b955c59556b4a21711b10 <http://schema.org/LocalBusiness/longitude> "-1.5340163"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+<http://www.ratemyarea.com/places/idecoupon-244458> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeaa615166249b955c59556b4a21711b10 <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:nodedec5bb38a22a067efd5126396acace8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/idecoupon-244458> .
+<http://www.ratemyarea.com/places/idecoupon-244458> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedec5bb38a22a067efd5126396acace8 <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node84efea1d1177268ab4bee14130dc4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node84efea1d1177268ab4bee14130dc4e <http://data-vocabulary.org/Breadcrumb/title> "Shopping"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node84efea1d1177268ab4bee14130dc4e <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/idecoupon-244458//categories/shopping-189> <http://www.ratemyarea.com/places/idecoupon-244458> .
+<http://www.ratemyarea.com/places/idecoupon-244458> <http://www.w3.org/1999/xhtml/microdata#item> _:node84efea1d1177268ab4bee14130dc4e <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node6ee0917e226e9c2332b4f4ac34fae48d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node6ee0917e226e9c2332b4f4ac34fae48d <http://data-vocabulary.org/Breadcrumb/title> "Adult Shops"@en <http://www.ratemyarea.com/places/idecoupon-244458> .
+_:node6ee0917e226e9c2332b4f4ac34fae48d <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/idecoupon-244458//categories/adult-shops-439> <http://www.ratemyarea.com/places/idecoupon-244458> .
+<http://www.ratemyarea.com/places/idecoupon-244458> <http://www.w3.org/1999/xhtml/microdata#item> _:node6ee0917e226e9c2332b4f4ac34fae48d <http://www.ratemyarea.com/places/idecoupon-244458> .
+<http://www.ratemyarea.com/places/idecoupon-244458> <http://purl.org/dc/terms/title> "\nidecoupon <http://www.ratemyarea.com/places/idecoupon-244458> .
+Adult Shops <http://www.ratemyarea.com/places/idecoupon-244458> .
+Rate My Area\n"@en <http://www.ratemyarea.com/places/idecoupon-244458> .

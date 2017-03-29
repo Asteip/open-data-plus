@@ -1,0 +1,103 @@
+_:nodef5d428d1499e1ce91c261df59ca13f8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef5d428d1499e1ce91c261df59ca13f8b <http://www.w3.org/2006/vcard/ns#street-address> "47 avenue Pasteur" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef5d428d1499e1ce91c261df59ca13f8b <http://www.w3.org/2006/vcard/ns#locality> "Montreuil" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef5d428d1499e1ce91c261df59ca13f8b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef5d428d1499e1ce91c261df59ca13f8b <http://www.w3.org/2006/vcard/ns#postal-code> "93100" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodebedcc30a361f1e347de91fb2a1c6d <http://www.w3.org/2006/vcard/ns#fn> "Survie 44" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodebedcc30a361f1e347de91fb2a1c6d <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300230 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300230 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300230 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300230 <http://www.w3.org/2006/vcard/ns#family-name> "44" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodebedcc30a361f1e347de91fb2a1c6d <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie-44> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodebedcc30a361f1e347de91fb2a1c6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node7b117a8b68dedd8bf71a2483b64f <http://www.w3.org/2006/vcard/ns#fn> "Odile Tobner" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node7b117a8b68dedd8bf71a2483b64f <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300231 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300231 <http://www.w3.org/2006/vcard/ns#given-name> "Odile" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300231 <http://www.w3.org/2006/vcard/ns#family-name> "Tobner" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node7b117a8b68dedd8bf71a2483b64f <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/odile-tobner> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node7b117a8b68dedd8bf71a2483b64f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:noded5c88ae6c9d3c6e6d7b42cc7c4527a3 <http://www.w3.org/2006/vcard/ns#fn> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:noded5c88ae6c9d3c6e6d7b42cc7c4527a3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300232 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300232 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300232 <http://www.w3.org/2006/vcard/ns#family-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:noded5c88ae6c9d3c6e6d7b42cc7c4527a3 <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:noded5c88ae6c9d3c6e6d7b42cc7c4527a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node99ef509a45283f922ea076cb99b799ee <http://www.w3.org/2006/vcard/ns#fn> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node99ef509a45283f922ea076cb99b799ee <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300233 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300233 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300233 <http://www.w3.org/2006/vcard/ns#family-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node99ef509a45283f922ea076cb99b799ee <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node99ef509a45283f922ea076cb99b799ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node68ee45b96b9e5107aceee6154244aff <http://www.w3.org/2006/vcard/ns#fn> "Julien Moisan" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node68ee45b96b9e5107aceee6154244aff <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300234 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300234 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300234 <http://www.w3.org/2006/vcard/ns#given-name> "Julien" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300234 <http://www.w3.org/2006/vcard/ns#family-name> "Moisan" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node68ee45b96b9e5107aceee6154244aff <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/julien-moisan> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node68ee45b96b9e5107aceee6154244aff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node35a31be082fed4e6ae9e3df3f65195ec <http://www.w3.org/2006/vcard/ns#fn> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node35a31be082fed4e6ae9e3df3f65195ec <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300235 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300235 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300235 <http://www.w3.org/2006/vcard/ns#family-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node35a31be082fed4e6ae9e3df3f65195ec <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node35a31be082fed4e6ae9e3df3f65195ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node4caec79a0387ff48a90df36d4e64bff <http://www.w3.org/2006/vcard/ns#fn> "Fran\u00E7ois-Xavier Verschave" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node4caec79a0387ff48a90df36d4e64bff <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300236 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300236 <http://www.w3.org/2006/vcard/ns#given-name> "Fran\u00E7ois-Xavier" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300236 <http://www.w3.org/2006/vcard/ns#family-name> "Verschave" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node4caec79a0387ff48a90df36d4e64bff <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/francois-xavier-verschave> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node4caec79a0387ff48a90df36d4e64bff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node6a4dbd23d543fb67889c314dabb15a <http://www.w3.org/2006/vcard/ns#fn> "Oxfam France <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+Agir Ici" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node6a4dbd23d543fb67889c314dabb15a <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300237 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300237 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300237 <http://www.w3.org/2006/vcard/ns#given-name> "Oxfam" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300237 <http://www.w3.org/2006/vcard/ns#family-name> "Ici" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node6a4dbd23d543fb67889c314dabb15a <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/oxfam-france-agir-ici> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node6a4dbd23d543fb67889c314dabb15a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef321373659a1c7fadca34c87b2caa42 <http://www.w3.org/2006/vcard/ns#fn> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef321373659a1c7fadca34c87b2caa42 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300238 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300238 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300238 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300238 <http://www.w3.org/2006/vcard/ns#family-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef321373659a1c7fadca34c87b2caa42 <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodef321373659a1c7fadca34c87b2caa42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodec5743a1dc71386c90323850789cc42a <http://www.w3.org/2006/vcard/ns#fn> "Oxfam France <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+Agir Ici" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodec5743a1dc71386c90323850789cc42a <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300239 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300239 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300239 <http://www.w3.org/2006/vcard/ns#given-name> "Oxfam" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300239 <http://www.w3.org/2006/vcard/ns#family-name> "Ici" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodec5743a1dc71386c90323850789cc42a <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/oxfam-france-agir-ici> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:nodec5743a1dc71386c90323850789cc42a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node44c64b1418ef7d249b7724d9556b8b <http://www.w3.org/2006/vcard/ns#fn> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node44c64b1418ef7d249b7724d9556b8b <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300240 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300240 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300240 <http://www.w3.org/2006/vcard/ns#family-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node44c64b1418ef7d249b7724d9556b8b <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/francafrique/tchad/article/auteur/survie> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node44c64b1418ef7d249b7724d9556b8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#fn> "Survie France" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltna17x35300241 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300241 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300241 <http://www.w3.org/2006/vcard/ns#given-name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300241 <http://www.w3.org/2006/vcard/ns#family-name> "France" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#org> _:node1b4ltna17x35300242 <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node1b4ltna17x35300242 <http://www.w3.org/2006/vcard/ns#organization-name> "Survie France" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#url> <http://survie.org/> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#adr> _:nodef5d428d1499e1ce91c261df59ca13f8b <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/2006/vcard/ns#tel> <tel:(+33)1%2044%2061%2003%2025> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+_:node3f305b55526b7d9cf16e9ea63c3f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#site_name> "Survie" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#locale> "fr_FR" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#title> "Delphine Djira\u00EFbe <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+interview n\u00B02" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#url> "http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#image> "http://survie.org/IMG/arton3409.jpg?1380810835" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .
+<http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> <http://ogp.me/ns#description> "Lundi 13 novembre 2006 Nous avons interrog\u00E9 Delphine Djira\u00EFbe lors de sa venue \u00E0 Nantes le 14.11.2006. Elle est coordinatrice du comit\u00E9 de suivi de (...)" <http://survie.org/francafrique/tchad/article/delphine-djiraibe-interview-no2> .

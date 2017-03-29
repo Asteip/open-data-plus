@@ -1,0 +1,33 @@
+_:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://www.w3.org/2006/vcard/ns#street-address> "11, rue de Bel-Air" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://www.w3.org/2006/vcard/ns#postal-code> "(44000)" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node6b093a861b6c081585f47f47136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node6b093a861b6c081585f47f47136 <http://www.w3.org/2006/vcard/ns#latitude> "47.2210517" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node6b093a861b6c081585f47f47136 <http://www.w3.org/2006/vcard/ns#longitude> "-1.5591745" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#fn> "Restaurant Les Bouteilles" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#n> _:node1b4m37235x76481532 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node1b4m37235x76481532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node1b4m37235x76481532 <http://www.w3.org/2006/vcard/ns#given-name> "Restaurant" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node1b4m37235x76481532 <http://www.w3.org/2006/vcard/ns#family-name> "Bouteilles" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#org> _:node1b4m37235x76481533 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node1b4m37235x76481533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node1b4m37235x76481533 <http://www.w3.org/2006/vcard/ns#organization-name> "Restaurant Les Bouteilles" <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#adr> _:nodec9c8b2dc6c509c8774303a84c3d33d64 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%202%2040%2008%2027%2065> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/2006/vcard/ns#geo> _:node6b093a861b6c081585f47f47136 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef083805c92693ecd8e19ed4eb9fbf3da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef78adf7af4a31be96a8e8acdc673544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node964a8fa42c9e89f22d7e95c7323429dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node964a8fa42c9e89f22d7e95c7323429dc <http://schema.org/PostalAddress/addressCountry> "France"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node964a8fa42c9e89f22d7e95c7323429dc <http://schema.org/PostalAddress/streetAddress> "11, rue de Bel-Air "@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node964a8fa42c9e89f22d7e95c7323429dc <http://schema.org/PostalAddress/postalCode> "(44000)"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:node964a8fa42c9e89f22d7e95c7323429dc <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef78adf7af4a31be96a8e8acdc673544 <http://schema.org/Organization/address> _:node964a8fa42c9e89f22d7e95c7323429dc <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef78adf7af4a31be96a8e8acdc673544 <http://schema.org/Organization/name> "Restaurant Les Bouteilles"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+_:nodef78adf7af4a31be96a8e8acdc673544 <http://schema.org/Organization/telephone> "T\u00C9L\u00A0: +33 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+40 08 27 65"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+<http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef78adf7af4a31be96a8e8acdc673544 <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+<http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> <http://purl.org/dc/terms/title> "Restaurant Les Bouteilles \u00E0 Nantes <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .
+Le Fooding\u00AE"@fr <http://lefooding.com/fr/restaurants/restaurant-les-bouteilles-nantes> .

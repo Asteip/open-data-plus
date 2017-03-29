@@ -1,0 +1,28 @@
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/2006/vcard/ns#street-address> "4, rue Frederic Cailliaud" <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1bedba25311e9b54937bd8746a37017 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node8936b7a5d086d1ed7b10d64a543ebeda <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx128569437 <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node1b4m3r38sx128569437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node8936b7a5d086d1ed7b10d64a543ebeda <http://www.w3.org/2006/vcard/ns#adr> _:node1bedba25311e9b54937bd8746a37017 <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node8936b7a5d086d1ed7b10d64a543ebeda <http://www.w3.org/2006/vcard/ns#tel> <tel:02.51.72.01.01> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node8936b7a5d086d1ed7b10d64a543ebeda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://schema.org/PostalAddress/streetAddress> "4, rue Frederic Cailliaud"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://schema.org/PostalAddress/postalCode> "44000"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://schema.org/PostalAddress/telephone> "02.51.72.01.01"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+_:node9b323298658bfb7372f67be89cf7d13 <http://schema.org/PostalAddress/addressLocality> "\n <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+ <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+Nantes <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+ <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> <http://www.w3.org/1999/xhtml/microdata#item> _:node9b323298658bfb7372f67be89cf7d13 <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> <http://purl.org/dc/terms/title> "Nuit du Jazz <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+Europe Jazz Network"@en <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/sites/default/files/ejn.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/festival/Image> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/festival/ItemItem> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/festival/Document> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .
+<http://www.europejazz.net/sites/default/files/nuits-du-jazz.jpeg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/festival/Image> <http://www.europejazz.net/jazz-pages/festival/nuit-du-jazz> .

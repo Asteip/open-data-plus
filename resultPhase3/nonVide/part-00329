@@ -1,0 +1,39 @@
+_:node396a473beba36c7d6544d4d9ce9d30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ratemyarea.com/places/portabela-245194> .
+_:node396a473beba36c7d6544d4d9ce9d30 <http://www.w3.org/2006/vcard/ns#street-address> "91 Boulevard Pierre de Coubertin" <http://www.ratemyarea.com/places/portabela-245194> .
+_:node396a473beba36c7d6544d4d9ce9d30 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.ratemyarea.com/places/portabela-245194> .
+_:node396a473beba36c7d6544d4d9ce9d30 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ratemyarea.com/places/portabela-245194> .
+_:node396a473beba36c7d6544d4d9ce9d30 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodeca73972ed7f429723e1f78a1d41ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodeca73972ed7f429723e1f78a1d41ffd <http://www.w3.org/2006/vcard/ns#latitude> "47.2310809" <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodeca73972ed7f429723e1f78a1d41ffd <http://www.w3.org/2006/vcard/ns#longitude> "-1.591978" <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/addressCountry> "France"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/paymentAccepted> "cash and credit cards"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodefbc0dbba9b91a479db987cce551b9cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgPostalAddress> <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/address> _:nodefbc0dbba9b91a479db987cce551b9cf <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/postalCode> "44100 "@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/latitude> "47.2310809"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/description> "portabela.fr est un annuaire de recherches invers\u00E9es pour les num\u00E9ros de t\u00E9l qui va vous guider vers le propri\u00E9taire de vos num\u00E9ros de t\u00E9l\u00E9phones anonymes Veuillez retrouver sur l'annuaire le nom de votre correspondant qui essaie sans cesse de vous appeler sans divulguer son identit\u00E9 Annuaire gratuit de t\u00E9l,num\u00E9ro fixe,recherche inverse"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/telephone> "+33 79125 9910"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/url> "http://www.portabela.fr"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:node43bce5b47e7fc23bdb5ae5969cffb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgGeoCoordinates> <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/geo> _:node43bce5b47e7fc23bdb5ae5969cffb7 <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/streetAddress> "91 Boulevard Pierre de Coubertin "@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/name> "portabela"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/addressLocality> "Nantes "@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/priceRange> "\u20AC\u20AC"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://schema.org/LocalBusiness/longitude> "-1.591978"@en <http://www.ratemyarea.com/places/portabela-245194> .
+<http://www.ratemyarea.com/places/portabela-245194> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef9f55c77b8890e08ee2f2d7e217a2d7 <http://www.ratemyarea.com/places/portabela-245194> .
+_:node4771584cd4d49344e5711ae1d225e888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/portabela-245194> .
+<http://www.ratemyarea.com/places/portabela-245194> <http://www.w3.org/1999/xhtml/microdata#item> _:node4771584cd4d49344e5711ae1d225e888 <http://www.ratemyarea.com/places/portabela-245194> .
+_:node6217ed50cb384e741387c95c675cc85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/portabela-245194> .
+_:node6217ed50cb384e741387c95c675cc85 <http://data-vocabulary.org/Breadcrumb/title> "Accommodation"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:node6217ed50cb384e741387c95c675cc85 <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/portabela-245194//categories/accommodation-1> <http://www.ratemyarea.com/places/portabela-245194> .
+<http://www.ratemyarea.com/places/portabela-245194> <http://www.w3.org/1999/xhtml/microdata#item> _:node6217ed50cb384e741387c95c675cc85 <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodefd54785c4bccbe81d66aff8bdce8b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodefd54785c4bccbe81d66aff8bdce8b5 <http://data-vocabulary.org/Breadcrumb/title> "1 Star Hotels"@en <http://www.ratemyarea.com/places/portabela-245194> .
+_:nodefd54785c4bccbe81d66aff8bdce8b5 <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/portabela-245194//categories/1-star-hotels-405> <http://www.ratemyarea.com/places/portabela-245194> .
+<http://www.ratemyarea.com/places/portabela-245194> <http://www.w3.org/1999/xhtml/microdata#item> _:nodefd54785c4bccbe81d66aff8bdce8b5 <http://www.ratemyarea.com/places/portabela-245194> .
+<http://www.ratemyarea.com/places/portabela-245194> <http://purl.org/dc/terms/title> "\nportabela <http://www.ratemyarea.com/places/portabela-245194> .
+1 Star Hotels <http://www.ratemyarea.com/places/portabela-245194> .
+Rate My Area\n"@en <http://www.ratemyarea.com/places/portabela-245194> .

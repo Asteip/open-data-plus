@@ -1,0 +1,4 @@
+_:node8dd2178b877bd72edda18f461c1d91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tripadvisor.cn/Hotel_Review-g187198-d660575-Reviews-B_B_Hotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node8dd2178b877bd72edda18f461c1d91 <http://www.w3.org/2006/vcard/ns#street-address> "10 Place Viarme" <http://www.tripadvisor.cn/Hotel_Review-g187198-d660575-Reviews-B_B_Hotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node8dd2178b877bd72edda18f461c1d91 <http://www.w3.org/2006/vcard/ns#locality> "44000, Nantes," <http://www.tripadvisor.cn/Hotel_Review-g187198-d660575-Reviews-B_B_Hotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node8dd2178b877bd72edda18f461c1d91 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tripadvisor.cn/Hotel_Review-g187198-d660575-Reviews-B_B_Hotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .

@@ -1,0 +1,15 @@
+_:nodea176b013bdbf5fd6f9bfea1a4a32649 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodea176b013bdbf5fd6f9bfea1a4a32649 <http://www.w3.org/2006/vcard/ns#street-address> "4, rue le brun" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodea176b013bdbf5fd6f9bfea1a4a32649 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodea176b013bdbf5fd6f9bfea1a4a32649 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodeb3c6fb92a7be99d4b0ec5f9b6840c021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodeb3c6fb92a7be99d4b0ec5f9b6840c021 <http://www.w3.org/2006/vcard/ns#latitude> "47.218371" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:nodeb3c6fb92a7be99d4b0ec5f9b6840c021 <http://www.w3.org/2006/vcard/ns#longitude> "-1.553621" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node4acaae3aa65233c5d3ae9fe3bf89a3ac <http://www.w3.org/2006/vcard/ns#fn> "La maison" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node4acaae3aa65233c5d3ae9fe3bf89a3ac <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dnjnx28105419 <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node1b4m4dnjnx28105419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node1b4m4dnjnx28105419 <http://www.w3.org/2006/vcard/ns#given-name> "La" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node1b4m4dnjnx28105419 <http://www.w3.org/2006/vcard/ns#family-name> "maison" <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node4acaae3aa65233c5d3ae9fe3bf89a3ac <http://www.w3.org/2006/vcard/ns#adr> _:nodea176b013bdbf5fd6f9bfea1a4a32649 <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node4acaae3aa65233c5d3ae9fe3bf89a3ac <http://www.w3.org/2006/vcard/ns#geo> _:nodeb3c6fb92a7be99d4b0ec5f9b6840c021 <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .
+_:node4acaae3aa65233c5d3ae9fe3bf89a3ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.esn-nantes.org/event/premier-caf%C3%A9-polyglotte> .

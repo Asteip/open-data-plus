@@ -1,0 +1,29 @@
+_:noded7d694f5e54acc9d4ee99d6495464b8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.slideshare.net/Manuel_mc> .
+_:noded7d694f5e54acc9d4ee99d6495464b8f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#fn> "Manuel Can\u00E9vet" <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m373kcx74037628 <http://www.slideshare.net/Manuel_mc> .
+_:node1b4m373kcx74037628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.slideshare.net/Manuel_mc> .
+_:node1b4m373kcx74037628 <http://www.w3.org/2006/vcard/ns#given-name> "Manuel" <http://www.slideshare.net/Manuel_mc> .
+_:node1b4m373kcx74037628 <http://www.w3.org/2006/vcard/ns#family-name> "Can\u00E9vet" <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#url> <http://www.campuscommunication.fr> <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#photo> <http://cdn.slidesharecdn.com/profile-photo-Manuel_mc-96x96.jpg?cb=1476871402> <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#adr> _:noded7d694f5e54acc9d4ee99d6495464b8f <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/2006/vcard/ns#role> "Consultant Enseignement Sup\u00E9rieur, Strat\u00E9gie, Communication, Web." <http://www.slideshare.net/Manuel_mc> .
+_:node4b5cec2ea0ddb5319d935372a3485072 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/image> <http://www.slideshare.net/Manuel_mc///cdn.slidesharecdn.com/profile-photo-Manuel_mc-96x96.jpg?cb=1476871402> <http://www.slideshare.net/Manuel_mc> .
+_:nodecb649aa5f2577fcef9e2d14cad56e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.slideshare.net/Manuel_mc> .
+_:nodecb649aa5f2577fcef9e2d14cad56e9 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.slideshare.net/Manuel_mc> .
+_:nodecb649aa5f2577fcef9e2d14cad56e9 <http://schema.org/PostalAddress/addressLocality> "Nantes Area, France"@en <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/address> _:nodecb649aa5f2577fcef9e2d14cad56e9 <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/jobTitle> "Consultant Enseignement Sup\u00E9rieur, Strat\u00E9gie, Communication, Web."@en <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/name> "\n <http://www.slideshare.net/Manuel_mc> .
+ <http://www.slideshare.net/Manuel_mc> .
+Manuel Can\u00E9vet\n <http://www.slideshare.net/Manuel_mc> .
+ "@en <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/description> "Consultant ind\u00E9pendant j\u2019accompagne les \u00E9tablissements enseignement sup\u00E9rieur et recherche, les collectivit\u00E9s et entreprises. <http://www.slideshare.net/Manuel_mc> .
+ \n\nJ\u2019ai auparavant \u00E9t\u00E9 Directeur associ\u00E9 de Campus Communication que j\u2019ai co-fond\u00E9 en 2008 apr\u00E8s un parcours professionnel marqu\u00E9 par l\u2019enseignement sup\u00E9rieur et la conviction qu\u2019universit\u00E9s et \u00E9coles fran\u00E7aises ont \u00E9normement d\u2019atouts pour rayonner. \n\nJ\u2019aime les probl\u00E9matiques complexes qui n\u00E9cessitent de sortir des sentiers battus et qui nous forcent \u00E0 \u00EAtre cr\u00E9atifs. Le web est pour cela un tr\u00E8s bon terrain de jeu. \n\nJ\u2019accompagne et je conseille les clients de l\u2019agence sur leurs probl\u00E9matiques d\u2019image, sur les questions de strat\u00E9gie de communication et sur leur..."@en <http://www.slideshare.net/Manuel_mc> .
+_:node621e02b181eccc2807aee1273798180 <http://schema.org/Person/url> <http://www.campuscommunication.fr> <http://www.slideshare.net/Manuel_mc> .
+<http://www.slideshare.net/Manuel_mc> <http://www.w3.org/1999/xhtml/microdata#item> _:node621e02b181eccc2807aee1273798180 <http://www.slideshare.net/Manuel_mc> .
+<http://www.slideshare.net/Manuel_mc> <http://purl.org/dc/terms/title> "Manuel Can\u00E9vet presentations <http://www.slideshare.net/Manuel_mc> .
+SlideShare"@en <http://www.slideshare.net/Manuel_mc> .

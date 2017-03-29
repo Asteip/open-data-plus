@@ -1,0 +1,6 @@
+_:node938da4383cbb3209089631147e05b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node938da4383cbb3209089631147e05b <http://www.w3.org/2006/vcard/ns#street-address> "7 <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+rue de <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+Hotellerie" <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node938da4383cbb3209089631147e05b <http://www.w3.org/2006/vcard/ns#locality> "44470 Carquefou, Nantes," <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
+_:node938da4383cbb3209089631147e05b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tripadvisor.cn/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .

@@ -1,0 +1,40 @@
+_:node2040a82996157c9ddf86a94ae23a4015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/2155033.html> .
+_:node2040a82996157c9ddf86a94ae23a4015 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/2155033.html> .
+_:node1e5994908cc53d6d20dd61dad6aef59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:node1e5994908cc53d6d20dd61dad6aef59 <http://schema.org/ListItem/item> <http://fr.nomao.com/2155033.html//> <http://fr.nomao.com/2155033.html> .
+_:node1e5994908cc53d6d20dd61dad6aef59 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:node1e5994908cc53d6d20dd61dad6aef59 <http://fr.nomao.com/2155033.html> .
+_:node835dac172f1cc9dca140677d15a1591b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:node835dac172f1cc9dca140677d15a1591b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/2155033.html> .
+_:node835dac172f1cc9dca140677d15a1591b <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:node835dac172f1cc9dca140677d15a1591b <http://fr.nomao.com/2155033.html> .
+_:node1af2feef30557aba3ac233692352747d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:node1af2feef30557aba3ac233692352747d <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante.html> <http://fr.nomao.com/2155033.html> .
+_:node1af2feef30557aba3ac233692352747d <http://schema.org/ListItem/name> "Sant\u00E9 Nantes"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:node1af2feef30557aba3ac233692352747d <http://fr.nomao.com/2155033.html> .
+_:nodebe4133e3767236a0a8875d29e533b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:nodebe4133e3767236a0a8875d29e533b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/medecin.html> <http://fr.nomao.com/2155033.html> .
+_:nodebe4133e3767236a0a8875d29e533b <http://schema.org/ListItem/name> "M\u00E9decin Nantes"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:nodebe4133e3767236a0a8875d29e533b <http://fr.nomao.com/2155033.html> .
+_:node159725ec7aafcf74be8c4d37e0ce23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:node159725ec7aafcf74be8c4d37e0ce23 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/maison,bricolage,specialiste.html> <http://fr.nomao.com/2155033.html> .
+_:node159725ec7aafcf74be8c4d37e0ce23 <http://schema.org/ListItem/name> "Sp\u00E9cialiste Nantes"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:node159725ec7aafcf74be8c4d37e0ce23 <http://fr.nomao.com/2155033.html> .
+_:nodee3523398f6dce8687c9bb1bd72f20e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2155033.html> .
+_:nodee3523398f6dce8687c9bb1bd72f20e4 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/medecin,dentiste.html> <http://fr.nomao.com/2155033.html> .
+_:nodee3523398f6dce8687c9bb1bd72f20e4 <http://schema.org/ListItem/name> "Dentiste Nantes"@fr <http://fr.nomao.com/2155033.html> .
+_:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://schema.org/BreadcrumbList/itemListElement> _:nodee3523398f6dce8687c9bb1bd72f20e4 <http://fr.nomao.com/2155033.html> .
+<http://fr.nomao.com/2155033.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9c5a2e9ee3e9ce85b2b12760b9837164 <http://fr.nomao.com/2155033.html> .
+_:noded25b982b7bd1766febd9a44dc087a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <http://fr.nomao.com/2155033.html> .
+_:node6673a66580e2343a3265c9285c2d3e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/2155033.html> .
+_:node6673a66580e2343a3265c9285c2d3e1 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/2155033.html> .
+_:noded25b982b7bd1766febd9a44dc087a0 <http://schema.org/MedicalOrganization/address> _:node6673a66580e2343a3265c9285c2d3e1 <http://fr.nomao.com/2155033.html> .
+_:noded25b982b7bd1766febd9a44dc087a0 <http://schema.org/MedicalOrganization/name> "Dr LEGRAS FRANCOISE, Dr MARTY LOIC"@fr <http://fr.nomao.com/2155033.html> .
+_:noded25b982b7bd1766febd9a44dc087a0 <http://schema.org/MedicalOrganization/logo> "http://static.nomao.com/img/v4/5085886_spot.png"@fr <http://fr.nomao.com/2155033.html> .
+_:noded25b982b7bd1766febd9a44dc087a0 <http://schema.org/MedicalOrganization/url> "http://fr.nomao.com/2155033.html"@fr <http://fr.nomao.com/2155033.html> .
+<http://fr.nomao.com/2155033.html> <http://www.w3.org/1999/xhtml/microdata#item> _:noded25b982b7bd1766febd9a44dc087a0 <http://fr.nomao.com/2155033.html> .
+<http://fr.nomao.com/2155033.html> <http://purl.org/dc/terms/title> "Dr LEGRAS FRANCOISE, Dr MARTY LOIC <http://fr.nomao.com/2155033.html> .
+Dentiste, Nantes <http://fr.nomao.com/2155033.html> .
+Technologie <http://fr.nomao.com/2155033.html> .
+Nomao"@fr <http://fr.nomao.com/2155033.html> .

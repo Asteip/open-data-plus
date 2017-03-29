@@ -1,0 +1,214 @@
+_:node9fa06328807896b252e1177f7bd8b42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node9fa06328807896b252e1177f7bd8b42 <http://www.w3.org/2006/vcard/ns#locality> "Orange" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node9fa06328807896b252e1177f7bd8b42 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:noded9fe81e5b9278dc2be64731c11d24e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:noded9fe81e5b9278dc2be64731c11d24e5 <http://www.w3.org/2006/vcard/ns#locality> "Toulouse" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:noded9fe81e5b9278dc2be64731c11d24e5 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeea2ef5545e7a5952516d4c5ac1c360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeea2ef5545e7a5952516d4c5ac1c360 <http://www.w3.org/2006/vcard/ns#locality> "Bordeaux" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeea2ef5545e7a5952516d4c5ac1c360 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node7e29f25e2b5d036f28ef34ee97cb82c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node7e29f25e2b5d036f28ef34ee97cb82c <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node7e29f25e2b5d036f28ef34ee97cb82c <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeeaf4b6b7e8c9e86aa4ad318467c74cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeeaf4b6b7e8c9e86aa4ad318467c74cd <http://www.w3.org/2006/vcard/ns#locality> "Le Grand-Quevilly" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeeaf4b6b7e8c9e86aa4ad318467c74cd <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node23278bd292631b726bf58f5df21a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node23278bd292631b726bf58f5df21a9 <http://www.w3.org/2006/vcard/ns#locality> "Lille" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node23278bd292631b726bf58f5df21a9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node9010fe31d537b737bfa09fa57aeeda2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node9010fe31d537b737bfa09fa57aeeda2 <http://www.w3.org/2006/vcard/ns#locality> "Manchester" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node9010fe31d537b737bfa09fa57aeeda2 <http://www.w3.org/2006/vcard/ns#country-name> "England" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee5465224ec446b4fdeb77cfc8b6c1b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee5465224ec446b4fdeb77cfc8b6c1b4 <http://www.w3.org/2006/vcard/ns#locality> "Bournemouth" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee5465224ec446b4fdeb77cfc8b6c1b4 <http://www.w3.org/2006/vcard/ns#country-name> "England" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee77be5268afbd0da15db8a81b7df2db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee77be5268afbd0da15db8a81b7df2db <http://www.w3.org/2006/vcard/ns#locality> "Dublin" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodee77be5268afbd0da15db8a81b7df2db <http://www.w3.org/2006/vcard/ns#country-name> "Ireland" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node869fa65f3a19281a4babe3eb33eda16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node869fa65f3a19281a4babe3eb33eda16 <http://www.w3.org/2006/vcard/ns#locality> "Rotterdam" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node869fa65f3a19281a4babe3eb33eda16 <http://www.w3.org/2006/vcard/ns#country-name> "Netherlands" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node2562a247b372248e2a8cc4cd2220fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node57d727f18459bcf3296852a74bd6408e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodece08f2544ac1badcb8c7c9f13a5c94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node519ac52170d642dd6b9c9bb22a4e3fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodeaf14971cf4faa54bb22a7475980e873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1a211fd06a49cc22ae12606e7632285d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node5a5231f636285bc2f7e14517fbdf48e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node2c1938cb48f2a9e652bfc821038586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8944aa322366fe258923656dffea1944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node973cc5c37e8292f7cf8e5a9e784799d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345578 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Th\u00E9\u00E2tre Antique d'Orange, Orange, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345578 <http://www.w3.org/2002/12/cal/icaltzd#location> "Th\u00E9\u00E2tre Antique d'Orange,\n\nOrange,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345578 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jun\n5\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345578 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/theatre-antique-dorange-orange-france-73fe2ee9.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345578 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345579 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Le Z\u00E9nith, Toulouse, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345579 <http://www.w3.org/2002/12/cal/icaltzd#location> "Le Z\u00E9nith,\n\nToulouse,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345579 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jun\n4\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345579 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/le-zenith-toulouse-france-bfe7576.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345579 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345580 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Patinoire de M\u00E9riadeck, Bordeaux, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345580 <http://www.w3.org/2002/12/cal/icaltzd#location> "Patinoire de M\u00E9riadeck,\n\nBordeaux,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345580 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jun\n3\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345580 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/patinoire-de-meriadeck-bordeaux-france-3fe7577.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345580 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345581 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345581 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Le Z\u00E9nith Nantes M\u00E9tropole, Saint-Herblain, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345581 <http://www.w3.org/2002/12/cal/icaltzd#location> "Le Z\u00E9nith Nantes M\u00E9tropole,\n\nSaint-Herblain,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345581 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jun\n2\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345581 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/le-zenith-nantes-metropole-saint-herblain-france-1bfe7570.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345581 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345582 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Z\u00E9nith de Rouen, Le Grand-Quevilly, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345582 <http://www.w3.org/2002/12/cal/icaltzd#location> "Z\u00E9nith de Rouen,\n\nLe Grand-Quevilly,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345582 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jun\n1\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345582 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/zenith-de-rouen-le-grand-quevilly-france-13fe7571.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345582 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345583 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345583 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Z\u00E9nith Ar\u00E9na, Lille, France" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345583 <http://www.w3.org/2002/12/cal/icaltzd#location> "Z\u00E9nith Ar\u00E9na,\n\nLille,\n\nFrance" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345583 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "May\n31\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345583 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/zenith-arena-lille-france-bfe7572.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345583 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345585 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345585 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Manchester Arena, Manchester, England" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345585 <http://www.w3.org/2002/12/cal/icaltzd#location> "Manchester Arena,\n\nManchester,\n\nEngland" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345585 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "May\n29\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345585 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/manchester-arena-manchester-england-3fe7573.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345585 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345586 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at BIC, Bournemouth, England" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345586 <http://www.w3.org/2002/12/cal/icaltzd#location> "BIC,\n\nBournemouth,\n\nEngland" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345586 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "May\n28\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345586 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/bic-bournemouth-england-6bfedece.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345586 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345587 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345587 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at 3Arena, Dublin, Ireland" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345587 <http://www.w3.org/2002/12/cal/icaltzd#location> "3Arena,\n\nDublin,\n\nIreland" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345587 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "May\n26\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345587 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/3arena-dublin-ireland-13fed961.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345587 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345588 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Hans Zimmer at Ahoy, Rotterdam, Netherlands" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345588 <http://www.w3.org/2002/12/cal/icaltzd#location> "Ahoy,\n\nRotterdam,\n\nNetherlands" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345588 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "May\n24\n2016" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345588 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/hans-zimmer/2016/ahoy-rotterdam-netherlands-23fe800f.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+<http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m2en3jx282345588 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/2006/vcard/ns#fn> "Th\u00E9\u00E2tre Antique d'Orange" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345589 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345589 <http://www.w3.org/2006/vcard/ns#given-name> "Th\u00E9\u00E2tre" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345589 <http://www.w3.org/2006/vcard/ns#family-name> "d'Orange" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345590 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345590 <http://www.w3.org/2006/vcard/ns#organization-name> "Th\u00E9\u00E2tre Antique d'Orange" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/2006/vcard/ns#adr> _:node9fa06328807896b252e1177f7bd8b42 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/2006/vcard/ns#geo> _:node2562a247b372248e2a8cc4cd2220fc <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebe7cca19ac5fc3496a074ca71b82688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/2006/vcard/ns#fn> "Le Z\u00E9nith" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345591 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345591 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345591 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345591 <http://www.w3.org/2006/vcard/ns#family-name> "Z\u00E9nith" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345592 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345592 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345592 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Z\u00E9nith" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/2006/vcard/ns#adr> _:noded9fe81e5b9278dc2be64731c11d24e5 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/2006/vcard/ns#geo> _:node57d727f18459bcf3296852a74bd6408e <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node957278d8842fd3a8cedcd938b7ba7b53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/2006/vcard/ns#fn> "Patinoire de M\u00E9riadeck" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345593 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345593 <http://www.w3.org/2006/vcard/ns#given-name> "Patinoire" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345593 <http://www.w3.org/2006/vcard/ns#family-name> "M\u00E9riadeck" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345594 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345594 <http://www.w3.org/2006/vcard/ns#organization-name> "Patinoire de M\u00E9riadeck" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/2006/vcard/ns#adr> _:nodeea2ef5545e7a5952516d4c5ac1c360 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/2006/vcard/ns#geo> _:nodece08f2544ac1badcb8c7c9f13a5c94 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node36b2ed6eec14fb14273efdee389950b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/2006/vcard/ns#fn> "Le Z\u00E9nith Nantes M\u00E9tropole" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345595 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345595 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345595 <http://www.w3.org/2006/vcard/ns#family-name> "M\u00E9tropole" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345596 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345596 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345596 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Z\u00E9nith Nantes M\u00E9tropole" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/2006/vcard/ns#adr> _:node7e29f25e2b5d036f28ef34ee97cb82c <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/2006/vcard/ns#geo> _:node519ac52170d642dd6b9c9bb22a4e3fe <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node586d92a5439d8ad6d4df7613fc14b3f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/2006/vcard/ns#fn> "Z\u00E9nith de Rouen" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345597 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345597 <http://www.w3.org/2006/vcard/ns#given-name> "Z\u00E9nith" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345597 <http://www.w3.org/2006/vcard/ns#family-name> "Rouen" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345598 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345598 <http://www.w3.org/2006/vcard/ns#organization-name> "Z\u00E9nith de Rouen" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/2006/vcard/ns#adr> _:nodeeaf4b6b7e8c9e86aa4ad318467c74cd <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/2006/vcard/ns#geo> _:nodeaf14971cf4faa54bb22a7475980e873 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodebd2914aafe6ad76ec399a21783e0d015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/2006/vcard/ns#fn> "Z\u00E9nith Ar\u00E9na" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345599 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345599 <http://www.w3.org/2006/vcard/ns#given-name> "Z\u00E9nith" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345599 <http://www.w3.org/2006/vcard/ns#family-name> "Ar\u00E9na" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345600 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345600 <http://www.w3.org/2006/vcard/ns#organization-name> "Z\u00E9nith Ar\u00E9na" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/2006/vcard/ns#adr> _:node23278bd292631b726bf58f5df21a9 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/2006/vcard/ns#geo> _:node1a211fd06a49cc22ae12606e7632285d <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node47c424e7652b4f4fd686a6ccdcb1f134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/2006/vcard/ns#fn> "Manchester Arena" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345602 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345602 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345602 <http://www.w3.org/2006/vcard/ns#given-name> "Manchester" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345602 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345603 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345603 <http://www.w3.org/2006/vcard/ns#organization-name> "Manchester Arena" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/2006/vcard/ns#adr> _:node9010fe31d537b737bfa09fa57aeeda2 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/2006/vcard/ns#geo> _:node5a5231f636285bc2f7e14517fbdf48e <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:nodef2c3d77c07ffb55289f4a2bbbad84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/2006/vcard/ns#fn> "BIC" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345604 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345604 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345605 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345605 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345605 <http://www.w3.org/2006/vcard/ns#organization-name> "BIC" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/2006/vcard/ns#adr> _:nodee5465224ec446b4fdeb77cfc8b6c1b4 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/2006/vcard/ns#geo> _:node2c1938cb48f2a9e652bfc821038586 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3e6f538767b0424584a8feec511837d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/2006/vcard/ns#fn> "3Arena" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345606 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345606 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345607 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345607 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345607 <http://www.w3.org/2006/vcard/ns#organization-name> "3Arena" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/2006/vcard/ns#adr> _:nodee77be5268afbd0da15db8a81b7df2db <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/2006/vcard/ns#geo> _:node8944aa322366fe258923656dffea1944 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node8cea9991d57925f7b3eff114a2a3192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/2006/vcard/ns#fn> "Ahoy" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx282345608 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx282345609 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345609 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node1b4m2en3jx282345609 <http://www.w3.org/2006/vcard/ns#organization-name> "Ahoy" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/2006/vcard/ns#adr> _:node869fa65f3a19281a4babe3eb33eda16 <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/2006/vcard/ns#geo> _:node973cc5c37e8292f7cf8e5a9e784799d <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:node3f81e4246023c1b0b4305a966ef160e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66125 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66125 <http://rdf.data-vocabulary.org/#title> "setlist.fm" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66137 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/artists> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66137 <http://rdf.data-vocabulary.org/#title> "Artists" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66149 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/artist/browse/z/1.html> <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .
+_:genid2d5faf9ae8110a439ca83b3758648e71fb2dN66149 <http://rdf.data-vocabulary.org/#title> "Z" <http://www.setlist.fm/setlists/hans-zimmer-73d6b675.html> .

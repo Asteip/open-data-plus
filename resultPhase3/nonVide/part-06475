@@ -1,0 +1,50 @@
+_:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.w3.org/2006/vcard/ns#street-address> "15 bld Alexandre Millerand" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9099ac1566ddb124274a1fbf75796c2 <http://www.w3.org/2006/vcard/ns#fn> "Mercure Ile de Nantes" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9099ac1566ddb124274a1fbf75796c2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dotex104907627 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node1b4m4dotex104907627 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node1b4m4dotex104907627 <http://www.w3.org/2006/vcard/ns#given-name> "Mercure" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node1b4m4dotex104907627 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9099ac1566ddb124274a1fbf75796c2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4dotex104907628 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node1b4m4dotex104907628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node1b4m4dotex104907628 <http://www.w3.org/2006/vcard/ns#organization-name> "Mercure Ile de Nantes" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9099ac1566ddb124274a1fbf75796c2 <http://www.w3.org/2006/vcard/ns#adr> _:node9616c62424a073f72ed4a5ecd8ba8e8 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9099ac1566ddb124274a1fbf75796c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodea54831ffa199f39cb66efba4cdc13bbe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodea54831ffa199f39cb66efba4cdc13bbe <http://purl.org/stuff/rev#type> "Autre paysage" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodea3f7d881f36a5faec09f7d6df55eb4 <http://www.w3.org/2006/vcard/ns#fn> "Mercure Ile de Nantes" <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodea3f7d881f36a5faec09f7d6df55eb4 <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/nantes-hotels/> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodea3f7d881f36a5faec09f7d6df55eb4 <http://purl.org/stuff/rev#hasReview> _:nodea54831ffa199f39cb66efba4cdc13bbe <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodebaf68ed47280206c6ee81dc55d5369d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:nodebaf68ed47280206c6ee81dc55d5369d3 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:nodebaf68ed47280206c6ee81dc55d5369d3 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node5bbe718442b4e7b34b7d8f5188afdec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node5bbe718442b4e7b34b7d8f5188afdec <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node5bbe718442b4e7b34b7d8f5188afdec <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:node5bbe718442b4e7b34b7d8f5188afdec <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node89a6f5981e36b7dbfc349129fd495ed2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node89a6f5981e36b7dbfc349129fd495ed2 <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:node89a6f5981e36b7dbfc349129fd495ed2 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node27cb895cf8e4481a144aaad724c5b91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node27cb895cf8e4481a144aaad724c5b91 <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:node27cb895cf8e4481a144aaad724c5b91 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9f74088bffcbe851ca36789fa18c38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9f74088bffcbe851ca36789fa18c38 <http://data-vocabulary.org/Breadcrumb/title> "Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node9f74088bffcbe851ca36789fa18c38 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDlZz-nantes-h%C3%B4tels> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:node9f74088bffcbe851ca36789fa18c38 <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node468ddc6ecc9fd9ac2e0e15c6a178ded <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+_:node468ddc6ecc9fd9ac2e0e15c6a178ded <http://data-vocabulary.org/Breadcrumb/title> "Mercure Ile de Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.w3.org/1999/xhtml/microdata#item> _:node468ddc6ecc9fd9ac2e0e15c6a178ded <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://purl.org/dc/terms/title> "\nMercure Ile de Nantes, hotel Nantes <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+France <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://opengraphprotocol.org/schema/description> "Mercure Ile de Nantes \u00E0 Nantes. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .
+<http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> <http://opengraphprotocol.org/schema/title> "Mercure Ile de Nantes, Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/mercure-ile-de-nantes> .

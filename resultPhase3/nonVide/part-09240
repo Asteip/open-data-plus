@@ -1,0 +1,38 @@
+_:nodee61d221e77389acc3608f2aa4943039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/859845.html> .
+_:nodee61d221e77389acc3608f2aa4943039 <http://www.w3.org/2006/vcard/ns#street-address> "86 Rue Desaix" <http://fr.nomao.com/859845.html> .
+_:nodee61d221e77389acc3608f2aa4943039 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/859845.html> .
+_:nodee61d221e77389acc3608f2aa4943039 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/859845.html> .
+_:nodee61d221e77389acc3608f2aa4943039 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/859845.html> .
+_:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/859845.html> .
+_:node3a65556ca98fbffcbed60e7c36369cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859845.html> .
+_:node3a65556ca98fbffcbed60e7c36369cc <http://schema.org/ListItem/item> <http://fr.nomao.com/859845.html//> <http://fr.nomao.com/859845.html> .
+_:node3a65556ca98fbffcbed60e7c36369cc <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/859845.html> .
+_:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://schema.org/BreadcrumbList/itemListElement> _:node3a65556ca98fbffcbed60e7c36369cc <http://fr.nomao.com/859845.html> .
+_:nodeaa5fd7bbc1b83edd098422f497a2434 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859845.html> .
+_:nodeaa5fd7bbc1b83edd098422f497a2434 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/859845.html> .
+_:nodeaa5fd7bbc1b83edd098422f497a2434 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/859845.html> .
+_:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://schema.org/BreadcrumbList/itemListElement> _:nodeaa5fd7bbc1b83edd098422f497a2434 <http://fr.nomao.com/859845.html> .
+_:noded6776649eca3c1a7442e1830e3bb819c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859845.html> .
+_:noded6776649eca3c1a7442e1830e3bb819c <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/automobile.html> <http://fr.nomao.com/859845.html> .
+_:noded6776649eca3c1a7442e1830e3bb819c <http://schema.org/ListItem/name> "Automobile Nantes"@fr <http://fr.nomao.com/859845.html> .
+_:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://schema.org/BreadcrumbList/itemListElement> _:noded6776649eca3c1a7442e1830e3bb819c <http://fr.nomao.com/859845.html> .
+_:node7e759d6b86a2ce64aebceddcdda59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859845.html> .
+_:node7e759d6b86a2ce64aebceddcdda59 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/automobile,garage.html> <http://fr.nomao.com/859845.html> .
+_:node7e759d6b86a2ce64aebceddcdda59 <http://schema.org/ListItem/name> "Garage Nantes"@fr <http://fr.nomao.com/859845.html> .
+_:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://schema.org/BreadcrumbList/itemListElement> _:node7e759d6b86a2ce64aebceddcdda59 <http://fr.nomao.com/859845.html> .
+<http://fr.nomao.com/859845.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9b5e26fbe77bf93f579c9f7e5bb987a0 <http://fr.nomao.com/859845.html> .
+_:node61bd4270a1324de29b6e4ecc60c5e72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AutomotiveBusiness> <http://fr.nomao.com/859845.html> .
+_:node1220b6c2343c4cf8e3b1ba050a2bcec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/859845.html> .
+_:node1220b6c2343c4cf8e3b1ba050a2bcec <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/859845.html> .
+_:node1220b6c2343c4cf8e3b1ba050a2bcec <http://schema.org/PostalAddress/streetAddress> "86 Rue Desaix"@fr <http://fr.nomao.com/859845.html> .
+_:node1220b6c2343c4cf8e3b1ba050a2bcec <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/859845.html> .
+_:node1220b6c2343c4cf8e3b1ba050a2bcec <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/859845.html> .
+_:node61bd4270a1324de29b6e4ecc60c5e72 <http://schema.org/AutomotiveBusiness/address> _:node1220b6c2343c4cf8e3b1ba050a2bcec <http://fr.nomao.com/859845.html> .
+_:node61bd4270a1324de29b6e4ecc60c5e72 <http://schema.org/AutomotiveBusiness/name> "Waldeck Auto"@fr <http://fr.nomao.com/859845.html> .
+_:node61bd4270a1324de29b6e4ecc60c5e72 <http://schema.org/AutomotiveBusiness/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/859845.html> .
+_:node61bd4270a1324de29b6e4ecc60c5e72 <http://schema.org/AutomotiveBusiness/url> "http://fr.nomao.com/859845.html"@fr <http://fr.nomao.com/859845.html> .
+<http://fr.nomao.com/859845.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node61bd4270a1324de29b6e4ecc60c5e72 <http://fr.nomao.com/859845.html> .
+<http://fr.nomao.com/859845.html> <http://purl.org/dc/terms/title> "Waldeck Auto <http://fr.nomao.com/859845.html> .
+Garage, 86 Rue Desaix, Nantes <http://fr.nomao.com/859845.html> .
+R\u00E9parateur <http://fr.nomao.com/859845.html> .
+Nomao"@fr <http://fr.nomao.com/859845.html> .

@@ -1,0 +1,42 @@
+_:node903b2d8a04592db36b0ea37c498d980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/5136203.html> .
+_:node903b2d8a04592db36b0ea37c498d980 <http://www.w3.org/2006/vcard/ns#street-address> "16 Impasse Carri\u00E8re de Villeneuve" <http://fr.nomao.com/5136203.html> .
+_:node903b2d8a04592db36b0ea37c498d980 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/5136203.html> .
+_:node903b2d8a04592db36b0ea37c498d980 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/5136203.html> .
+_:node903b2d8a04592db36b0ea37c498d980 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/5136203.html> .
+_:nodeaad814a89c792eb48b6d6641f7a8f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5136203.html> .
+_:nodeaad814a89c792eb48b6d6641f7a8f4 <http://schema.org/ListItem/item> <http://fr.nomao.com/5136203.html//> <http://fr.nomao.com/5136203.html> .
+_:nodeaad814a89c792eb48b6d6641f7a8f4 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://schema.org/BreadcrumbList/itemListElement> _:nodeaad814a89c792eb48b6d6641f7a8f4 <http://fr.nomao.com/5136203.html> .
+_:node1bd1dc63e1f53f25649d89d3e62865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5136203.html> .
+_:node1bd1dc63e1f53f25649d89d3e62865 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/5136203.html> .
+_:node1bd1dc63e1f53f25649d89d3e62865 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://schema.org/BreadcrumbList/itemListElement> _:node1bd1dc63e1f53f25649d89d3e62865 <http://fr.nomao.com/5136203.html> .
+_:node5555284c3eb42b20aec96ef7e6a1b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5136203.html> .
+_:node5555284c3eb42b20aec96ef7e6a1b3 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/beaute.html> <http://fr.nomao.com/5136203.html> .
+_:node5555284c3eb42b20aec96ef7e6a1b3 <http://schema.org/ListItem/name> "Beaut\u00E9 Nantes"@fr <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://schema.org/BreadcrumbList/itemListElement> _:node5555284c3eb42b20aec96ef7e6a1b3 <http://fr.nomao.com/5136203.html> .
+_:node73b413056ec4466d26311aa4c16666b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5136203.html> .
+_:node73b413056ec4466d26311aa4c16666b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/beaute,bien+etre.html> <http://fr.nomao.com/5136203.html> .
+_:node73b413056ec4466d26311aa4c16666b <http://schema.org/ListItem/name> "Bien-\u00EAtre Nantes"@fr <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://schema.org/BreadcrumbList/itemListElement> _:node73b413056ec4466d26311aa4c16666b <http://fr.nomao.com/5136203.html> .
+_:node9cda57418fa1adbbd31c3cd241efcee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5136203.html> .
+_:node9cda57418fa1adbbd31c3cd241efcee <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/beaute,massage.html> <http://fr.nomao.com/5136203.html> .
+_:node9cda57418fa1adbbd31c3cd241efcee <http://schema.org/ListItem/name> "Massage Nantes"@fr <http://fr.nomao.com/5136203.html> .
+_:node34795bcb20985c754b4b3d456d5b2b <http://schema.org/BreadcrumbList/itemListElement> _:node9cda57418fa1adbbd31c3cd241efcee <http://fr.nomao.com/5136203.html> .
+<http://fr.nomao.com/5136203.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node34795bcb20985c754b4b3d456d5b2b <http://fr.nomao.com/5136203.html> .
+_:noded34f4fb1ac33633dc9021fa164cbbbf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/5136203.html> .
+_:node73fadaa9107d9592af3b94999dd934ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/5136203.html> .
+_:node73fadaa9107d9592af3b94999dd934ad <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/5136203.html> .
+_:node73fadaa9107d9592af3b94999dd934ad <http://schema.org/PostalAddress/streetAddress> "16 Impasse Carri\u00E8re de Villeneuve"@fr <http://fr.nomao.com/5136203.html> .
+_:node73fadaa9107d9592af3b94999dd934ad <http://schema.org/PostalAddress/postalCode> "44100 "@fr <http://fr.nomao.com/5136203.html> .
+_:node73fadaa9107d9592af3b94999dd934ad <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/5136203.html> .
+_:noded34f4fb1ac33633dc9021fa164cbbbf <http://schema.org/LocalBusiness/address> _:node73fadaa9107d9592af3b94999dd934ad <http://fr.nomao.com/5136203.html> .
+_:noded34f4fb1ac33633dc9021fa164cbbbf <http://schema.org/LocalBusiness/name> "Guillard Francoise Fasciatherapie"@fr <http://fr.nomao.com/5136203.html> .
+_:noded34f4fb1ac33633dc9021fa164cbbbf <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/5136203.html> .
+_:noded34f4fb1ac33633dc9021fa164cbbbf <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/5136203.html"@fr <http://fr.nomao.com/5136203.html> .
+<http://fr.nomao.com/5136203.html> <http://www.w3.org/1999/xhtml/microdata#item> _:noded34f4fb1ac33633dc9021fa164cbbbf <http://fr.nomao.com/5136203.html> .
+<http://fr.nomao.com/5136203.html> <http://purl.org/dc/terms/title> "Guillard Francoise Fasciatherapie <http://fr.nomao.com/5136203.html> .
+Massage, 16 Impasse Carri\u00E8re de Villeneuve, Nantes <http://fr.nomao.com/5136203.html> .
+Kin\u00E9sith\u00E9rapeute <http://fr.nomao.com/5136203.html> .
+Nomao"@fr <http://fr.nomao.com/5136203.html> .

@@ -1,0 +1,34 @@
+_:node4a6b1d25b23aef5340a2989a94c28351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node4a6b1d25b23aef5340a2989a94c28351 <http://www.w3.org/2006/vcard/ns#street-address> "2 cours du Champ de Mars, 44000 Nantes" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node4a6b1d25b23aef5340a2989a94c28351 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node7360bedf46a7db74dc256efef39628c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node77fea864f7c5b7038e2a58c32e4ca5d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:nodeba3857511872b7c913fa6088d71f416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:nodeba3857511872b7c913fa6088d71f416 <http://www.w3.org/2006/vcard/ns#latitude> "47.214401" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:nodeba3857511872b7c913fa6088d71f416 <http://www.w3.org/2006/vcard/ns#longitude> "-1.543869" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node88e6928deef9f55eb692d5ddeeb75b <http://www.w3.org/2006/vcard/ns#fn> "Salle d'exposition <http://www.civitas.eu/civinet/civinet-francophone> .
+Nantes M\u00E9tropole" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node88e6928deef9f55eb692d5ddeeb75b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1pr9kx132284549 <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284549 <http://www.w3.org/2006/vcard/ns#given-name> "Salle" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284549 <http://www.w3.org/2006/vcard/ns#family-name> "M\u00E9tropole" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node88e6928deef9f55eb692d5ddeeb75b <http://www.w3.org/2006/vcard/ns#adr> _:node4a6b1d25b23aef5340a2989a94c28351 <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node88e6928deef9f55eb692d5ddeeb75b <http://www.w3.org/2006/vcard/ns#geo> _:nodeba3857511872b7c913fa6088d71f416 <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node88e6928deef9f55eb692d5ddeeb75b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node243a8dfed0444acf48b9f87b8bf3e1c7 <http://www.w3.org/2006/vcard/ns#fn> "Rouen" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node243a8dfed0444acf48b9f87b8bf3e1c7 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1pr9kx132284550 <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284550 <http://www.w3.org/2006/vcard/ns#given-name> "Rouen" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284550 <http://www.w3.org/2006/vcard/ns#family-name> "Rouen" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node243a8dfed0444acf48b9f87b8bf3e1c7 <http://www.w3.org/2006/vcard/ns#adr> _:node7360bedf46a7db74dc256efef39628c <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node243a8dfed0444acf48b9f87b8bf3e1c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:noded5e6dd67c44b82d95177e462c8a6e788 <http://www.w3.org/2006/vcard/ns#fn> "Nord de l'Espagne" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:noded5e6dd67c44b82d95177e462c8a6e788 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1pr9kx132284551 <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284551 <http://www.w3.org/2006/vcard/ns#given-name> "Nord" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:node1b4m1pr9kx132284551 <http://www.w3.org/2006/vcard/ns#family-name> "l'Espagne" <http://www.civitas.eu/civinet/civinet-francophone> .
+_:noded5e6dd67c44b82d95177e462c8a6e788 <http://www.w3.org/2006/vcard/ns#adr> _:node77fea864f7c5b7038e2a58c32e4ca5d <http://www.civitas.eu/civinet/civinet-francophone> .
+_:noded5e6dd67c44b82d95177e462c8a6e788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.civitas.eu/civinet/civinet-francophone> .
+<http://www.civitas.eu/civinet/civinet-francophone> <http://purl.org/dc/terms/date> "2015-06-05T10:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://www.civitas.eu/civinet/civinet-francophone> .
+<http://www.civitas.eu/civinet/civinet-francophone> <http://purl.org/dc/terms/date> "2013-10-02T23:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://www.civitas.eu/civinet/civinet-francophone> .
+<http://www.civitas.eu/civinet/civinet-francophone> <http://purl.org/dc/terms/date> "2013-08-26T23:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://www.civitas.eu/civinet/civinet-francophone> .

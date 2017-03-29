@@ -1,0 +1,26 @@
+_:nodee941c9c5664d42872f65f17eda1cb36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:nodee941c9c5664d42872f65f17eda1cb36 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:nodee941c9c5664d42872f65f17eda1cb36 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+<http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. FC Nantes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. FC Nantes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 19, 2016[Time TBA]" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593117 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-fc-nantes-11-19-2016-tickets-2899707.aspx> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+<http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4lkv8r6x33593117 <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node9dd36cab93fce21417e3e431c6efe80 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node9dd36cab93fce21417e3e431c6efe80 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lkv8r6x33593118 <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593118 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593118 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node9dd36cab93fce21417e3e431c6efe80 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lkv8r6x33593119 <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node1b4lkv8r6x33593119 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node9dd36cab93fce21417e3e431c6efe80 <http://www.w3.org/2006/vcard/ns#adr> _:nodee941c9c5664d42872f65f17eda1cb36 <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:node9dd36cab93fce21417e3e431c6efe80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:nodee6a8a0d2f3dc4bf3105f79eae992936b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+_:nodee6a8a0d2f3dc4bf3105f79eae992936b <http://schema.org/Product/name> "\n  FC Nantes\n\n \n\n \n\n  Tickets \n\n\n \n"@en-us <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+<http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee6a8a0d2f3dc4bf3105f79eae992936b <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+<http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> <http://purl.org/dc/terms/title> "FC Nantes Tickets at TicketNetwork.com"@en-us <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .
+<http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> <http://ogp.me/ns/fb#app_id> "121641127863557"@en-us <http://www.ticketnetwork.com/tickets/fc-nantes-tickets.aspx> .

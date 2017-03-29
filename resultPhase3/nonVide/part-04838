@@ -1,0 +1,50 @@
+_:nodef5d2ff216611148eb312f6ec32c817a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodef5d2ff216611148eb312f6ec32c817a <http://www.w3.org/2006/vcard/ns#street-address> "ZAC ATLANTIS" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodef5d2ff216611148eb312f6ec32c817a <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodef5d2ff216611148eb312f6ec32c817a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodef5d2ff216611148eb312f6ec32c817a <http://www.w3.org/2006/vcard/ns#postal-code> "44811" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node72be9aefc6e55b5f016c9f2c82b6e4 <http://www.w3.org/2006/vcard/ns#fn> "ibis Nantes Saint Herblain" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node72be9aefc6e55b5f016c9f2c82b6e4 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqcclfx59101227 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node1b4lqcclfx59101227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node1b4lqcclfx59101227 <http://www.w3.org/2006/vcard/ns#given-name> "ibis" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node1b4lqcclfx59101227 <http://www.w3.org/2006/vcard/ns#family-name> "Herblain" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node72be9aefc6e55b5f016c9f2c82b6e4 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lqcclfx59101228 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node1b4lqcclfx59101228 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node1b4lqcclfx59101228 <http://www.w3.org/2006/vcard/ns#organization-name> "ibis Nantes Saint Herblain" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node72be9aefc6e55b5f016c9f2c82b6e4 <http://www.w3.org/2006/vcard/ns#adr> _:nodef5d2ff216611148eb312f6ec32c817a <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node72be9aefc6e55b5f016c9f2c82b6e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodeff77d9242ba81dbe8102748beaca026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodeff77d9242ba81dbe8102748beaca026 <http://purl.org/stuff/rev#type> "Golf et autres sports" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node83238281d7dd16b5a4e365847a39ffa <http://www.w3.org/2006/vcard/ns#fn> "ibis Nantes Saint Herblain" <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node83238281d7dd16b5a4e365847a39ffa <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/saint_herblain-hotels/> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node83238281d7dd16b5a4e365847a39ffa <http://purl.org/stuff/rev#hasReview> _:nodeff77d9242ba81dbe8102748beaca026 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodea469d567cce488902259ec71a065a78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodea469d567cce488902259ec71a065a78 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:nodea469d567cce488902259ec71a065a78 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node8d186efb16229a1b10f5e1ee2c5c880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node8d186efb16229a1b10f5e1ee2c5c880 <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node8d186efb16229a1b10f5e1ee2c5c880 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:node8d186efb16229a1b10f5e1ee2c5c880 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node38a3899c5915187af34efa3dc984655 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node38a3899c5915187af34efa3dc984655 <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:node38a3899c5915187af34efa3dc984655 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodee7d3136d859cf74bcb8e5e7c3a7791f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:nodee7d3136d859cf74bcb8e5e7c3a7791f <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee7d3136d859cf74bcb8e5e7c3a7791f <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node2da729b35979e5436f3ddc922f25510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node2da729b35979e5436f3ddc922f25510 <http://data-vocabulary.org/Breadcrumb/title> "Saint-Herblain"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:node2da729b35979e5436f3ddc922f25510 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDg3s-saint-herblain-h%C3%B4tels> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:node2da729b35979e5436f3ddc922f25510 <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:noded21cd8f03e2c6e6468524808b96bdb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+_:noded21cd8f03e2c6e6468524808b96bdb <http://data-vocabulary.org/Breadcrumb/title> "ibis Nantes Saint Herblain"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.w3.org/1999/xhtml/microdata#item> _:noded21cd8f03e2c6e6468524808b96bdb <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://purl.org/dc/terms/title> "\nibis Nantes Saint Herblain, hotel Saint-Herblain <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+France <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://opengraphprotocol.org/schema/description> "ibis Nantes Saint Herblain \u00E0 Saint-Herblain. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .
+<http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> <http://opengraphprotocol.org/schema/title> "ibis Nantes Saint Herblain, Saint-Herblain"@fr_fr <http://www.tvtrip.fr/saint_herblain-hotels/ibis-nantes-saint-herblain> .

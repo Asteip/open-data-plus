@@ -1,0 +1,42 @@
+_:nodec4e22a7fd1d76aaf665addafe51c6bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/15472520.html> .
+_:nodec4e22a7fd1d76aaf665addafe51c6bd <http://www.w3.org/2006/vcard/ns#street-address> "353 Route de Sainte-Luce" <http://fr.nomao.com/15472520.html> .
+_:nodec4e22a7fd1d76aaf665addafe51c6bd <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/15472520.html> .
+_:nodec4e22a7fd1d76aaf665addafe51c6bd <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/15472520.html> .
+_:nodec4e22a7fd1d76aaf665addafe51c6bd <http://www.w3.org/2006/vcard/ns#postal-code> "44300" <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/15472520.html> .
+_:node386d7946204c6d75d72941bb68d5a62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15472520.html> .
+_:node386d7946204c6d75d72941bb68d5a62 <http://schema.org/ListItem/item> <http://fr.nomao.com/15472520.html//> <http://fr.nomao.com/15472520.html> .
+_:node386d7946204c6d75d72941bb68d5a62 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://schema.org/BreadcrumbList/itemListElement> _:node386d7946204c6d75d72941bb68d5a62 <http://fr.nomao.com/15472520.html> .
+_:node7024e8a30d798d5ee6f10ae3a33ec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15472520.html> .
+_:node7024e8a30d798d5ee6f10ae3a33ec6 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/15472520.html> .
+_:node7024e8a30d798d5ee6f10ae3a33ec6 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://schema.org/BreadcrumbList/itemListElement> _:node7024e8a30d798d5ee6f10ae3a33ec6 <http://fr.nomao.com/15472520.html> .
+_:node8f5660e95aac31c5febba6a27237d73b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15472520.html> .
+_:node8f5660e95aac31c5febba6a27237d73b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/maison.html> <http://fr.nomao.com/15472520.html> .
+_:node8f5660e95aac31c5febba6a27237d73b <http://schema.org/ListItem/name> "Maison Nantes"@fr <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://schema.org/BreadcrumbList/itemListElement> _:node8f5660e95aac31c5febba6a27237d73b <http://fr.nomao.com/15472520.html> .
+_:nodee714c618f4ca6313be413d954057e3d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15472520.html> .
+_:nodee714c618f4ca6313be413d954057e3d7 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/maison,energie.html> <http://fr.nomao.com/15472520.html> .
+_:nodee714c618f4ca6313be413d954057e3d7 <http://schema.org/ListItem/name> "\u00C9nergie Nantes"@fr <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://schema.org/BreadcrumbList/itemListElement> _:nodee714c618f4ca6313be413d954057e3d7 <http://fr.nomao.com/15472520.html> .
+_:noded6cfc2d9d3f184321a3cafa0379358 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15472520.html> .
+_:noded6cfc2d9d3f184321a3cafa0379358 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/maison,energie,chauffage.html> <http://fr.nomao.com/15472520.html> .
+_:noded6cfc2d9d3f184321a3cafa0379358 <http://schema.org/ListItem/name> "Chauffage Nantes"@fr <http://fr.nomao.com/15472520.html> .
+_:node81165d704e2ddcf15435eb9bbb8ac3f <http://schema.org/BreadcrumbList/itemListElement> _:noded6cfc2d9d3f184321a3cafa0379358 <http://fr.nomao.com/15472520.html> .
+<http://fr.nomao.com/15472520.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node81165d704e2ddcf15435eb9bbb8ac3f <http://fr.nomao.com/15472520.html> .
+_:node26eddb28d53cfd3c36678c6a4825f33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/15472520.html> .
+_:node9327c98b8f92a688e38f416b741869d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/15472520.html> .
+_:node9327c98b8f92a688e38f416b741869d <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/15472520.html> .
+_:node9327c98b8f92a688e38f416b741869d <http://schema.org/PostalAddress/streetAddress> "353 Route de Sainte-Luce"@fr <http://fr.nomao.com/15472520.html> .
+_:node9327c98b8f92a688e38f416b741869d <http://schema.org/PostalAddress/postalCode> "44300 "@fr <http://fr.nomao.com/15472520.html> .
+_:node9327c98b8f92a688e38f416b741869d <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/15472520.html> .
+_:node26eddb28d53cfd3c36678c6a4825f33 <http://schema.org/LocalBusiness/address> _:node9327c98b8f92a688e38f416b741869d <http://fr.nomao.com/15472520.html> .
+_:node26eddb28d53cfd3c36678c6a4825f33 <http://schema.org/LocalBusiness/name> "LA TOLERIE DE LA LOIRE"@fr <http://fr.nomao.com/15472520.html> .
+_:node26eddb28d53cfd3c36678c6a4825f33 <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/15472520.html> .
+_:node26eddb28d53cfd3c36678c6a4825f33 <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/15472520.html"@fr <http://fr.nomao.com/15472520.html> .
+<http://fr.nomao.com/15472520.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node26eddb28d53cfd3c36678c6a4825f33 <http://fr.nomao.com/15472520.html> .
+<http://fr.nomao.com/15472520.html> <http://purl.org/dc/terms/title> "LA TOLERIE DE LA LOIRE <http://fr.nomao.com/15472520.html> .
+Chauffage, 353 Route de Sainte-Luce, Nantes <http://fr.nomao.com/15472520.html> .
+Entretien <http://fr.nomao.com/15472520.html> .
+Nomao"@fr <http://fr.nomao.com/15472520.html> .

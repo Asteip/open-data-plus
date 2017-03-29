@@ -1,0 +1,295 @@
+_:node34cc402a72c3d36c7bd62ed7b444e79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node34cc402a72c3d36c7bd62ed7b444e79 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node34cc402a72c3d36c7bd62ed7b444e79 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node34cc402a72c3d36c7bd62ed7b444e79 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node81b63b3e5679315d35999a672264c559 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node81b63b3e5679315d35999a672264c559 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node81b63b3e5679315d35999a672264c559 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node81b63b3e5679315d35999a672264c559 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodee114f47148f16d7893d629d392f6411 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodee114f47148f16d7893d629d392f6411 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodee114f47148f16d7893d629d392f6411 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodee114f47148f16d7893d629d392f6411 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef0d35b62a9e56cfc43c6675b825da372 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef0d35b62a9e56cfc43c6675b825da372 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef0d35b62a9e56cfc43c6675b825da372 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef0d35b62a9e56cfc43c6675b825da372 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1135c936093508a8e2395463408e41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1135c936093508a8e2395463408e41 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1135c936093508a8e2395463408e41 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1135c936093508a8e2395463408e41 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node201cddd8412640f7447874702ee4958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node201cddd8412640f7447874702ee4958 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node201cddd8412640f7447874702ee4958 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node201cddd8412640f7447874702ee4958 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1ce8ae7db1167d9833a4142b0d3a1f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1ce8ae7db1167d9833a4142b0d3a1f7 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1ce8ae7db1167d9833a4142b0d3a1f7 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1ce8ae7db1167d9833a4142b0d3a1f7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef6ee7485f9b24d407b41f77e717d9b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef6ee7485f9b24d407b41f77e717d9b0 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef6ee7485f9b24d407b41f77e717d9b0 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef6ee7485f9b24d407b41f77e717d9b0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9779cd5898542e8e14af0851dbd5738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9779cd5898542e8e14af0851dbd5738 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9779cd5898542e8e14af0851dbd5738 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9779cd5898542e8e14af0851dbd5738 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecf55f7128d79ea259f08d2e4230c47a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecf55f7128d79ea259f08d2e4230c47a <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecf55f7128d79ea259f08d2e4230c47a <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecf55f7128d79ea259f08d2e4230c47a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node4bd7d4adddfb83eade1adf4d2ddb8d20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node4bd7d4adddfb83eade1adf4d2ddb8d20 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node4bd7d4adddfb83eade1adf4d2ddb8d20 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node4bd7d4adddfb83eade1adf4d2ddb8d20 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9f64cbd29161b752e2cc845e33765c34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9f64cbd29161b752e2cc845e33765c34 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9f64cbd29161b752e2cc845e33765c34 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node9f64cbd29161b752e2cc845e33765c34 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node52806221393151b75bbe5def519506f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node52806221393151b75bbe5def519506f <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node52806221393151b75bbe5def519506f <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node52806221393151b75bbe5def519506f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded4d86d08a53cc901718325f1d8b87e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded4d86d08a53cc901718325f1d8b87e8 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded4d86d08a53cc901718325f1d8b87e8 <http://www.w3.org/2006/vcard/ns#region> ", VP" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded4d86d08a53cc901718325f1d8b87e8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507583 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507583 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSStade Rennes FC" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507583 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507583 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2016-11-06T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507583 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507583 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507585 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507585 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSFC Nantes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507585 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507585 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2016-11-19T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507585 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507585 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507586 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSAngers SCO" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507586 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507586 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2016-11-30T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507586 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507586 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507587 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507587 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSOGC Nice" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507587 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507587 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2016-12-10T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507587 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507587 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507588 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSFC Lorient" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507588 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507588 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2016-12-21T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507588 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507588 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507589 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSAS Monaco FC" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507589 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507589 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-01-28T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507589 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507589 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507590 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSLille OSC" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507590 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507590 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-02-08T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507590 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507590 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507591 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507591 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSToulouse FC" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507591 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507591 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-02-18T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507591 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507591 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507598 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSAS Nancy" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507598 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507598 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-03-04T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507598 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507598 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507599 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSOlympique Lyonnais" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507599 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507599 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-03-18T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507599 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507599 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507600 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSEA  Guingamp" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507600 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507600 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-04-08T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507600 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507600 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507601 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSMontpellier HSC" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507601 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507601 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-04-22T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507601 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507601 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507602 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507602 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSSC Bastia" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507602 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507602 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-05-06T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507602 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507602 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507603 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC VSSM Caen" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507603 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parc Des PrincesParis <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+VP France" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507603 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2017-05-20T03:30:00" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507603 <http://www.w3.org/2002/12/cal/icaltzd#url> <javascript:void();> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+<http://www.ticketsinventory.com/venue/parc-des-princes/> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m3r38sx87507603 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebcef732c9d1cee576ae7a75b245c615 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebcef732c9d1cee576ae7a75b245c615 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507604 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507604 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507604 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507604 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebcef732c9d1cee576ae7a75b245c615 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507605 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507605 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507605 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebcef732c9d1cee576ae7a75b245c615 <http://www.w3.org/2006/vcard/ns#adr> _:node34cc402a72c3d36c7bd62ed7b444e79 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebcef732c9d1cee576ae7a75b245c615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node221397134b47afe4e3c07d7fa8a2817c <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node221397134b47afe4e3c07d7fa8a2817c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507606 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507606 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507606 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507606 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node221397134b47afe4e3c07d7fa8a2817c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507607 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507607 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507607 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node221397134b47afe4e3c07d7fa8a2817c <http://www.w3.org/2006/vcard/ns#adr> _:node81b63b3e5679315d35999a672264c559 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node221397134b47afe4e3c07d7fa8a2817c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef8d8ba10306e09035d51f7adbad4cd <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef8d8ba10306e09035d51f7adbad4cd <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507608 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507608 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507608 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef8d8ba10306e09035d51f7adbad4cd <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507609 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507609 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507609 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef8d8ba10306e09035d51f7adbad4cd <http://www.w3.org/2006/vcard/ns#adr> _:nodee114f47148f16d7893d629d392f6411 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef8d8ba10306e09035d51f7adbad4cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded07887aa56916e9c4edfb282b376bcf <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded07887aa56916e9c4edfb282b376bcf <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507610 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507610 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507610 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507610 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded07887aa56916e9c4edfb282b376bcf <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507611 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507611 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded07887aa56916e9c4edfb282b376bcf <http://www.w3.org/2006/vcard/ns#adr> _:nodef0d35b62a9e56cfc43c6675b825da372 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:noded07887aa56916e9c4edfb282b376bcf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefb66267b2b1774848ca6db59becc27b <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefb66267b2b1774848ca6db59becc27b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507613 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507613 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507613 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507613 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefb66267b2b1774848ca6db59becc27b <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507614 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507614 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefb66267b2b1774848ca6db59becc27b <http://www.w3.org/2006/vcard/ns#adr> _:node1135c936093508a8e2395463408e41 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefb66267b2b1774848ca6db59becc27b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebe443ee778befe7e42174817eb40187d <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebe443ee778befe7e42174817eb40187d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507615 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507615 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507615 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebe443ee778befe7e42174817eb40187d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507616 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507616 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507616 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebe443ee778befe7e42174817eb40187d <http://www.w3.org/2006/vcard/ns#adr> _:node201cddd8412640f7447874702ee4958 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodebe443ee778befe7e42174817eb40187d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7474c0d09ff34e8b8bc3f987fa8b19f2 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7474c0d09ff34e8b8bc3f987fa8b19f2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507617 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507617 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507617 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507617 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7474c0d09ff34e8b8bc3f987fa8b19f2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507618 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507618 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7474c0d09ff34e8b8bc3f987fa8b19f2 <http://www.w3.org/2006/vcard/ns#adr> _:node1ce8ae7db1167d9833a4142b0d3a1f7 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7474c0d09ff34e8b8bc3f987fa8b19f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodeec72138a3c3f6fa2bb2a78dc2b5793c9 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodeec72138a3c3f6fa2bb2a78dc2b5793c9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507620 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507620 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507620 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodeec72138a3c3f6fa2bb2a78dc2b5793c9 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507621 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507621 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodeec72138a3c3f6fa2bb2a78dc2b5793c9 <http://www.w3.org/2006/vcard/ns#adr> _:nodef6ee7485f9b24d407b41f77e717d9b0 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodeec72138a3c3f6fa2bb2a78dc2b5793c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefbb8c6f05d5e5188b21218cc10dff22e <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefbb8c6f05d5e5188b21218cc10dff22e <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507627 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507627 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507627 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507627 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefbb8c6f05d5e5188b21218cc10dff22e <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507628 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507628 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefbb8c6f05d5e5188b21218cc10dff22e <http://www.w3.org/2006/vcard/ns#adr> _:node9779cd5898542e8e14af0851dbd5738 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodefbb8c6f05d5e5188b21218cc10dff22e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node54a783c01c5c86fb47663b135e2dddf <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node54a783c01c5c86fb47663b135e2dddf <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507629 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507629 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507629 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507629 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node54a783c01c5c86fb47663b135e2dddf <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507630 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507630 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507630 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node54a783c01c5c86fb47663b135e2dddf <http://www.w3.org/2006/vcard/ns#adr> _:nodecf55f7128d79ea259f08d2e4230c47a <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node54a783c01c5c86fb47663b135e2dddf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node473beb31883c1bc9528148be4022ffb0 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node473beb31883c1bc9528148be4022ffb0 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507631 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507631 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507631 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node473beb31883c1bc9528148be4022ffb0 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507632 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507632 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node473beb31883c1bc9528148be4022ffb0 <http://www.w3.org/2006/vcard/ns#adr> _:node4bd7d4adddfb83eade1adf4d2ddb8d20 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node473beb31883c1bc9528148be4022ffb0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecccce19abf92f061665d6ab4a67e8a <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecccce19abf92f061665d6ab4a67e8a <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507633 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507633 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507633 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecccce19abf92f061665d6ab4a67e8a <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507634 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507634 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507634 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecccce19abf92f061665d6ab4a67e8a <http://www.w3.org/2006/vcard/ns#adr> _:node9f64cbd29161b752e2cc845e33765c34 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodecccce19abf92f061665d6ab4a67e8a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef996b8b03327f67fbaeedd8c51202edf <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef996b8b03327f67fbaeedd8c51202edf <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507635 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507635 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507635 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef996b8b03327f67fbaeedd8c51202edf <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507636 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507636 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef996b8b03327f67fbaeedd8c51202edf <http://www.w3.org/2006/vcard/ns#adr> _:node52806221393151b75bbe5def519506f <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:nodef996b8b03327f67fbaeedd8c51202edf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7049891b82da7b171a8b64d1a943ff8e <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7049891b82da7b171a8b64d1a943ff8e <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r38sx87507637 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507637 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507637 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507637 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7049891b82da7b171a8b64d1a943ff8e <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r38sx87507638 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507638 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node1b4m3r38sx87507638 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7049891b82da7b171a8b64d1a943ff8e <http://www.w3.org/2006/vcard/ns#adr> _:noded4d86d08a53cc901718325f1d8b87e8 <http://www.ticketsinventory.com/venue/parc-des-princes/> .
+_:node7049891b82da7b171a8b64d1a943ff8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketsinventory.com/venue/parc-des-princes/> .

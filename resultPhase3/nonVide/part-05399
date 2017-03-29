@@ -1,0 +1,43 @@
+_:nodefe484fde4b42e190a85f176b08ea85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/1209516.html> .
+_:nodefe484fde4b42e190a85f176b08ea85 <http://www.w3.org/2006/vcard/ns#street-address> "4 Rue du Bon Secours" <http://fr.nomao.com/1209516.html> .
+_:nodefe484fde4b42e190a85f176b08ea85 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/1209516.html> .
+_:nodefe484fde4b42e190a85f176b08ea85 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/1209516.html> .
+_:nodefe484fde4b42e190a85f176b08ea85 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/1209516.html> .
+_:node46185fdb5f43f118e5ec92bd27cc842 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1209516.html> .
+_:node46185fdb5f43f118e5ec92bd27cc842 <http://schema.org/ListItem/item> <http://fr.nomao.com/1209516.html//> <http://fr.nomao.com/1209516.html> .
+_:node46185fdb5f43f118e5ec92bd27cc842 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://schema.org/BreadcrumbList/itemListElement> _:node46185fdb5f43f118e5ec92bd27cc842 <http://fr.nomao.com/1209516.html> .
+_:nodee9a97f27a5bf4dafe77dfba1735cacee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1209516.html> .
+_:nodee9a97f27a5bf4dafe77dfba1735cacee <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit.html> <http://fr.nomao.com/1209516.html> .
+_:nodee9a97f27a5bf4dafe77dfba1735cacee <http://schema.org/ListItem/name> "Soir\u00E9e Nantes"@fr <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://schema.org/BreadcrumbList/itemListElement> _:nodee9a97f27a5bf4dafe77dfba1735cacee <http://fr.nomao.com/1209516.html> .
+_:nodefd1ec97410578e5376a7fc93a89fbf7b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1209516.html> .
+_:nodefd1ec97410578e5376a7fc93a89fbf7b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/bouger/club.html> <http://fr.nomao.com/1209516.html> .
+_:nodefd1ec97410578e5376a7fc93a89fbf7b <http://schema.org/ListItem/name> "Club Nantes"@fr <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://schema.org/BreadcrumbList/itemListElement> _:nodefd1ec97410578e5376a7fc93a89fbf7b <http://fr.nomao.com/1209516.html> .
+_:nodec6a93425a83be7d3aeb5c9bbd62e1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1209516.html> .
+_:nodec6a93425a83be7d3aeb5c9bbd62e1e <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit/club+prive.html> <http://fr.nomao.com/1209516.html> .
+_:nodec6a93425a83be7d3aeb5c9bbd62e1e <http://schema.org/ListItem/name> "Club priv\u00E9 Nantes"@fr <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://schema.org/BreadcrumbList/itemListElement> _:nodec6a93425a83be7d3aeb5c9bbd62e1e <http://fr.nomao.com/1209516.html> .
+_:nodeef49f8781c5db6e1ca4a3242551771f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1209516.html> .
+_:nodeef49f8781c5db6e1ca4a3242551771f5 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit/sex+shop.html> <http://fr.nomao.com/1209516.html> .
+_:nodeef49f8781c5db6e1ca4a3242551771f5 <http://schema.org/ListItem/name> "Sex shop Nantes"@fr <http://fr.nomao.com/1209516.html> .
+_:node61fcda613a960d1d0203cefdbab9 <http://schema.org/BreadcrumbList/itemListElement> _:nodeef49f8781c5db6e1ca4a3242551771f5 <http://fr.nomao.com/1209516.html> .
+<http://fr.nomao.com/1209516.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node61fcda613a960d1d0203cefdbab9 <http://fr.nomao.com/1209516.html> .
+_:node55eb4152482f46c29f43809e17fe8a84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/1209516.html> .
+_:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/1209516.html> .
+_:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/1209516.html> .
+_:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://schema.org/PostalAddress/streetAddress> "4 Rue du Bon Secours"@fr <http://fr.nomao.com/1209516.html> .
+_:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/1209516.html> .
+_:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/1209516.html> .
+_:node55eb4152482f46c29f43809e17fe8a84 <http://schema.org/LocalBusiness/address> _:node6cf7deef4f8dc3d7fbd1e548c12f6342 <http://fr.nomao.com/1209516.html> .
+_:node55eb4152482f46c29f43809e17fe8a84 <http://schema.org/LocalBusiness/name> "Nikita"@fr <http://fr.nomao.com/1209516.html> .
+_:node55eb4152482f46c29f43809e17fe8a84 <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/missingPictureNomao.png"@fr <http://fr.nomao.com/1209516.html> .
+_:node55eb4152482f46c29f43809e17fe8a84 <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/1209516.html"@fr <http://fr.nomao.com/1209516.html> .
+<http://fr.nomao.com/1209516.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node55eb4152482f46c29f43809e17fe8a84 <http://fr.nomao.com/1209516.html> .
+<http://fr.nomao.com/1209516.html> <http://purl.org/dc/terms/title> "Nikita <http://fr.nomao.com/1209516.html> .
+Sex shop, <http://fr.nomao.com/1209516.html> .
+Rue du Bon Secours, Nantes <http://fr.nomao.com/1209516.html> .
+Soir\u00E9e <http://fr.nomao.com/1209516.html> .
+Nomao"@fr <http://fr.nomao.com/1209516.html> .

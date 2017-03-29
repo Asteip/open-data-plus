@@ -1,0 +1,50 @@
+_:node1b5e63563e46fee114bf34199d99c579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b5e63563e46fee114bf34199d99c579 <http://www.w3.org/2006/vcard/ns#street-address> "3 rue de Valmy" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b5e63563e46fee114bf34199d99c579 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b5e63563e46fee114bf34199d99c579 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b5e63563e46fee114bf34199d99c579 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node78fb4fd0b6a13acd7bfded785ae0f9 <http://www.w3.org/2006/vcard/ns#fn> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node78fb4fd0b6a13acd7bfded785ae0f9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1pt5px12054402 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b4m1pt5px12054402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b4m1pt5px12054402 <http://www.w3.org/2006/vcard/ns#given-name> "Novotel" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b4m1pt5px12054402 <http://www.w3.org/2006/vcard/ns#family-name> "Congr\u00E8s" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node78fb4fd0b6a13acd7bfded785ae0f9 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m1pt5px12054403 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b4m1pt5px12054403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node1b4m1pt5px12054403 <http://www.w3.org/2006/vcard/ns#organization-name> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node78fb4fd0b6a13acd7bfded785ae0f9 <http://www.w3.org/2006/vcard/ns#adr> _:node1b5e63563e46fee114bf34199d99c579 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node78fb4fd0b6a13acd7bfded785ae0f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9721921e285aa454ac195eda2614d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9721921e285aa454ac195eda2614d3 <http://purl.org/stuff/rev#type> "Autre paysage" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9e4a4af8be219363f1ef180d57598ec <http://www.w3.org/2006/vcard/ns#fn> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s" <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9e4a4af8be219363f1ef180d57598ec <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/nantes-hotels/> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9e4a4af8be219363f1ef180d57598ec <http://purl.org/stuff/rev#hasReview> _:node9721921e285aa454ac195eda2614d3 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:nodec2193cb94f6f62d0d2397b20dfde3a76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:nodec2193cb94f6f62d0d2397b20dfde3a76 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec2193cb94f6f62d0d2397b20dfde3a76 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node415114f3271c30e4cd92ebe1ea26794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node415114f3271c30e4cd92ebe1ea26794 <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node415114f3271c30e4cd92ebe1ea26794 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:node415114f3271c30e4cd92ebe1ea26794 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9ca1245fcb19d96ebabb44125e4ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node9ca1245fcb19d96ebabb44125e4ae <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:node9ca1245fcb19d96ebabb44125e4ae <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node12aaeea87af8179aed3b36464f17f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node12aaeea87af8179aed3b36464f17f <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:node12aaeea87af8179aed3b36464f17f <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node958e8ab2d84a1fc2f07cbf59cdf99bb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node958e8ab2d84a1fc2f07cbf59cdf99bb9 <http://data-vocabulary.org/Breadcrumb/title> "Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:node958e8ab2d84a1fc2f07cbf59cdf99bb9 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDlZz-nantes-h%C3%B4tels> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:node958e8ab2d84a1fc2f07cbf59cdf99bb9 <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:nodec2f1d5f0ffc5dc615decfcb61637c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+_:nodec2f1d5f0ffc5dc615decfcb61637c <http://data-vocabulary.org/Breadcrumb/title> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec2f1d5f0ffc5dc615decfcb61637c <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://purl.org/dc/terms/title> "\nNovotel Nantes Centre Cit\u00E9 des Congr\u00E8s, hotel Nantes <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+France <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://opengraphprotocol.org/schema/description> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s \u00E0 Nantes. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .
+<http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> <http://opengraphprotocol.org/schema/title> "Novotel Nantes Centre Cit\u00E9 des Congr\u00E8s, Nantes"@fr_fr <http://www.tvtrip.fr/nantes-hotels/novotel-nantes-centre-cite-congres> .

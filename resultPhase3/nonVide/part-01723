@@ -1,0 +1,34 @@
+_:noded2d8988b2e7a7ce99276654facc8b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/4494452.html> .
+_:noded2d8988b2e7a7ce99276654facc8b9 <http://www.w3.org/2006/vcard/ns#street-address> "112 ROUTE DE SAINTE LUCE 44300 NANTES" <http://fr.nomao.com/4494452.html> .
+_:noded2d8988b2e7a7ce99276654facc8b9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/4494452.html> .
+_:node4841108d7a97f2ebfa4dddb44e87714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/4494452.html> .
+_:node497af2bcf6dee11bd7aa452487e0bb99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4494452.html> .
+_:node497af2bcf6dee11bd7aa452487e0bb99 <http://schema.org/ListItem/item> <http://fr.nomao.com/4494452.html//> <http://fr.nomao.com/4494452.html> .
+_:node497af2bcf6dee11bd7aa452487e0bb99 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/4494452.html> .
+_:node4841108d7a97f2ebfa4dddb44e87714 <http://schema.org/BreadcrumbList/itemListElement> _:node497af2bcf6dee11bd7aa452487e0bb99 <http://fr.nomao.com/4494452.html> .
+_:noded9375926fc57517b558a6e8fa74e20b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4494452.html> .
+_:noded9375926fc57517b558a6e8fa74e20b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/4494452.html> .
+_:noded9375926fc57517b558a6e8fa74e20b <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/4494452.html> .
+_:node4841108d7a97f2ebfa4dddb44e87714 <http://schema.org/BreadcrumbList/itemListElement> _:noded9375926fc57517b558a6e8fa74e20b <http://fr.nomao.com/4494452.html> .
+_:node88e7b970d010724d331e36478faa58db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4494452.html> .
+_:node88e7b970d010724d331e36478faa58db <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante.html> <http://fr.nomao.com/4494452.html> .
+_:node88e7b970d010724d331e36478faa58db <http://schema.org/ListItem/name> "Sant\u00E9 Nantes"@fr <http://fr.nomao.com/4494452.html> .
+_:node4841108d7a97f2ebfa4dddb44e87714 <http://schema.org/BreadcrumbList/itemListElement> _:node88e7b970d010724d331e36478faa58db <http://fr.nomao.com/4494452.html> .
+_:nodedbb5a2844fec51efed7a3d1a0491f1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4494452.html> .
+_:nodedbb5a2844fec51efed7a3d1a0491f1a <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/medecin.html> <http://fr.nomao.com/4494452.html> .
+_:nodedbb5a2844fec51efed7a3d1a0491f1a <http://schema.org/ListItem/name> "M\u00E9decin Nantes"@fr <http://fr.nomao.com/4494452.html> .
+_:node4841108d7a97f2ebfa4dddb44e87714 <http://schema.org/BreadcrumbList/itemListElement> _:nodedbb5a2844fec51efed7a3d1a0491f1a <http://fr.nomao.com/4494452.html> .
+<http://fr.nomao.com/4494452.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node4841108d7a97f2ebfa4dddb44e87714 <http://fr.nomao.com/4494452.html> .
+_:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <http://fr.nomao.com/4494452.html> .
+_:node7bc1d54928db31f9baaa7dce9dc4535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/4494452.html> .
+_:node7bc1d54928db31f9baaa7dce9dc4535 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/4494452.html> .
+_:node7bc1d54928db31f9baaa7dce9dc4535 <http://schema.org/PostalAddress/streetAddress> "112 ROUTE DE SAINTE LUCE 44300 NANTES"@fr <http://fr.nomao.com/4494452.html> .
+_:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://schema.org/MedicalOrganization/address> _:node7bc1d54928db31f9baaa7dce9dc4535 <http://fr.nomao.com/4494452.html> .
+_:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://schema.org/MedicalOrganization/name> "Mercier jacques"@fr <http://fr.nomao.com/4494452.html> .
+_:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://schema.org/MedicalOrganization/logo> "http://static.nomao.com/img/v4/5085886_spot.png"@fr <http://fr.nomao.com/4494452.html> .
+_:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://schema.org/MedicalOrganization/url> "http://fr.nomao.com/4494452.html"@fr <http://fr.nomao.com/4494452.html> .
+<http://fr.nomao.com/4494452.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9a27a99ba2a69887e2f6ba4713f2b1d9 <http://fr.nomao.com/4494452.html> .
+<http://fr.nomao.com/4494452.html> <http://purl.org/dc/terms/title> "Mercier jacques <http://fr.nomao.com/4494452.html> .
+M\u00E9decin, 112 ROUTE DE SAINTE LUCE 44300 NANTES, Nantes <http://fr.nomao.com/4494452.html> .
+M\u00E9decin g\u00E9n\u00E9raliste <http://fr.nomao.com/4494452.html> .
+Nomao"@fr <http://fr.nomao.com/4494452.html> .

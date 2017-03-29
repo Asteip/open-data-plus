@@ -19,7 +19,7 @@ if [ $# = 1 ]; then
 			fi
 
 			echo "PHASE 1"
-			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 100G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 1 ../../CAPSTONE_OPEN_DATA_PLUS/ &
+			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 100G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 1 /home/molli/wdc2017/ &
 			;;
 		2)
 			if [ -d "resultsPhase2" ]; then
@@ -30,7 +30,8 @@ if [ $# = 1 ]; then
 			fi
 
 			echo "PHASE 2"
-			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 100G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 2 ../../CAPSTONE_OPEN_DATA_PLUS/ ./resultsPhase1/* &
+			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 300G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 2 /home/ladda/data2017Sym/part4/ ./resultsPhase1 &
+
 			;;
 
 		3)
@@ -42,7 +43,7 @@ if [ $# = 1 ]; then
 			fi
 
 			echo "PHASE 3"
-			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 100G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 3 ../../CAPSTONE_OPEN_DATA_PLUS/ ./resultsPhase2/* &
+			nohup spark-submit --class com.alma.opendata.NQuadsSearch --driver-memory 100G target/open-data-crawler-1.0-SNAPSHOT-jar-with-dependencies.jar 3 ./resultsPhase2 &
 			;;
 
 		*)
