@@ -1,4 +1,0 @@
-_:nodec15fd1d5835c9757db21e18ef3f1bb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tripadvisor.cn/Hotel_Review-g187198-d1224321-Reviews-Jules_Verne_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:nodec15fd1d5835c9757db21e18ef3f1bb6 <http://www.w3.org/2006/vcard/ns#street-address> "3 rue du Couedic" <http://www.tripadvisor.cn/Hotel_Review-g187198-d1224321-Reviews-Jules_Verne_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:nodec15fd1d5835c9757db21e18ef3f1bb6 <http://www.w3.org/2006/vcard/ns#locality> "44000, Nantes," <http://www.tripadvisor.cn/Hotel_Review-g187198-d1224321-Reviews-Jules_Verne_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:nodec15fd1d5835c9757db21e18ef3f1bb6 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tripadvisor.cn/Hotel_Review-g187198-d1224321-Reviews-Jules_Verne_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .

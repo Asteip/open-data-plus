@@ -1,4 +1,0 @@
-_:node8cdeaf9ca934d4448da5b3ebada33f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tripadvisor.cn/Hotel_Review-g1080871-d2161417-Reviews-Erdre_Intime-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:node8cdeaf9ca934d4448da5b3ebada33f4 <http://www.w3.org/2006/vcard/ns#street-address> "73 Rue de la Basse 44400" <http://www.tripadvisor.cn/Hotel_Review-g1080871-d2161417-Reviews-Erdre_Intime-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:node8cdeaf9ca934d4448da5b3ebada33f4 <http://www.w3.org/2006/vcard/ns#locality> "44400 Reze, Nantes," <http://www.tripadvisor.cn/Hotel_Review-g1080871-d2161417-Reviews-Erdre_Intime-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
-_:node8cdeaf9ca934d4448da5b3ebada33f4 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tripadvisor.cn/Hotel_Review-g1080871-d2161417-Reviews-Erdre_Intime-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html> .
