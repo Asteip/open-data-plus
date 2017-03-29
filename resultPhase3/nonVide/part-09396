@@ -1,0 +1,27 @@
+_:nodebc2c361ee83a21b8f3e9e7d342ab14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodebc2c361ee83a21b8f3e9e7d342ab14 <http://www.w3.org/2006/vcard/ns#street-address> "Mairie de Nantes2 rue de l'H\u00F4tel-de-Ville" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodebc2c361ee83a21b8f3e9e7d342ab14 <http://www.w3.org/2006/vcard/ns#locality> "44000 NANTES" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodebc2c361ee83a21b8f3e9e7d342ab14 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#fn> "Nantes" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m1plb9x53962471 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1b4m1plb9x53962471 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m1plb9x53962472 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1b4m1plb9x53962472 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1b4m1plb9x53962472 <http://www.w3.org/2006/vcard/ns#organization-name> "Nantes" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#url> <http://www.nantes.fr> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#adr> _:nodebc2c361ee83a21b8f3e9e7d342ab14 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#tel> <tel:Contacter%20votre%20mairieAppelez%20le%20118%20612> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2041%2092%2039> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:nodec3cb6152d661bb8ad3463ce6537692e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node818af33b705ffef65073dc303e557ee4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node818af33b705ffef65073dc303e557ee4 <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node818af33b705ffef65073dc303e557ee4 <http://data-vocabulary.org/Breadcrumb/url> <http://www.annuaire-mairie.fr/carte-identite-nantes.html//region-pays-de-la-loire.html> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+<http://www.annuaire-mairie.fr/carte-identite-nantes.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node818af33b705ffef65073dc303e557ee4 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node50bd188fa88983938b2825eab948c73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node50bd188fa88983938b2825eab948c73 <http://data-vocabulary.org/Breadcrumb/title> "Loire-Atlantique" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node50bd188fa88983938b2825eab948c73 <http://data-vocabulary.org/Breadcrumb/url> <http://www.annuaire-mairie.fr/carte-identite-nantes.html//departement-loire-atlantique.html> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+<http://www.annuaire-mairie.fr/carte-identite-nantes.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node50bd188fa88983938b2825eab948c73 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1135aebf1e43b698df2e162157ca448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1135aebf1e43b698df2e162157ca448 <http://data-vocabulary.org/Breadcrumb/title> "Commune de Nantes" <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+_:node1135aebf1e43b698df2e162157ca448 <http://data-vocabulary.org/Breadcrumb/url> <http://www.annuaire-mairie.fr/carte-identite-nantes.html//ville-nantes.html> <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .
+<http://www.annuaire-mairie.fr/carte-identite-nantes.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node1135aebf1e43b698df2e162157ca448 <http://www.annuaire-mairie.fr/carte-identite-nantes.html> .

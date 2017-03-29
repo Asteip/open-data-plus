@@ -1,0 +1,74 @@
+_:node31d06b5e98e53386f3d037a2c9c65955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d06b5e98e53386f3d037a2c9c65955 <http://www.w3.org/2006/vcard/ns#street-address> "7 Avenue De La Republique" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d06b5e98e53386f3d037a2c9c65955 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Nazaire" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d06b5e98e53386f3d037a2c9c65955 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d06b5e98e53386f3d037a2c9c65955 <http://www.w3.org/2006/vcard/ns#postal-code> "44600" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node399faf87a82244de9971883aa29b4599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node399faf87a82244de9971883aa29b4599 <http://www.w3.org/2006/vcard/ns#latitude> "47.2751" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node399faf87a82244de9971883aa29b4599 <http://www.w3.org/2006/vcard/ns#longitude> "-2.2136" <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodea84e53d5da75f15d1bafead7d8666c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodea84e53d5da75f15d1bafead7d8666c5 <http://data-vocabulary.org/Breadcrumb/title> "Home"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodea84e53d5da75f15d1bafead7d8666c5 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodea84e53d5da75f15d1bafead7d8666c5 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node2145fb52c203a92ef303fc7a863c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node2145fb52c203a92ef303fc7a863c2 <http://data-vocabulary.org/Breadcrumb/title> "World"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node2145fb52c203a92ef303fc7a863c2 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/global/overview.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node2145fb52c203a92ef303fc7a863c2 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeb3621a61559b599b938bbb37177f2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeb3621a61559b599b938bbb37177f2d <http://data-vocabulary.org/Breadcrumb/title> "Europe"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeb3621a61559b599b938bbb37177f2d <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/europe/overview.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeeb3621a61559b599b938bbb37177f2d <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node90982fe5433e8697a7e95d981f1f2e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node90982fe5433e8697a7e95d981f1f2e8 <http://data-vocabulary.org/Breadcrumb/title> "France"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node90982fe5433e8697a7e95d981f1f2e8 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/overview.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node90982fe5433e8697a7e95d981f1f2e8 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node654cd592ef8e5b13224411b293a8298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node654cd592ef8e5b13224411b293a8298 <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node654cd592ef8e5b13224411b293a8298 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node654cd592ef8e5b13224411b293a8298 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node13cdff1ccd530adb1666147a7d49e14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node13cdff1ccd530adb1666147a7d49e14 <http://data-vocabulary.org/Breadcrumb/title> "Saint-Nazaire"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node13cdff1ccd530adb1666147a7d49e14 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/saint-nazaire/overview.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node13cdff1ccd530adb1666147a7d49e14 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node1dd218f8977889c9e5b3f5171379d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node1dd218f8977889c9e5b3f5171379d2 <http://data-vocabulary.org/Breadcrumb/title> "Hotels"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node1dd218f8977889c9e5b3f5171379d2 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node1dd218f8977889c9e5b3f5171379d2 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://cdn1.images.touristlink.com/data/cache/member/111132/richard-nahem-avatar_32_32.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://icdn.images.touristlink.com/data/cache/member/77371/barabashuk-olha-avatar_32_32.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_32_32.gif> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://icdn.images.touristlink.com/data/cache/member/111311/jane-berger-avatar_1_32_32.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://cdn1.images.touristlink.com/data/cache/member/69435/sarah-quellec-avatar_32_32.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://cdn1.images.touristlink.com/data/cache/member/5622/laura-mortier-avatar_64_64.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://icdn.images.touristlink.com/data/cache/member/10031/antony-anacleto-avatar_64_64.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://cdn1.images.touristlink.com/data/cache/member/14764/youssef-iraqui-avatar_64_64.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/image> <http://icdn.images.touristlink.com/data/cache/member/22585/DSC_0725_64_64.JPG> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/name> "Hotels near Saint-Nazaire"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://schema.org/City/description> "Travelers are voting Arcantis Hotel Le Bretagne as the best hotel near Saint-Nazaire. There are 55 hotels in Nantes <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+city just 62 km from Saint-Nazaire and <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+hotel in Morbihan which is 107 km distant. The most popular of these are Atel Grand Hotel De Nantes in Nantes and Carnac Lodge <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+Hotel in Morbihan. You can find 227 hotels in Pays de la Loire and 7454 hotels in the country of France. Our members favorite in Pays de la Loire is Hotel Arcantis Aquilon and Bw Premier Hotel Dolce Vita is the top pick in France. Want more? Check out our map of hotels near Saint-Nazaire."@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeaa5efcd6657b3b6f3cfed4ec94f8307d <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hotel> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node232df59deffc89f4c13fe9f7527cafb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node232df59deffc89f4c13fe9f7527cafb <http://schema.org/GeoCoordinates/latitude> "47.2751"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node232df59deffc89f4c13fe9f7527cafb <http://schema.org/GeoCoordinates/longitude> "-2.2136"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/geo> _:node232df59deffc89f4c13fe9f7527cafb <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/image> <http://cdn1.images.touristlink.com/data/cache/hotels/QB/14841/exterior-300_200_150.jpg> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/additionalType> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/additionalType> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+Hotels "@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://schema.org/PostalAddress/streetAddress> "7 Avenue De La Republique"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://schema.org/PostalAddress/postalCode> "44600"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://schema.org/PostalAddress/addressLocality> "Saint-Nazaire"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/address> _:node31d5d2cbbefbbd83dd1487c1983d1af2 <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/name> "Arcantis Hotel Le Bretagne"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/url> <http://www.touristlink.com/france/saint-nazaire/cat/tourist_essentials.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+_:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://schema.org/Hotel/url> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeeaa2568ed1e7f36350ad1ea6a213256e <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .
+<http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> <http://purl.org/dc/terms/title> "Hotels near Saint-Nazaire, France"@en-us <http://www.touristlink.com/france/saint-nazaire/cat/hotels.html> .

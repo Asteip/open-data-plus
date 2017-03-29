@@ -1,0 +1,146 @@
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/2006/vcard/ns#street-address> "57, rue Paradis" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/2006/vcard/ns#locality> "Marseille" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/2006/vcard/ns#postal-code> "13006" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1a93e487e64dae8addf2be3224e6124 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/2006/vcard/ns#street-address> "12, rue de la Chauss\u00E9e d'Antin" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/2006/vcard/ns#postal-code> "75009" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node50da98fffdfae37d85276896232b982 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/2006/vcard/ns#street-address> "52 Grande rue" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/2006/vcard/ns#locality> "La Ville du Bois" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/2006/vcard/ns#postal-code> "91620" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/2006/vcard/ns#street-address> "10 rue Louis Fran\u00E7ois Normand" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/2006/vcard/ns#locality> "La Rivi\u00E8re Saint Sauveur" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/2006/vcard/ns#postal-code> "14600" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7915c47879ef4d66c688de9f535b8e5 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/2006/vcard/ns#street-address> "2, avenue du 11 Novembre 1918" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/2006/vcard/ns#locality> "V\u00E9nissieux" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/2006/vcard/ns#postal-code> "69200" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node86aabf6114c5c68278f83474177fcac <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee199782c827a1cb8a0475c601521742f <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node7dd529f471e61b6dadfd7877d8be206c <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecd7e6f5f3c5ef29cb26b321532b56 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee2eb2a4a1b16735309077b6728292f9 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodea3f0e2bdf235b153c1d7f9bd1e53927f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodea3f0e2bdf235b153c1d7f9bd1e53927f <http://www.w3.org/2006/vcard/ns#latitude> "43.291773" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodea3f0e2bdf235b153c1d7f9bd1e53927f <http://www.w3.org/2006/vcard/ns#longitude> "5.377609" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:noded435739121f6b2d6018b7ae61bb1a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:noded435739121f6b2d6018b7ae61bb1a0 <http://www.w3.org/2006/vcard/ns#latitude> "45.688974" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:noded435739121f6b2d6018b7ae61bb1a0 <http://www.w3.org/2006/vcard/ns#longitude> "4.864894" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node59366e424317781433516a735af6cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node59366e424317781433516a735af6cc <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node59366e424317781433516a735af6cc <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node61756a6f9ea1d97b3ff398b519a8737 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node61756a6f9ea1d97b3ff398b519a8737 <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node61756a6f9ea1d97b3ff398b519a8737 <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node397e851a8021ab968039e3b7ad9a13f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node397e851a8021ab968039e3b7ad9a13f9 <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node397e851a8021ab968039e3b7ad9a13f9 <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodec7f1b070d319183950abb34ddbd4e126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodec7f1b070d319183950abb34ddbd4e126 <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodec7f1b070d319183950abb34ddbd4e126 <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/2006/vcard/ns#fn> "Cabinet d'Hypnose Ericksonienne de Marseille. Laurence ADJADJ" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019396 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019396 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019396 <http://www.w3.org/2006/vcard/ns#given-name> "Cabinet" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019396 <http://www.w3.org/2006/vcard/ns#family-name> "ADJADJ" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/2006/vcard/ns#adr> _:node1a93e487e64dae8addf2be3224e6124 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/2006/vcard/ns#tel> <tel:06%2015%2021%2012%2059> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/2006/vcard/ns#geo> _:nodea3f0e2bdf235b153c1d7f9bd1e53927f <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8947a09199f414a51d124533f842fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee28163dec5f5bc2fc2b2a9dfbb742ee <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019397 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019397 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee28163dec5f5bc2fc2b2a9dfbb742ee <http://www.w3.org/2006/vcard/ns#adr> _:node50da98fffdfae37d85276896232b982 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee28163dec5f5bc2fc2b2a9dfbb742ee <http://www.w3.org/2006/vcard/ns#tel> <tel:01.48.24.84.01> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodee28163dec5f5bc2fc2b2a9dfbb742ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecef28b3635ea451288bb833ea0cdd3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019398 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecef28b3635ea451288bb833ea0cdd3 <http://www.w3.org/2006/vcard/ns#adr> _:node2e3a92cb8eef8ae48fde54dd1f6f562 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecef28b3635ea451288bb833ea0cdd3 <http://www.w3.org/2006/vcard/ns#tel> <tel:06%2077%2096%2015%2046> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodecef28b3635ea451288bb833ea0cdd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8983d425f9c6849bd75dd6ab3d4be <http://www.w3.org/2006/vcard/ns#fn> "R\u00E9sidence \u00AB Les Cottages \u00BB" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8983d425f9c6849bd75dd6ab3d4be <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019399 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019399 <http://www.w3.org/2006/vcard/ns#given-name> "R\u00E9sidence" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019399 <http://www.w3.org/2006/vcard/ns#family-name> "\u00BB" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8983d425f9c6849bd75dd6ab3d4be <http://www.w3.org/2006/vcard/ns#adr> _:node7915c47879ef4d66c688de9f535b8e5 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8983d425f9c6849bd75dd6ab3d4be <http://www.w3.org/2006/vcard/ns#tel> <tel:06%2077%2096%2015%2046> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node8983d425f9c6849bd75dd6ab3d4be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/2006/vcard/ns#fn> "Groupe Hospitalier Les Portes du Sud" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019400 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019400 <http://www.w3.org/2006/vcard/ns#given-name> "Groupe" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019400 <http://www.w3.org/2006/vcard/ns#family-name> "Sud" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/2006/vcard/ns#adr> _:node86aabf6114c5c68278f83474177fcac <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/2006/vcard/ns#tel> <tel:06%2042%2041%2018%2072> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/2006/vcard/ns#geo> _:noded435739121f6b2d6018b7ae61bb1a0 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb9a474818326bd1ab86031fce1904fcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/2006/vcard/ns#fn> "CITI <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019401 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019401 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019401 <http://www.w3.org/2006/vcard/ns#given-name> "CITI" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019401 <http://www.w3.org/2006/vcard/ns#family-name> "Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/2006/vcard/ns#adr> _:nodee199782c827a1cb8a0475c601521742f <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/2006/vcard/ns#geo> _:node59366e424317781433516a735af6cc <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:nodeb2d7343016f9c289f83b70ae2bc6286b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/2006/vcard/ns#fn> "CITI <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019402 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019402 <http://www.w3.org/2006/vcard/ns#given-name> "CITI" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019402 <http://www.w3.org/2006/vcard/ns#family-name> "Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/2006/vcard/ns#adr> _:node7dd529f471e61b6dadfd7877d8be206c <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/2006/vcard/ns#geo> _:node61756a6f9ea1d97b3ff398b519a8737 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node9a4dda459ffb993e3088aa811cf06e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/2006/vcard/ns#fn> "Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019403 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019403 <http://www.w3.org/2006/vcard/ns#given-name> "Centre" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019403 <http://www.w3.org/2006/vcard/ns#family-name> "Int\u00E9grative" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/2006/vcard/ns#adr> _:nodecd7e6f5f3c5ef29cb26b321532b56 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/2006/vcard/ns#geo> _:node397e851a8021ab968039e3b7ad9a13f9 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node4c3519673a891f8db6f653bac55cf2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/2006/vcard/ns#fn> "Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative Nantes Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx86019405 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019405 <http://www.w3.org/2006/vcard/ns#given-name> "Centre" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node1b4otfkcdx86019405 <http://www.w3.org/2006/vcard/ns#family-name> "Rez\u00E9" <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/2006/vcard/ns#adr> _:nodee2eb2a4a1b16735309077b6728292f9 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/2006/vcard/ns#geo> _:nodec7f1b070d319183950abb34ddbd4e126 <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .
+_:node2c1733eec1415e84f0c456b77e6a9bc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/categorie/traitement-hypnose/565> .

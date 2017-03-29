@@ -1,0 +1,43 @@
+_:node96a9ef3d5ff0c64fe6c13de844d0fb43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/715374.html> .
+_:node96a9ef3d5ff0c64fe6c13de844d0fb43 <http://www.w3.org/2006/vcard/ns#street-address> "6 Quai Ceineray" <http://fr.nomao.com/715374.html> .
+_:node96a9ef3d5ff0c64fe6c13de844d0fb43 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/715374.html> .
+_:node96a9ef3d5ff0c64fe6c13de844d0fb43 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/715374.html> .
+_:node96a9ef3d5ff0c64fe6c13de844d0fb43 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/715374.html> .
+_:node97516d9323d148c7bb19558c3bd3c23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/715374.html> .
+_:node97516d9323d148c7bb19558c3bd3c23 <http://schema.org/ListItem/item> <http://fr.nomao.com/715374.html//> <http://fr.nomao.com/715374.html> .
+_:node97516d9323d148c7bb19558c3bd3c23 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://schema.org/BreadcrumbList/itemListElement> _:node97516d9323d148c7bb19558c3bd3c23 <http://fr.nomao.com/715374.html> .
+_:nodeaf97141d2db6ab51e41f4b7ea9b753c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/715374.html> .
+_:nodeaf97141d2db6ab51e41f4b7ea9b753c9 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/715374.html> .
+_:nodeaf97141d2db6ab51e41f4b7ea9b753c9 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://schema.org/BreadcrumbList/itemListElement> _:nodeaf97141d2db6ab51e41f4b7ea9b753c9 <http://fr.nomao.com/715374.html> .
+_:nodee0fb2c2893a45888f6d466133c47c9c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/715374.html> .
+_:nodee0fb2c2893a45888f6d466133c47c9c1 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/administration.html> <http://fr.nomao.com/715374.html> .
+_:nodee0fb2c2893a45888f6d466133c47c9c1 <http://schema.org/ListItem/name> "Administration Nantes"@fr <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://schema.org/BreadcrumbList/itemListElement> _:nodee0fb2c2893a45888f6d466133c47c9c1 <http://fr.nomao.com/715374.html> .
+_:nodeb769de42a179f820476caa94ea3df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/715374.html> .
+_:nodeb769de42a179f820476caa94ea3df <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/administration,civil.html> <http://fr.nomao.com/715374.html> .
+_:nodeb769de42a179f820476caa94ea3df <http://schema.org/ListItem/name> "Civil Nantes"@fr <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://schema.org/BreadcrumbList/itemListElement> _:nodeb769de42a179f820476caa94ea3df <http://fr.nomao.com/715374.html> .
+_:nodec11afa446c5ed82d9826656dfa1c7d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/715374.html> .
+_:nodec11afa446c5ed82d9826656dfa1c7d8 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/administration,prefecture.html> <http://fr.nomao.com/715374.html> .
+_:nodec11afa446c5ed82d9826656dfa1c7d8 <http://schema.org/ListItem/name> "Pr\u00E9fecture Nantes"@fr <http://fr.nomao.com/715374.html> .
+_:nodeba77aaefc571e06473518c52ba0ca42 <http://schema.org/BreadcrumbList/itemListElement> _:nodec11afa446c5ed82d9826656dfa1c7d8 <http://fr.nomao.com/715374.html> .
+<http://fr.nomao.com/715374.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeba77aaefc571e06473518c52ba0ca42 <http://fr.nomao.com/715374.html> .
+_:node2a5769a82a1f19fe5da88d7923d3865f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/715374.html> .
+_:node7b6071a0b1cffe332712ec11e15c5650 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/715374.html> .
+_:node7b6071a0b1cffe332712ec11e15c5650 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/715374.html> .
+_:node7b6071a0b1cffe332712ec11e15c5650 <http://schema.org/PostalAddress/streetAddress> "6 Quai Ceineray"@fr <http://fr.nomao.com/715374.html> .
+_:node7b6071a0b1cffe332712ec11e15c5650 <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/715374.html> .
+_:node7b6071a0b1cffe332712ec11e15c5650 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/715374.html> .
+_:node2a5769a82a1f19fe5da88d7923d3865f <http://schema.org/LocalBusiness/address> _:node7b6071a0b1cffe332712ec11e15c5650 <http://fr.nomao.com/715374.html> .
+_:node2a5769a82a1f19fe5da88d7923d3865f <http://schema.org/LocalBusiness/name> "PREFECTURE DE LA LOIRE ATLANTIQUE"@fr <http://fr.nomao.com/715374.html> .
+_:node2a5769a82a1f19fe5da88d7923d3865f <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/715374.html> .
+_:node2a5769a82a1f19fe5da88d7923d3865f <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/715374.html"@fr <http://fr.nomao.com/715374.html> .
+<http://fr.nomao.com/715374.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node2a5769a82a1f19fe5da88d7923d3865f <http://fr.nomao.com/715374.html> .
+<http://fr.nomao.com/715374.html> <http://purl.org/dc/terms/title> "PREFECTURE DE LA LOIRE ATLANTIQUE <http://fr.nomao.com/715374.html> .
+Pr\u00E9fecture, <http://fr.nomao.com/715374.html> .
+Quai Ceineray, Nantes <http://fr.nomao.com/715374.html> .
+Administration <http://fr.nomao.com/715374.html> .
+Nomao"@fr <http://fr.nomao.com/715374.html> .

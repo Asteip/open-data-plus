@@ -1,0 +1,34 @@
+_:nodec310f3f02e7c3c4b6dea66a2cf56ebcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/5135368.html> .
+_:nodec310f3f02e7c3c4b6dea66a2cf56ebcb <http://www.w3.org/2006/vcard/ns#street-address> "61 Boulevard Victor Hugo" <http://fr.nomao.com/5135368.html> .
+_:nodec310f3f02e7c3c4b6dea66a2cf56ebcb <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/5135368.html> .
+_:nodec310f3f02e7c3c4b6dea66a2cf56ebcb <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/5135368.html> .
+_:nodec310f3f02e7c3c4b6dea66a2cf56ebcb <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://fr.nomao.com/5135368.html> .
+_:node9f2f47b5f8838e18a1e34838e56e44c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/5135368.html> .
+_:node1e91b862d8b5225f5f94c6aaced8259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5135368.html> .
+_:node1e91b862d8b5225f5f94c6aaced8259 <http://schema.org/ListItem/item> <http://fr.nomao.com/5135368.html//> <http://fr.nomao.com/5135368.html> .
+_:node1e91b862d8b5225f5f94c6aaced8259 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/5135368.html> .
+_:node9f2f47b5f8838e18a1e34838e56e44c <http://schema.org/BreadcrumbList/itemListElement> _:node1e91b862d8b5225f5f94c6aaced8259 <http://fr.nomao.com/5135368.html> .
+_:node553718e529c8a2f0579fb30d9a33a91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5135368.html> .
+_:node553718e529c8a2f0579fb30d9a33a91 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit.html> <http://fr.nomao.com/5135368.html> .
+_:node553718e529c8a2f0579fb30d9a33a91 <http://schema.org/ListItem/name> "Soir\u00E9e Nantes"@fr <http://fr.nomao.com/5135368.html> .
+_:node9f2f47b5f8838e18a1e34838e56e44c <http://schema.org/BreadcrumbList/itemListElement> _:node553718e529c8a2f0579fb30d9a33a91 <http://fr.nomao.com/5135368.html> .
+_:node5f408036afd4827f6137b5ae032e3ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/5135368.html> .
+_:node5f408036afd4827f6137b5ae032e3ce <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vivre+la+nuit/bar.html> <http://fr.nomao.com/5135368.html> .
+_:node5f408036afd4827f6137b5ae032e3ce <http://schema.org/ListItem/name> "Bar Nantes"@fr <http://fr.nomao.com/5135368.html> .
+_:node9f2f47b5f8838e18a1e34838e56e44c <http://schema.org/BreadcrumbList/itemListElement> _:node5f408036afd4827f6137b5ae032e3ce <http://fr.nomao.com/5135368.html> .
+<http://fr.nomao.com/5135368.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9f2f47b5f8838e18a1e34838e56e44c <http://fr.nomao.com/5135368.html> .
+_:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BarOrPub> <http://fr.nomao.com/5135368.html> .
+_:nodeeac3edd9643345eecd17f3b897c91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/5135368.html> .
+_:nodeeac3edd9643345eecd17f3b897c91 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/5135368.html> .
+_:nodeeac3edd9643345eecd17f3b897c91 <http://schema.org/PostalAddress/streetAddress> "61 Boulevard Victor Hugo"@fr <http://fr.nomao.com/5135368.html> .
+_:nodeeac3edd9643345eecd17f3b897c91 <http://schema.org/PostalAddress/postalCode> "44200 "@fr <http://fr.nomao.com/5135368.html> .
+_:nodeeac3edd9643345eecd17f3b897c91 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/5135368.html> .
+_:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://schema.org/BarOrPub/address> _:nodeeac3edd9643345eecd17f3b897c91 <http://fr.nomao.com/5135368.html> .
+_:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://schema.org/BarOrPub/name> "Lounas Farid"@fr <http://fr.nomao.com/5135368.html> .
+_:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://schema.org/BarOrPub/logo> "http://static.nomao.com/img/v4/missingPictureNomao.png"@fr <http://fr.nomao.com/5135368.html> .
+_:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://schema.org/BarOrPub/url> "http://fr.nomao.com/5135368.html"@fr <http://fr.nomao.com/5135368.html> .
+<http://fr.nomao.com/5135368.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node8e9e67f2383d91b59e4fd9bf27db54c4 <http://fr.nomao.com/5135368.html> .
+<http://fr.nomao.com/5135368.html> <http://purl.org/dc/terms/title> "Lounas Farid <http://fr.nomao.com/5135368.html> .
+Bar, 61 Boulevard Victor Hugo, Nantes <http://fr.nomao.com/5135368.html> .
+Pub <http://fr.nomao.com/5135368.html> .
+Nomao"@fr <http://fr.nomao.com/5135368.html> .

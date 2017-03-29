@@ -1,0 +1,17 @@
+_:nodec176b16caa9e75f13ea25895a48185c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:nodec176b16caa9e75f13ea25895a48185c7 <http://www.w3.org/2006/vcard/ns#street-address> "12 avenue Carnot CS61709" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:nodec176b16caa9e75f13ea25895a48185c7 <http://www.w3.org/2006/vcard/ns#locality> "Nantes Cedex 1" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:nodec176b16caa9e75f13ea25895a48185c7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:nodec176b16caa9e75f13ea25895a48185c7 <http://www.w3.org/2006/vcard/ns#postal-code> "44017" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#fn> "Hudson Ouest Atlantique" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltn8nix166496752 <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node1b4ltn8nix166496752 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node1b4ltn8nix166496752 <http://www.w3.org/2006/vcard/ns#given-name> "Hudson" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node1b4ltn8nix166496752 <http://www.w3.org/2006/vcard/ns#family-name> "Atlantique" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#org> _:node1b4ltn8nix166496753 <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node1b4ltn8nix166496753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node1b4ltn8nix166496753 <http://www.w3.org/2006/vcard/ns#organization-name> "Hudson Ouest Atlantique" <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#email> <mailto:hudson.nantes@hudson.com> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#adr> _:nodec176b16caa9e75f13ea25895a48185c7 <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2089%2063%2004> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .
+_:node2a565f9cf6a2dccdb3c3afd517a3dc7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hudson.fr/fr-fr/hudson-ouest-atlantique> .

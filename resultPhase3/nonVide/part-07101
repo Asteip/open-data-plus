@@ -1,0 +1,33 @@
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#street-address> "Route de Nantes  Parking Super U" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#locality> "Sainte-Pazanne" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique, France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb32930f49d2db81308662e487f26aac <http://www.w3.org/2006/vcard/ns#postal-code> "44680" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node3d8a918acbb0dae385234646aada8a76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#fn> "Cabinet V\u00E9t\u00E9rinaire Vetoptimum" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltnjbux84224455 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node1b4ltnjbux84224455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node1b4ltnjbux84224455 <http://www.w3.org/2006/vcard/ns#given-name> "Cabinet" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node1b4ltnjbux84224455 <http://www.w3.org/2006/vcard/ns#family-name> "Vetoptimum" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#org> _:node1b4ltnjbux84224456 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node1b4ltnjbux84224456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node1b4ltnjbux84224456 <http://www.w3.org/2006/vcard/ns#organization-name> "Cabinet V\u00E9t\u00E9rinaire Vetoptimum" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#url> <http://vetoptimum.chezmonveto.com> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#adr> _:nodeb32930f49d2db81308662e487f26aac <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2002%2040%2049> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2026%2041%2054> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/2006/vcard/ns#geo> _:node3d8a918acbb0dae385234646aada8a76 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node11e891fc59eb8a17563e94639a86e467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node94b8c9575e646349b03aaa883bf3c1d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node94b8c9575e646349b03aaa883bf3c1d8 <http://data-vocabulary.org/Breadcrumb/title> "Accueil" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:node94b8c9575e646349b03aaa883bf3c1d8 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node94b8c9575e646349b03aaa883bf3c1d8 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb0cef2862fef954cb93975377c2f7e40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb0cef2862fef954cb93975377c2f7e40 <http://data-vocabulary.org/Breadcrumb/title> "Annuaire des v\u00E9t\u00E9rinaires en France" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+_:nodeb0cef2862fef954cb93975377c2f7e40 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/annuaire-veterinaire-france.html> <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb0cef2862fef954cb93975377c2f7e40 <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+<http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> <http://purl.org/dc/terms/title> "Site v\u00E9t\u00E9rinaire <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+Chezmonveto.com <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .
+Cr\u00E9ation de sites internet pour les v\u00E9t\u00E9rinaires" <http://www.chezmonveto.com/fiche-cabinet-veterinaire-sainte-pazanne-102911.html> .

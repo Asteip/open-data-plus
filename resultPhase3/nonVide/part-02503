@@ -1,0 +1,30 @@
+_:nodeea31ce2783a97aae512272d940c032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.lephare.com/fr/contact> .
+_:nodeea31ce2783a97aae512272d940c032 <http://www.w3.org/2006/vcard/ns#street-address> "58 avenue du Parc de proc\u00E9" <http://www.lephare.com/fr/contact> .
+_:nodeea31ce2783a97aae512272d940c032 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.lephare.com/fr/contact> .
+_:nodeea31ce2783a97aae512272d940c032 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.lephare.com/fr/contact> .
+_:nodeea31ce2783a97aae512272d940c032 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.lephare.com/fr/contact> .
+_:node181f7b288b1c636a64954475d0b5d7d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.lephare.com/fr/contact> .
+_:node181f7b288b1c636a64954475d0b5d7d9 <http://www.w3.org/2006/vcard/ns#latitude> "47.2206213" <http://www.lephare.com/fr/contact> .
+_:node181f7b288b1c636a64954475d0b5d7d9 <http://www.w3.org/2006/vcard/ns#longitude> "-1.5815265" <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#fn> "Le Phare" <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r37kx72636366 <http://www.lephare.com/fr/contact> .
+_:node1b4m3r37kx72636366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.lephare.com/fr/contact> .
+_:node1b4m3r37kx72636366 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.lephare.com/fr/contact> .
+_:node1b4m3r37kx72636366 <http://www.w3.org/2006/vcard/ns#family-name> "Phare" <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r37kx72636367 <http://www.lephare.com/fr/contact> .
+_:node1b4m3r37kx72636367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.lephare.com/fr/contact> .
+_:node1b4m3r37kx72636367 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Phare" <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#url> <http://www.lephare.com> <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#adr> _:nodeea31ce2783a97aae512272d940c032 <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/2006/vcard/ns#geo> _:node181f7b288b1c636a64954475d0b5d7d9 <http://www.lephare.com/fr/contact> .
+_:node78eb5e7cb937345281b1a44ea9dda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.lephare.com/fr/contact> .
+_:node82fcc29a5b875d5cfaa988f8f98ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.lephare.com/fr/contact> .
+_:node987812fdfe18293eef6c2d6b24f36e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.lephare.com/fr/contact> .
+_:node987812fdfe18293eef6c2d6b24f36e <http://schema.org/PostalAddress/streetAddress> "58 avenue du Parc de proc\u00E9"@fr <http://www.lephare.com/fr/contact> .
+_:node987812fdfe18293eef6c2d6b24f36e <http://schema.org/PostalAddress/postalCode> "44100"@fr <http://www.lephare.com/fr/contact> .
+_:node987812fdfe18293eef6c2d6b24f36e <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.lephare.com/fr/contact> .
+_:node82fcc29a5b875d5cfaa988f8f98ec <http://schema.org/LocalBusiness/address> _:node987812fdfe18293eef6c2d6b24f36e <http://www.lephare.com/fr/contact> .
+_:node82fcc29a5b875d5cfaa988f8f98ec <http://schema.org/LocalBusiness/name> "Le Phare"@fr <http://www.lephare.com/fr/contact> .
+<http://www.lephare.com/fr/contact> <http://www.w3.org/1999/xhtml/microdata#item> _:node82fcc29a5b875d5cfaa988f8f98ec <http://www.lephare.com/fr/contact> .
+<http://www.lephare.com/fr/contact> <http://purl.org/dc/terms/title> "Contactez-nous <http://www.lephare.com/fr/contact> .
+Le Phare"@fr <http://www.lephare.com/fr/contact> .

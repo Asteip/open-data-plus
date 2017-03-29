@@ -1,0 +1,26 @@
+_:node6fb4345ea5aaa45d4d3c797bc61bfae9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.slideshare.net/sebastiensauteur> .
+_:node6fb4345ea5aaa45d4d3c797bc61bfae9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/2006/vcard/ns#fn> "S\u00E9bastien Sauteur" <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2ec3rx272310733 <http://www.slideshare.net/sebastiensauteur> .
+_:node1b4m2ec3rx272310733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.slideshare.net/sebastiensauteur> .
+_:node1b4m2ec3rx272310733 <http://www.w3.org/2006/vcard/ns#given-name> "S\u00E9bastien" <http://www.slideshare.net/sebastiensauteur> .
+_:node1b4m2ec3rx272310733 <http://www.w3.org/2006/vcard/ns#family-name> "Sauteur" <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/2006/vcard/ns#url> <http://valeurdusage.net> <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/2006/vcard/ns#photo> <http://public.slidesharecdn.com/b/images/user-96x96.png> <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/2006/vcard/ns#adr> _:node6fb4345ea5aaa45d4d3c797bc61bfae9 <http://www.slideshare.net/sebastiensauteur> .
+_:node1f717290d61a95303a4fc2e1a3b527c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://schema.org/Person/image> <http://www.slideshare.net/sebastiensauteur///public.slidesharecdn.com/b/images/user-96x96.png> <http://www.slideshare.net/sebastiensauteur> .
+_:node3057863041fd3b8071f4ff95f27f7eca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.slideshare.net/sebastiensauteur> .
+_:node3057863041fd3b8071f4ff95f27f7eca <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.slideshare.net/sebastiensauteur> .
+_:node3057863041fd3b8071f4ff95f27f7eca <http://schema.org/PostalAddress/addressLocality> "Nantes"@en <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://schema.org/Person/address> _:node3057863041fd3b8071f4ff95f27f7eca <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://schema.org/Person/name> "\n <http://www.slideshare.net/sebastiensauteur> .
+ <http://www.slideshare.net/sebastiensauteur> .
+S\u00E9bastien Sauteur\n <http://www.slideshare.net/sebastiensauteur> .
+ "@en <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://schema.org/Person/telephone> <http://www.slideshare.net/sebastiensauteur> .
+0688068470 "@en <http://www.slideshare.net/sebastiensauteur> .
+_:node5103b80ce2e7a631d99731dbadc132 <http://schema.org/Person/url> <http://valeurdusage.net> <http://www.slideshare.net/sebastiensauteur> .
+<http://www.slideshare.net/sebastiensauteur> <http://www.w3.org/1999/xhtml/microdata#item> _:node5103b80ce2e7a631d99731dbadc132 <http://www.slideshare.net/sebastiensauteur> .
+<http://www.slideshare.net/sebastiensauteur> <http://purl.org/dc/terms/title> "S\u00E9bastien Sauteur presentations"@en <http://www.slideshare.net/sebastiensauteur> .

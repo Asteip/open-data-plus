@@ -1,0 +1,29 @@
+_:node30e31c966c78a22c0e4f1c225e6a68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node30e31c966c78a22c0e4f1c225e6a68 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node30e31c966c78a22c0e4f1c225e6a68 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node58e5d459611122f39aaead2f815ad41e <http://www.w3.org/2006/vcard/ns#n> _:node1b4oh94msx25749704 <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node1b4oh94msx25749704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node58e5d459611122f39aaead2f815ad41e <http://www.w3.org/2006/vcard/ns#adr> _:node30e31c966c78a22c0e4f1c225e6a68 <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:node58e5d459611122f39aaead2f815ad41e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:nodef3863d8d4f61529f8abc97dc71a125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:nodef3863d8d4f61529f8abc97dc71a125 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://volunteeralliance.org/volunteer/david-rouxel> .
+_:nodef3863d8d4f61529f8abc97dc71a125 <http://schema.org/PostalAddress/addressLocality> "\n <http://volunteeralliance.org/volunteer/david-rouxel> .
+ <http://volunteeralliance.org/volunteer/david-rouxel> .
+Nantes <http://volunteeralliance.org/volunteer/david-rouxel> .
+ <http://volunteeralliance.org/volunteer/david-rouxel> .
+"@en <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef3863d8d4f61529f8abc97dc71a125 <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://purl.org/dc/terms/title> "David Rouxel <http://volunteeralliance.org/volunteer/david-rouxel> .
+Volunteer Alliance"@en <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://xmlns.com/foaf/0.1/name> "Davidr" <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel#me> <http://xmlns.com/foaf/0.1/account> <http://volunteeralliance.org/volunteer/david-rouxel> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/sites/default/files/styles/medium/public/VOL/Anonymous/David.jpg?itok=gUDaoP3i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://purl.org/dc/terms/date> "1982-06-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/sites/default/files/styles/profile_picture/public/VOL/Anonymous/David.jpg?itok=sRJh8t4D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/volunteer/david-rouxel> <http://purl.org/dc/terms/date> "1982-06-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/contact-page> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/contact-page> <http://purl.org/dc/terms/title> "" <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/contact-page> <http://rdfs.org/sioc/ns#num_replies> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://volunteeralliance.org/volunteer/david-rouxel> .
+<http://volunteeralliance.org/contact-page> <http://purl.org/rss/1.0/modules/content/encoded> "You must Login or Create an Account to contact this user directly.OR Request More Information" <http://volunteeralliance.org/volunteer/david-rouxel> .

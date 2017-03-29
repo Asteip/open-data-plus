@@ -1,0 +1,361 @@
+_:node32b23edc886e994ed09227746ec4db8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node32b23edc886e994ed09227746ec4db8 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node32b23edc886e994ed09227746ec4db8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node837ea298fe554eaf89c3d43cdc0ede7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node837ea298fe554eaf89c3d43cdc0ede7 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node837ea298fe554eaf89c3d43cdc0ede7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node2b92acb867d997b48c94b8785251ec7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node2b92acb867d997b48c94b8785251ec7e <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node2b92acb867d997b48c94b8785251ec7e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeab412ab6cd307958f352b883b580a312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeab412ab6cd307958f352b883b580a312 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeab412ab6cd307958f352b883b580a312 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node447ac2c411b5b34579b6d11d9fe57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node447ac2c411b5b34579b6d11d9fe57 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node447ac2c411b5b34579b6d11d9fe57 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node586de26bfe63943b9e4f7895dcd110e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node586de26bfe63943b9e4f7895dcd110e8 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node586de26bfe63943b9e4f7895dcd110e8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded86c1fbd5ce16b199c588ba3fe8441cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded86c1fbd5ce16b199c588ba3fe8441cf <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded86c1fbd5ce16b199c588ba3fe8441cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeb4a7deb6287b659c2fe68591b5a969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeb4a7deb6287b659c2fe68591b5a969 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodeb4a7deb6287b659c2fe68591b5a969 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodec234e5d7cad6dcdecd35f45bc6c16581 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodec234e5d7cad6dcdecd35f45bc6c16581 <http://www.w3.org/2006/vcard/ns#locality> "Saint-Herblain" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodec234e5d7cad6dcdecd35f45bc6c16581 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayNov 16, 20168:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863831 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-16-2016-tickets-2679997.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863831 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "ThursdayNov 17, 20168:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863832 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-17-2016-tickets-2679998.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863832 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "FridayNov 18, 20168:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863833 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-18-2016-tickets-2679999.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863833 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 19, 20164:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863834 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-19-2016-tickets-2680001.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863834 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 19, 20168:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863835 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-19-2016-tickets-2680000.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863835 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SundayNov 20, 20161:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863836 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-20-2016-tickets-2680002.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863836 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/2002/12/cal/icaltzd#description> "Cirque du Soleil <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Varekai" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SundayNov 20, 20165:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863837 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/cirque-du-soleil-varekai-11-20-2016-tickets-2680003.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863837 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Placebo" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/2002/12/cal/icaltzd#description> "Placebo" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "MondayNov 28, 20168:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863838 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/placebo-11-28-2016-tickets-2838211.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863838 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Julien Dore" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/2002/12/cal/icaltzd#description> "Julien Dore" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/2002/12/cal/icaltzd#location> "Saint-Herblain, FranceZenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayMar 08, 20178:00PM" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863839 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/julien-dore-03-08-2017-tickets-2947798.aspx> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4p8h9p3x117863839 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded4409be863ec457293a6d73e8d76d379 <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded4409be863ec457293a6d73e8d76d379 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863840 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863840 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863840 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded4409be863ec457293a6d73e8d76d379 <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863841 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863841 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863841 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded4409be863ec457293a6d73e8d76d379 <http://www.w3.org/2006/vcard/ns#adr> _:node32b23edc886e994ed09227746ec4db8 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:noded4409be863ec457293a6d73e8d76d379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node372aeeb8f3b6f53390e447bbe6e93bcf <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node372aeeb8f3b6f53390e447bbe6e93bcf <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863842 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863842 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863842 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863842 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node372aeeb8f3b6f53390e447bbe6e93bcf <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863843 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863843 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node372aeeb8f3b6f53390e447bbe6e93bcf <http://www.w3.org/2006/vcard/ns#adr> _:node837ea298fe554eaf89c3d43cdc0ede7 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node372aeeb8f3b6f53390e447bbe6e93bcf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node14250fa5e2fe4aff8831929c57d8d51 <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node14250fa5e2fe4aff8831929c57d8d51 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863844 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863844 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863844 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node14250fa5e2fe4aff8831929c57d8d51 <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863845 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863845 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node14250fa5e2fe4aff8831929c57d8d51 <http://www.w3.org/2006/vcard/ns#adr> _:node2b92acb867d997b48c94b8785251ec7e <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node14250fa5e2fe4aff8831929c57d8d51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node7aaac974c4816402d7af84e4f40283e <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node7aaac974c4816402d7af84e4f40283e <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863846 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863846 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863846 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node7aaac974c4816402d7af84e4f40283e <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863847 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863847 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node7aaac974c4816402d7af84e4f40283e <http://www.w3.org/2006/vcard/ns#adr> _:nodeab412ab6cd307958f352b883b580a312 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node7aaac974c4816402d7af84e4f40283e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node552725c8e533539d26895f7a97d61e <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node552725c8e533539d26895f7a97d61e <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863848 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863848 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863848 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node552725c8e533539d26895f7a97d61e <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863849 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863849 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node552725c8e533539d26895f7a97d61e <http://www.w3.org/2006/vcard/ns#adr> _:node447ac2c411b5b34579b6d11d9fe57 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node552725c8e533539d26895f7a97d61e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodef6555d2f4a7aacbfa2be9f676524c8 <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodef6555d2f4a7aacbfa2be9f676524c8 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863850 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863850 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863850 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodef6555d2f4a7aacbfa2be9f676524c8 <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863851 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863851 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodef6555d2f4a7aacbfa2be9f676524c8 <http://www.w3.org/2006/vcard/ns#adr> _:node586de26bfe63943b9e4f7895dcd110e8 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodef6555d2f4a7aacbfa2be9f676524c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1f679b31426fe69fb366a0cd89afdf67 <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1f679b31426fe69fb366a0cd89afdf67 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863852 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863852 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863852 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1f679b31426fe69fb366a0cd89afdf67 <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863853 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863853 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1f679b31426fe69fb366a0cd89afdf67 <http://www.w3.org/2006/vcard/ns#adr> _:noded86c1fbd5ce16b199c588ba3fe8441cf <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1f679b31426fe69fb366a0cd89afdf67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1363d2fbc718b6ac95a2b6761df0754c <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1363d2fbc718b6ac95a2b6761df0754c <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863854 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863854 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863854 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1363d2fbc718b6ac95a2b6761df0754c <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863855 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863855 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1363d2fbc718b6ac95a2b6761df0754c <http://www.w3.org/2006/vcard/ns#adr> _:nodeb4a7deb6287b659c2fe68591b5a969 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1363d2fbc718b6ac95a2b6761df0754c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node353a6eb34c1a4d07235c6bf29bfe381 <http://www.w3.org/2006/vcard/ns#fn> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node353a6eb34c1a4d07235c6bf29bfe381 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x117863856 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863856 <http://www.w3.org/2006/vcard/ns#given-name> "Zenith" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863856 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node353a6eb34c1a4d07235c6bf29bfe381 <http://www.w3.org/2006/vcard/ns#org> _:node1b4p8h9p3x117863857 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node1b4p8h9p3x117863857 <http://www.w3.org/2006/vcard/ns#organization-name> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes" <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node353a6eb34c1a4d07235c6bf29bfe381 <http://www.w3.org/2006/vcard/ns#adr> _:nodec234e5d7cad6dcdecd35f45bc6c16581 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node353a6eb34c1a4d07235c6bf29bfe381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node81d0bba9fe37e462bde3b0638658594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:node81d0bba9fe37e462bde3b0638658594 <http://schema.org/Product/name> <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+\n\n\n\n\n  Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes\n\n\n\n\n \n\n \n\n\n\n\n  \n Tickets\n <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+\n\n\n\n"@en-us <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://www.w3.org/1999/xhtml/microdata#item> _:node81d0bba9fe37e462bde3b0638658594 <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://purl.org/dc/terms/title> "Zenith <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+Nantes Tickets at TicketNetwork"@en-us <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+<http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> <http://ogp.me/ns/fb#app_id> "121641127863557"@en-us <http://www.ticketnetwork.com/venues/zenith-nantes-tickets.aspx?vid=8767> .
+_:nodee34ac55442cecb22faac30f7f1e7d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodee34ac55442cecb22faac30f7f1e7d92 <http://www.w3.org/2006/vcard/ns#locality> "Ile-de-France" <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodee34ac55442cecb22faac30f7f1e7d92 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node73c57e39e2aa828f9f29e67cc7ef74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node73c57e39e2aa828f9f29e67cc7ef74 <http://www.w3.org/2006/vcard/ns#latitude> "47.3989" <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node73c57e39e2aa828f9f29e67cc7ef74 <http://www.w3.org/2006/vcard/ns#longitude> "0.7028" <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node185661ef7d6cad7192ee3edfac529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node185661ef7d6cad7192ee3edfac529 <http://data-vocabulary.org/Breadcrumb/title> "Home"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node185661ef7d6cad7192ee3edfac529 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node185661ef7d6cad7192ee3edfac529 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node1478d6eea66884772ed36d7f6de0b771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node1478d6eea66884772ed36d7f6de0b771 <http://data-vocabulary.org/Breadcrumb/title> "World"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node1478d6eea66884772ed36d7f6de0b771 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/global/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node1478d6eea66884772ed36d7f6de0b771 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node60e190fd9e48e471bb3bf7d33eabe7f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node60e190fd9e48e471bb3bf7d33eabe7f9 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node60e190fd9e48e471bb3bf7d33eabe7f9 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/europe/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node60e190fd9e48e471bb3bf7d33eabe7f9 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node46f4ad18efed5481e9fd9b944958ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node46f4ad18efed5481e9fd9b944958ab <http://data-vocabulary.org/Breadcrumb/title> "France"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node46f4ad18efed5481e9fd9b944958ab <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node46f4ad18efed5481e9fd9b944958ab <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodedfd414a1c7c054141eeb321ad587cb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodedfd414a1c7c054141eeb321ad587cb6 <http://data-vocabulary.org/Breadcrumb/title> "Ile-de-France"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodedfd414a1c7c054141eeb321ad587cb6 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/ile-de-france/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedfd414a1c7c054141eeb321ad587cb6 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeee42f33cb4af9eb2355f84461b620db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeee42f33cb4af9eb2355f84461b620db <http://data-vocabulary.org/Breadcrumb/title> "Loire Valley"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeee42f33cb4af9eb2355f84461b620db <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/loire-valley/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeee42f33cb4af9eb2355f84461b620db <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef9729c19c1ecc9f361feddc464495d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef9729c19c1ecc9f361feddc464495d <http://data-vocabulary.org/Breadcrumb/title> "Guide"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef9729c19c1ecc9f361feddc464495d <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/loire-valley/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef9729c19c1ecc9f361feddc464495d <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Landform> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node6c837b77d55919e3457d8ca7430c72f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node6c837b77d55919e3457d8ca7430c72f <http://schema.org/GeoCoordinates/latitude> "47.3989"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node6c837b77d55919e3457d8ca7430c72f <http://schema.org/GeoCoordinates/longitude> "0.7028"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/geo> _:node6c837b77d55919e3457d8ca7430c72f <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/repository/C/H/A/T/E/A/U/D/chateau-dazay-le-rideau.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/36099/disneyparistransfer-left-slide3_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/111132/richard-nahem-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/115511/Edwige_RIALLOT_ligth_small_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/39001/icon3_j_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/34956/coolest-riad-avatar_1_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/61133/sool-gonzales-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/53605/ligia-bervian-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/67176/philippe-legrain-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/52981/josy-mikusinski-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/118419/sandrine-yvrenogeau-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/37174/herve-idir-geneste-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/60058/anis-mouhid-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/119827/huss-ny-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/58131/10614238_10152322256396669_5639963690474394297_n_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/66686/10364109_791780917508470_4215352517002347413_n_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/34956/coolest-riad-avatar_1_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/31879/557380_10151123076193824_1815468788_n_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/58590/nadia-bejaoui-nbk-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/49129/jonathan-altmayer-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/33856/rv-laviale-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/76880/hoci-benhoci-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/75512/may-tzp-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/member/58137/adrien-husson-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/48234/farida-belarbi-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/64178/chelighem-abdelkaddous-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/image> <http://cdn1.images.touristlink.com/data/cache/member/63885/pierre-jack-avatar_64_64.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/additionalType> <http://www.touristlink.com/france/ile-de-france/cat/valleys.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/additionalType> <http://www.touristlink.com/europe/cat/valleys.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/additionalType> <http://www.touristlink.com/global/cat/valleys.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/additionalType> <http://www.touristlink.com/france/ile-de-france/cat/valleys.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/additionalType> <http://www.touristlink.com/france/ile-de-france/cat/heritage-sites.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node81b098be76c1e5a69a77280ac1a9f11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node81b098be76c1e5a69a77280ac1a9f11 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node81b098be76c1e5a69a77280ac1a9f11 <http://schema.org/PostalAddress/addressRegion> "Ile-de-France"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/address> _:node81b098be76c1e5a69a77280ac1a9f11 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/name> "Loire Valley"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node903f381711fde059165e252b534a28c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node903f381711fde059165e252b534a28c7 <http://schema.org/ImageObject/contentURL> <http://icdn.images.touristlink.com/data/cache/C/H/A/T/E/A/U/D/chateau-dazay-le-rideau_400_300.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node903f381711fde059165e252b534a28c7 <http://schema.org/ImageObject/url> <http://www.touristlink.com/france/loire-valley/photos.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/photo> _:node903f381711fde059165e252b534a28c7 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef8fa4654b5783649c9bdf6b8c9c646e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef8fa4654b5783649c9bdf6b8c9c646e8 <http://schema.org/ImageObject/contentURL> <http://icdn.images.touristlink.com/data/cache/L/O/I/R/E/V/I/N/loire-vineyard_400_300.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodef8fa4654b5783649c9bdf6b8c9c646e8 <http://schema.org/ImageObject/url> <http://www.touristlink.com/france/loire-valley/photos.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/photo> _:nodef8fa4654b5783649c9bdf6b8c9c646e8 <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node7d5c48e13117ce476a2856321744fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node7d5c48e13117ce476a2856321744fc <http://schema.org/ImageObject/contentURL> <http://icdn.images.touristlink.com/data/cache/C/H/A/T/E/A/U/V/chateau-valencay_400_300.jpg> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:node7d5c48e13117ce476a2856321744fc <http://schema.org/ImageObject/url> <http://www.touristlink.com/france/loire-valley/photos.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/photo> _:node7d5c48e13117ce476a2856321744fc <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/description> "\n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+\n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+  \n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ \n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+The Loire Valley, spanning 280 kilometres (170 mi), is located in the middle stretch of the Loire River in central France. Its area comprises about 800 square kilometres (310 sq mi). It is referred to as the Cradle of the French Language, and the Garden of France due to the abundance of vineyards, fruit orchards (such as cherries), and artichoke and asparagus fields, which line the banks of the river. Notable for its historic towns, architecture and wines, the valley has been inhabited since the Middle Palaeolithic period. In 2000, UNESCO added the central part of the Loire River valley to its list of World Heritage Sites.\n\nGeography and climate\nThe valley includes historic towns such as Amboise, Angers, Blois, Chinon, Nantes, Orl\u00E9ans, Saumur, and Tours. The climate is favorable most of the year, the river often acting as <http://www.touristlink.com/france/loire-valley/overview.html> .
+line of demarcation in France's weather between the northern climate and the southern. The river has <http://www.touristlink.com/france/loire-valley/overview.html> .
+significant effect on the mesoclimate of the region, adding <http://www.touristlink.com/france/loire-valley/overview.html> .
+few degrees of temperature. The climate can be cool with springtime frost while wine harvest months may have rain. Summers are hot; however influences from the Atlantic moderate the temperature with breezes.\n\nWine\nThe Loire Valley wine region includes the several French wine regions situated along the river from the Muscadet region on the Atlantic coast to the regions of Sancerre and Pouilly-Fum\u00E9 just southeast of the city of Orl\u00E9ans in north central France. Loire wines tend to exhibit <http://www.touristlink.com/france/loire-valley/overview.html> .
+characteristic fruitiness with fresh, crisp flavors.\n\nCulture\nOn December 2, 2000, UNESCO added the central part of the river valley, between Maine and Sully-sur-Loire, to its list of World Heritage Sites. In choosing this area that includes the French d\u00E9partements of Loiret, Loir-et-Cher, Indre-et-Loire, and Maine-et-Loire, the committee said that the Loire Valley is: \"an exceptional cultural landscape, of great beauty, comprised of historic cities and villages, great architectural monuments <http://www.touristlink.com/france/loire-valley/overview.html> .
+the Ch\u00E2teaux <http://www.touristlink.com/france/loire-valley/overview.html> .
+and lands that have been cultivated and shaped by centuries of interaction between local populations and their physical environment, in particular the Loire itself.\" The Loire Valley chansonniers are <http://www.touristlink.com/france/loire-valley/overview.html> .
+related group of songbooks attributed to the composers of the Loire Valley and are the earliest surviving examples of <http://www.touristlink.com/france/loire-valley/overview.html> .
+new genre which offered <http://www.touristlink.com/france/loire-valley/overview.html> .
+combination of words, music, and illuminations.\n\nArchitecture\nThe architectural heritage in the valley's historic towns is notable, especially its ch\u00E2teaux, such as the Ch\u00E2teau d'Amboise, Ch\u00E2teau de Chambord, Ch\u00E2teau de Chinon, Ch\u00E2teau du Rivau, Ch\u00E2teau d'Uss\u00E9, Ch\u00E2teau de Villandry and Chenonceau. The ch\u00E2teaux, numbering more than three hundred, represent <http://www.touristlink.com/france/loire-valley/overview.html> .
+nation of builders starting with the necessary castle fortifications in the 10th century to the splendor of those built half <http://www.touristlink.com/france/loire-valley/overview.html> .
+millennium later. When the French kings began constructing their huge ch\u00E2teaux here, the nobility, not wanting or even daring to be far from the seat of power, followed suit. <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ \n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+  \n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+\n <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ <http://www.touristlink.com/france/loire-valley/overview.html> .
+ "@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/photos> "Null"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .
+_:nodeab3888c3c54878545f38c6ce9b900 <http://schema.org/Landform/url> <http://www.touristlink.com/france/loire-valley/overview.html> <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeab3888c3c54878545f38c6ce9b900 <http://www.touristlink.com/france/loire-valley/overview.html> .
+<http://www.touristlink.com/france/loire-valley/overview.html> <http://purl.org/dc/terms/title> "Loire Valley, France Tourist Information"@en-us <http://www.touristlink.com/france/loire-valley/overview.html> .

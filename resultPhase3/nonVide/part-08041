@@ -1,0 +1,14 @@
+_:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.varoqueaux.fr/> .
+_:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.w3.org/2006/vcard/ns#street-address> "10 Promenade Europa" <http://www.varoqueaux.fr/> .
+_:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.varoqueaux.fr/> .
+_:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.varoqueaux.fr/> .
+_:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.w3.org/2006/vcard/ns#postal-code> "44100 Nantes" <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/2006/vcard/ns#fn> "Renaud Varoqueaux" <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/2006/vcard/ns#n> _:node1b4ntbgegx121318341 <http://www.varoqueaux.fr/> .
+_:node1b4ntbgegx121318341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.varoqueaux.fr/> .
+_:node1b4ntbgegx121318341 <http://www.w3.org/2006/vcard/ns#given-name> "Renaud" <http://www.varoqueaux.fr/> .
+_:node1b4ntbgegx121318341 <http://www.w3.org/2006/vcard/ns#family-name> "Varoqueaux" <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/2006/vcard/ns#email> <mailto:renaud@varoqueaux.fr> <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/2006/vcard/ns#adr> _:node6060ae8c5c82ccd9ad7aefa8e974498 <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/2006/vcard/ns#tel> <tel:T\u00E9l%2002%20404%2070%20404> <http://www.varoqueaux.fr/> .
+_:nodea6ee66a729549120f66d17e86c6d6ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.varoqueaux.fr/> .

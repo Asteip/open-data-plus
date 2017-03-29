@@ -1,0 +1,30 @@
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/mezaji12> .
+_:nodebf32ecfa78cd2f2b6c81397297d852cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/2006/vcard/ns#fn> "Mezaji12" <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m373kcx103803388 <http://dating.lt/users1/mezaji12> .
+_:node1b4m373kcx103803388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://dating.lt/users1/mezaji12> .
+_:node1b4m373kcx103803388 <http://www.w3.org/2006/vcard/ns#given-name> "Mezaji12" <http://dating.lt/users1/mezaji12> .
+_:node1b4m373kcx103803388 <http://www.w3.org/2006/vcard/ns#family-name> "Mezaji12" <http://dating.lt/users1/mezaji12> .
+_:node1b4m373kcx103803388 <http://www.w3.org/2006/vcard/ns#nickname> "Mezaji12" <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/2006/vcard/ns#photo> <http://static5.dating.lt/photos/dat/8b/8bf2datoil/8bf2datoil_1_7342ee3517e56acab3506971cab7629e.jpg> <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/2006/vcard/ns#adr> _:nodebf32ecfa78cd2f2b6c81397297d852cf <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/2006/vcard/ns#note> "I am <http://dating.lt/users1/mezaji12> .
+man, 33 years oldseeking <http://dating.lt/users1/mezaji12> .
+woman age from 27 till 47" <http://dating.lt/users1/mezaji12> .
+_:node904a2c4d63643cba67b6a7e039e7bd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://dating.lt/users1/mezaji12> .
+_:nodec3ed373e1f3659977895cb0808b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> <http://dating.lt/users1/mezaji12> .
+_:nodec3ed373e1f3659977895cb0808b23 <http://schema.org/WebPage/inLanguage> "en" <http://dating.lt/users1/mezaji12> .
+<http://dating.lt/users1/mezaji12> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec3ed373e1f3659977895cb0808b23 <http://dating.lt/users1/mezaji12> .
+_:node2b36fdeb7a16746738f5a7c55c54eea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://dating.lt/users1/mezaji12> .
+_:node2b36fdeb7a16746738f5a7c55c54eea <http://schema.org/Person/image> <http://static5.dating.lt/photos/dat/8b/8bf2datoil/8bf2datoil_1_7342ee3517e56acab3506971cab7629e.jpg> <http://dating.lt/users1/mezaji12> .
+_:node2b36fdeb7a16746738f5a7c55c54eea <http://schema.org/Person/name> "Mezaji12" <http://dating.lt/users1/mezaji12> .
+_:node2b36fdeb7a16746738f5a7c55c54eea <http://schema.org/Person/description> "I am <http://dating.lt/users1/mezaji12> .
+man, 33 years oldseeking <http://dating.lt/users1/mezaji12> .
+woman age from 27 till 47" <http://dating.lt/users1/mezaji12> .
+<http://dating.lt/users1/mezaji12> <http://www.w3.org/1999/xhtml/microdata#item> _:node2b36fdeb7a16746738f5a7c55c54eea <http://dating.lt/users1/mezaji12> .

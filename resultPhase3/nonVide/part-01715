@@ -1,0 +1,222 @@
+_:nodedd8179b5e6401937c77cf95712eb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodedd8179b5e6401937c77cf95712eb9 <http://www.w3.org/2006/vcard/ns#locality> "Hamburg" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodedd8179b5e6401937c77cf95712eb9 <http://www.w3.org/2006/vcard/ns#country-name> "Germany" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node26c7c77c22be1724040af38b5dae66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node26c7c77c22be1724040af38b5dae66 <http://www.w3.org/2006/vcard/ns#locality> "Belfast" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node26c7c77c22be1724040af38b5dae66 <http://www.w3.org/2006/vcard/ns#country-name> "Northern Ireland" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee6985bc534853f8fe884d7c8877691 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee6985bc534853f8fe884d7c8877691 <http://www.w3.org/2006/vcard/ns#locality> "Cardiff" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee6985bc534853f8fe884d7c8877691 <http://www.w3.org/2006/vcard/ns#country-name> "Wales" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node79ecc31b156d3e3ab7c693d3afd7aa6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node79ecc31b156d3e3ab7c693d3afd7aa6 <http://www.w3.org/2006/vcard/ns#locality> "New York" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node79ecc31b156d3e3ab7c693d3afd7aa6 <http://www.w3.org/2006/vcard/ns#region> "NY" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node79ecc31b156d3e3ab7c693d3afd7aa6 <http://www.w3.org/2006/vcard/ns#country-name> "USA" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7bd52165f485d6e7d3461b1a788cbb92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7bd52165f485d6e7d3461b1a788cbb92 <http://www.w3.org/2006/vcard/ns#locality> "Galway" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7bd52165f485d6e7d3461b1a788cbb92 <http://www.w3.org/2006/vcard/ns#country-name> "Ireland" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1a24a27b169542aa80935efeb52516c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1a24a27b169542aa80935efeb52516c3 <http://www.w3.org/2006/vcard/ns#locality> "Ostrava" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1a24a27b169542aa80935efeb52516c3 <http://www.w3.org/2006/vcard/ns#country-name> "Czech Republic" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7754842ae069546ad61983d919c5b1fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7754842ae069546ad61983d919c5b1fb <http://www.w3.org/2006/vcard/ns#locality> "Lisbon" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7754842ae069546ad61983d919c5b1fb <http://www.w3.org/2006/vcard/ns#country-name> "Portugal" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node8b6f2224a6d33ca6af98561de96f71a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node8b6f2224a6d33ca6af98561de96f71a4 <http://www.w3.org/2006/vcard/ns#locality> "Vilanova <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+la Geltr\u00FA" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node8b6f2224a6d33ca6af98561de96f71a4 <http://www.w3.org/2006/vcard/ns#country-name> "Spain" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodefdb216aeaa152bff4afc9b13a5209f80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodefdb216aeaa152bff4afc9b13a5209f80 <http://www.w3.org/2006/vcard/ns#locality> "Genk" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodefdb216aeaa152bff4afc9b13a5209f80 <http://www.w3.org/2006/vcard/ns#country-name> "Belgium" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeafa22ba6ac226f4441aa8eba871f89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeafa22ba6ac226f4441aa8eba871f89 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeafa22ba6ac226f4441aa8eba871f89 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodec2b52d264c12a52f6b8dc5a422ffebc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node4a636739fb1354e248bc82b3e4172c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node10293ac573b734339acf27498ff694d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node97ae135a6445deb9211a2f2cc0d68ead <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7c5759fa6d4735ff29556f9eb4a514b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node47f8ee883fb3b1dc62cab5330c4ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node7a8181c485595193da7e8fc747ae8c36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6ae4be192a3bb110e2cc6a4a3656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodec2d0714f1458de6699df32ddb6a18e4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node32dc7e32036209eb4462d1ef0995a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261302 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261302 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Reeperbahn Festival 2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261302 <http://www.w3.org/2002/12/cal/icaltzd#location> "St. Michaelis Kirche,\n\nHamburg,\n\nGermany" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261302 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Sep\n24\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261302 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/st-michaelis-kirche-hamburg-germany-5bfdf38c.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261302 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261303 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Across the Line at 30: <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+Concert Celebration" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261303 <http://www.w3.org/2002/12/cal/icaltzd#location> "Ulster Hall,\n\nBelfast,\n\nNorthern Ireland" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261303 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Sep\n5\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261303 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/ulster-hall-belfast-northern-ireland-4bfc6fda.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261303 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261304 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at TramShed Cardiff, Cardiff, Wales" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261304 <http://www.w3.org/2002/12/cal/icaltzd#location> "TramShed Cardiff,\n\nCardiff,\n\nWales" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261304 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Aug\n27\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261304 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/tramshed-cardiff-cardiff-wales-63fc1e9f.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261304 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261305 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261305 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Le Poisson Rouge, New York, NY, USA" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261305 <http://www.w3.org/2002/12/cal/icaltzd#location> "Le Poisson Rouge,\n\nNew York,\nNY, \nUSA" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261305 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jul\n23\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261305 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/le-poisson-rouge-new-york-ny-5bff7bf8.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261305 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261306 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261306 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Festival Big Top, Galway, Ireland" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261306 <http://www.w3.org/2002/12/cal/icaltzd#location> "Festival Big Top,\n\nGalway,\n\nIreland" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261306 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jul\n19\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261306 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/festival-big-top-galway-ireland-43ff1f17.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261306 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261308 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Colours of Ostrava 2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261308 <http://www.w3.org/2002/12/cal/icaltzd#location> "Doln\u00ED oblast V\u00EDtkovice,\n\nOstrava,\n\nCzech Republic" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261308 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jul\n16\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261308 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/dolni-oblast-vitkovice-ostrava-czech-republic-2bff2066.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261308 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261309 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261309 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Parque do Tejo, Lisbon, Portugal" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261309 <http://www.w3.org/2002/12/cal/icaltzd#location> "Parque do Tejo,\n\nLisbon,\n\nPortugal" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261309 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jul\n14\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261309 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/parque-do-tejo-lisbon-portugal-3bff3494.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261309 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261310 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Vida Festival 2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261310 <http://www.w3.org/2002/12/cal/icaltzd#location> "Masia d'en Cabanyes,\n\nVilanova <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+la Geltr\u00FA,\n\nSpain" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261310 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Jul\n1\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261310 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/masia-den-cabanyes-vilanova-i-la-geltru-spain-7bff9648.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261310 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261311 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Little Waves 2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261311 <http://www.w3.org/2002/12/cal/icaltzd#location> "C-Mine Cultuurcentrum Genk,\n\nGenk,\n\nBelgium" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261311 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Apr\n9\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261311 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/c-mine-cultuurcentrum-genk-genk-belgium-1bf1915c.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261311 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261312 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Villagers at Stereolux, Nantes, France" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261312 <http://www.w3.org/2002/12/cal/icaltzd#location> "Stereolux,\n\nNantes,\n\nFrance" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261312 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "Feb\n28\n2016" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261312 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.setlist.fm/setlist/villagers/2016/stereolux-nantes-france-3f0ad73.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+<http://www.setlist.fm/setlists/villagers-6bd58a8a.html> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m0irscx125261312 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/2006/vcard/ns#fn> "St. Michaelis Kirche" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261315 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261315 <http://www.w3.org/2006/vcard/ns#given-name> "St." <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261315 <http://www.w3.org/2006/vcard/ns#family-name> "Kirche" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261316 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261316 <http://www.w3.org/2006/vcard/ns#organization-name> "St. Michaelis Kirche" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/2006/vcard/ns#adr> _:nodedd8179b5e6401937c77cf95712eb9 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/2006/vcard/ns#geo> _:nodec2b52d264c12a52f6b8dc5a422ffebc <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodef6985556848863b42bebdf31be032c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/2006/vcard/ns#fn> "Ulster Hall" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261320 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261320 <http://www.w3.org/2006/vcard/ns#given-name> "Ulster" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261320 <http://www.w3.org/2006/vcard/ns#family-name> "Hall" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261321 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261321 <http://www.w3.org/2006/vcard/ns#organization-name> "Ulster Hall" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/2006/vcard/ns#adr> _:node26c7c77c22be1724040af38b5dae66 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/2006/vcard/ns#geo> _:node4a636739fb1354e248bc82b3e4172c6 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node6fc9dfa27f55c4adee836a2ece164b60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/2006/vcard/ns#fn> "TramShed Cardiff" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261322 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261322 <http://www.w3.org/2006/vcard/ns#given-name> "TramShed" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261322 <http://www.w3.org/2006/vcard/ns#family-name> "Cardiff" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261323 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261323 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261323 <http://www.w3.org/2006/vcard/ns#organization-name> "TramShed Cardiff" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/2006/vcard/ns#adr> _:nodeee6985bc534853f8fe884d7c8877691 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/2006/vcard/ns#geo> _:node10293ac573b734339acf27498ff694d <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node30fba627f1cef7a1f08f6015f3dadba2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/2006/vcard/ns#fn> "Le Poisson Rouge" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261325 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261325 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261325 <http://www.w3.org/2006/vcard/ns#family-name> "Rouge" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261326 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261326 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Poisson Rouge" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/2006/vcard/ns#adr> _:node79ecc31b156d3e3ab7c693d3afd7aa6 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/2006/vcard/ns#geo> _:node97ae135a6445deb9211a2f2cc0d68ead <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodeee8cecf8593d2826208622b4f7774f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/2006/vcard/ns#fn> "Festival Big Top" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261328 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261328 <http://www.w3.org/2006/vcard/ns#given-name> "Festival" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261328 <http://www.w3.org/2006/vcard/ns#family-name> "Top" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261329 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261329 <http://www.w3.org/2006/vcard/ns#organization-name> "Festival Big Top" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/2006/vcard/ns#adr> _:node7bd52165f485d6e7d3461b1a788cbb92 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/2006/vcard/ns#geo> _:node7c5759fa6d4735ff29556f9eb4a514b <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecebaff1d22d27b9938faf96fce4c7b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/2006/vcard/ns#fn> "Doln\u00ED oblast V\u00EDtkovice" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261330 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261330 <http://www.w3.org/2006/vcard/ns#given-name> "Doln\u00ED" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261330 <http://www.w3.org/2006/vcard/ns#family-name> "V\u00EDtkovice" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261332 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261332 <http://www.w3.org/2006/vcard/ns#organization-name> "Doln\u00ED oblast V\u00EDtkovice" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/2006/vcard/ns#adr> _:node1a24a27b169542aa80935efeb52516c3 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/2006/vcard/ns#geo> _:node47f8ee883fb3b1dc62cab5330c4ad <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3c2cafe925d1320668a5beb22902b7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/2006/vcard/ns#fn> "Parque do Tejo" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261333 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261333 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261333 <http://www.w3.org/2006/vcard/ns#given-name> "Parque" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261333 <http://www.w3.org/2006/vcard/ns#family-name> "Tejo" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261334 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261334 <http://www.w3.org/2006/vcard/ns#organization-name> "Parque do Tejo" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/2006/vcard/ns#adr> _:node7754842ae069546ad61983d919c5b1fb <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/2006/vcard/ns#geo> _:node7a8181c485595193da7e8fc747ae8c36 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3e345415f0aeee4dfd85c1b2c479a84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/2006/vcard/ns#fn> "Masia d'en Cabanyes" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261336 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261336 <http://www.w3.org/2006/vcard/ns#given-name> "Masia" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261336 <http://www.w3.org/2006/vcard/ns#family-name> "Cabanyes" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261337 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261337 <http://www.w3.org/2006/vcard/ns#organization-name> "Masia d'en Cabanyes" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/2006/vcard/ns#adr> _:node8b6f2224a6d33ca6af98561de96f71a4 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/2006/vcard/ns#geo> _:node6ae4be192a3bb110e2cc6a4a3656 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node205f354f607c819ce66ec4a570c7434c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/2006/vcard/ns#fn> "C-Mine Cultuurcentrum Genk" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261338 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261338 <http://www.w3.org/2006/vcard/ns#given-name> "C-Mine" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261338 <http://www.w3.org/2006/vcard/ns#family-name> "Genk" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261339 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261339 <http://www.w3.org/2006/vcard/ns#organization-name> "C-Mine Cultuurcentrum Genk" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/2006/vcard/ns#adr> _:nodefdb216aeaa152bff4afc9b13a5209f80 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/2006/vcard/ns#geo> _:nodec2d0714f1458de6699df32ddb6a18e4b <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:nodecb135d2f815ee58f82b853ffac99e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/2006/vcard/ns#fn> "Stereolux" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irscx125261340 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irscx125261341 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node1b4m0irscx125261341 <http://www.w3.org/2006/vcard/ns#organization-name> "Stereolux" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/2006/vcard/ns#adr> _:nodeafa22ba6ac226f4441aa8eba871f89 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/2006/vcard/ns#geo> _:node32dc7e32036209eb4462d1ef0995a8 <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:node3355f7f273ec3d812d6f97923405f94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66125 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66125 <http://rdf.data-vocabulary.org/#title> "setlist.fm" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66137 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/artists> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66137 <http://rdf.data-vocabulary.org/#title> "Artists" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66149 <http://rdf.data-vocabulary.org/#url> <http://www.setlist.fm/artist/browse/v/1.html> <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .
+_:genid2d2331326b85d44f6a87300ad75f74fead2dN66149 <http://rdf.data-vocabulary.org/#title> "V" <http://www.setlist.fm/setlists/villagers-6bd58a8a.html> .

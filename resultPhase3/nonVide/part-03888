@@ -1,0 +1,19 @@
+_:node39118be3f8fe31215316b579fbdd4a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node39118be3f8fe31215316b579fbdd4a7 <http://www.w3.org/2006/vcard/ns#street-address> "Immeuble Ehundura <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+Mail du Front Populaire" <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node39118be3f8fe31215316b579fbdd4a7 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node39118be3f8fe31215316b579fbdd4a7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node39118be3f8fe31215316b579fbdd4a7 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node21eb7592e08463c7ae9d9ebcbbc9e432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node63e762b6d9963c22b438b375f738cd4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node63e762b6d9963c22b438b375f738cd4b <http://schema.org/PostalAddress/addressCountry> "France"@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node63e762b6d9963c22b438b375f738cd4b <http://schema.org/PostalAddress/streetAddress> "Immeuble Ehundura <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+Mail du Front Populaire"@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node63e762b6d9963c22b438b375f738cd4b <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node63e762b6d9963c22b438b375f738cd4b <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node21eb7592e08463c7ae9d9ebcbbc9e432 <http://schema.org/LocalBusiness/address> _:node63e762b6d9963c22b438b375f738cd4b <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node21eb7592e08463c7ae9d9ebcbbc9e432 <http://schema.org/LocalBusiness/description> "Thermostat connect\u00E9 pour chauffage \u00E9lectrique, chaudi\u00E8re au gaz, au fioul, au bois, pompe \u00E0 chaleur. Le Thermostat Connect\u00E9 Qivivo r\u00E9alise jusqu'\u00E0 40% d'\u00E9conomies sur votre facture \u00E9nerg\u00E9tique."@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+_:node21eb7592e08463c7ae9d9ebcbbc9e432 <http://schema.org/LocalBusiness/email> <http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+<http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> <http://www.w3.org/1999/xhtml/microdata#item> _:node21eb7592e08463c7ae9d9ebcbbc9e432 <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+<http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> <http://purl.org/dc/terms/title> "Conditions g\u00E9n\u00E9rales de vente et d'utilisation <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .
+Qivivo"@fr <http://www.qivivo.com/fr/conditions-generales-de-vente-et-utilisation> .

@@ -1,0 +1,30 @@
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/jerrybee> .
+_:node7b474f78e401f1a50be287fedd881a3 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/2006/vcard/ns#fn> "Jerrybee" <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqc835x118053030 <http://dating.lt/users1/jerrybee> .
+_:node1b4lqc835x118053030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://dating.lt/users1/jerrybee> .
+_:node1b4lqc835x118053030 <http://www.w3.org/2006/vcard/ns#given-name> "Jerrybee" <http://dating.lt/users1/jerrybee> .
+_:node1b4lqc835x118053030 <http://www.w3.org/2006/vcard/ns#family-name> "Jerrybee" <http://dating.lt/users1/jerrybee> .
+_:node1b4lqc835x118053030 <http://www.w3.org/2006/vcard/ns#nickname> "Jerrybee" <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/2006/vcard/ns#photo> <http://static5.dating.lt/photos/dat/9a/9a50datiex/9a50datiex_1_ea44ff19616abaa464c6cbeaae9946ac.jpg> <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/2006/vcard/ns#adr> _:node7b474f78e401f1a50be287fedd881a3 <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/2006/vcard/ns#note> "I am <http://dating.lt/users1/jerrybee> .
+man, 40 years oldseeking <http://dating.lt/users1/jerrybee> .
+woman age from 30 till 39" <http://dating.lt/users1/jerrybee> .
+_:node9164145131098db59a7636f9b64a895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://dating.lt/users1/jerrybee> .
+_:nodee15309b75e2d95588a308a5077e7e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> <http://dating.lt/users1/jerrybee> .
+_:nodee15309b75e2d95588a308a5077e7e3 <http://schema.org/WebPage/inLanguage> "en" <http://dating.lt/users1/jerrybee> .
+<http://dating.lt/users1/jerrybee> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee15309b75e2d95588a308a5077e7e3 <http://dating.lt/users1/jerrybee> .
+_:nodef11853cbb8cc2658cea8a042b9c093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://dating.lt/users1/jerrybee> .
+_:nodef11853cbb8cc2658cea8a042b9c093 <http://schema.org/Person/image> <http://static5.dating.lt/photos/dat/9a/9a50datiex/9a50datiex_1_ea44ff19616abaa464c6cbeaae9946ac.jpg> <http://dating.lt/users1/jerrybee> .
+_:nodef11853cbb8cc2658cea8a042b9c093 <http://schema.org/Person/name> "Jerrybee" <http://dating.lt/users1/jerrybee> .
+_:nodef11853cbb8cc2658cea8a042b9c093 <http://schema.org/Person/description> "I am <http://dating.lt/users1/jerrybee> .
+man, 40 years oldseeking <http://dating.lt/users1/jerrybee> .
+woman age from 30 till 39" <http://dating.lt/users1/jerrybee> .
+<http://dating.lt/users1/jerrybee> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef11853cbb8cc2658cea8a042b9c093 <http://dating.lt/users1/jerrybee> .

@@ -1,0 +1,38 @@
+_:noded7fa8d89f3392e6bd24bd2b6bc7033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ratemyarea.com/places/locatel-242197> .
+_:noded7fa8d89f3392e6bd24bd2b6bc7033 <http://www.w3.org/2006/vcard/ns#street-address> "8 Route de la Joneli\u00E8re" <http://www.ratemyarea.com/places/locatel-242197> .
+_:noded7fa8d89f3392e6bd24bd2b6bc7033 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.ratemyarea.com/places/locatel-242197> .
+_:noded7fa8d89f3392e6bd24bd2b6bc7033 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ratemyarea.com/places/locatel-242197> .
+_:noded7fa8d89f3392e6bd24bd2b6bc7033 <http://www.w3.org/2006/vcard/ns#postal-code> "44300" <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodeb141cd2d428ca47c2318a0362e596a35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodeb141cd2d428ca47c2318a0362e596a35 <http://www.w3.org/2006/vcard/ns#latitude> "47.2461826" <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodeb141cd2d428ca47c2318a0362e596a35 <http://www.w3.org/2006/vcard/ns#longitude> "-1.5532411" <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/addressCountry> "France"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/paymentAccepted> "cash and credit cards"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node42ca1f9158c1d3cbae03711d7f02c8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgPostalAddress> <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/address> _:node42ca1f9158c1d3cbae03711d7f02c8e <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/postalCode> "44300 "@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/latitude> "47.2461826"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/description> "Notre annuaire permet l\u2019acc\u00E8s direct \u00E0 l'Annuaire des particuliers ou professionnels, mairies, administrations sur la France enti\u00E8re, vous trouvez rapidement l'adresse ou le num\u00E9ro de t\u00E9l\u00E9phone facilement sur notre annuaire."@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/telephone> "+33 77599 8526"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/url> "http://www.locatel.info"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodea5a557f76a5674fa5cfac83b5255bae5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgGeoCoordinates> <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/geo> _:nodea5a557f76a5674fa5cfac83b5255bae5 <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/streetAddress> "8 Route de la Joneli\u00E8re "@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/name> "locatel"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/addressLocality> "Nantes "@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node34a1a58b607ffb62d221849535b05e32 <http://schema.org/LocalBusiness/longitude> "-1.5532411"@en <http://www.ratemyarea.com/places/locatel-242197> .
+<http://www.ratemyarea.com/places/locatel-242197> <http://www.w3.org/1999/xhtml/microdata#item> _:node34a1a58b607ffb62d221849535b05e32 <http://www.ratemyarea.com/places/locatel-242197> .
+_:node1410c36ab795ce675f94b6abc741 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/locatel-242197> .
+<http://www.ratemyarea.com/places/locatel-242197> <http://www.w3.org/1999/xhtml/microdata#item> _:node1410c36ab795ce675f94b6abc741 <http://www.ratemyarea.com/places/locatel-242197> .
+_:node2848ec5975901f5a66e5adb89a63d44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/locatel-242197> .
+_:node2848ec5975901f5a66e5adb89a63d44 <http://data-vocabulary.org/Breadcrumb/title> "Accommodation"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:node2848ec5975901f5a66e5adb89a63d44 <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/locatel-242197//categories/accommodation-1> <http://www.ratemyarea.com/places/locatel-242197> .
+<http://www.ratemyarea.com/places/locatel-242197> <http://www.w3.org/1999/xhtml/microdata#item> _:node2848ec5975901f5a66e5adb89a63d44 <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodef4ac17ccbbe91f5d893845d96695bd52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodef4ac17ccbbe91f5d893845d96695bd52 <http://data-vocabulary.org/Breadcrumb/title> "1 Star Hotels"@en <http://www.ratemyarea.com/places/locatel-242197> .
+_:nodef4ac17ccbbe91f5d893845d96695bd52 <http://data-vocabulary.org/Breadcrumb/url> <http://www.ratemyarea.com/places/locatel-242197//categories/1-star-hotels-405> <http://www.ratemyarea.com/places/locatel-242197> .
+<http://www.ratemyarea.com/places/locatel-242197> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef4ac17ccbbe91f5d893845d96695bd52 <http://www.ratemyarea.com/places/locatel-242197> .
+<http://www.ratemyarea.com/places/locatel-242197> <http://purl.org/dc/terms/title> "\nlocatel <http://www.ratemyarea.com/places/locatel-242197> .
+1 Star Hotels <http://www.ratemyarea.com/places/locatel-242197> .
+Rate My Area\n"@en <http://www.ratemyarea.com/places/locatel-242197> .

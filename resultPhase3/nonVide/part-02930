@@ -1,0 +1,13 @@
+_:nodedda5c2984a64aa4a13eafea1480dc1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodedda5c2984a64aa4a13eafea1480dc1a <http://www.w3.org/2006/vcard/ns#locality> "REZE" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodedda5c2984a64aa4a13eafea1480dc1a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#fn> "Jean Claude FENIOU" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0j076x252984023 <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:node1b4m0j076x252984023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:node1b4m0j076x252984023 <http://www.w3.org/2006/vcard/ns#given-name> "Jean" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:node1b4m0j076x252984023 <http://www.w3.org/2006/vcard/ns#family-name> "FENIOU" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#url> <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#bday> "1939-11-07 00:00:00" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#adr> _:nodedda5c2984a64aa4a13eafea1480dc1a <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/2006/vcard/ns#title> "Retraite Mairie Nantes" <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .
+_:nodeeeab52fdd7b68c41a1a02ce9be76e6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://copainsdavant.linternaute.com/p/jean-claude-feniou-4489243> .

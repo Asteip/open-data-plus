@@ -1,0 +1,25 @@
+_:node56c5f0a84d249049f65c4e243bd3e82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.qivivo.com/fr/societe/partenaires> .
+_:node56c5f0a84d249049f65c4e243bd3e82 <http://www.w3.org/2006/vcard/ns#street-address> "Immeuble Ehundura <http://www.qivivo.com/fr/societe/partenaires> .
+Mail du Front Populaire" <http://www.qivivo.com/fr/societe/partenaires> .
+_:node56c5f0a84d249049f65c4e243bd3e82 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.qivivo.com/fr/societe/partenaires> .
+_:node56c5f0a84d249049f65c4e243bd3e82 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.qivivo.com/fr/societe/partenaires> .
+_:node56c5f0a84d249049f65c4e243bd3e82 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqc7vqx182120944 <http://www.qivivo.com/fr/societe/partenaires> .
+_:node1b4lqc7vqx182120944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/2006/vcard/ns#email> <mailto:http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/2006/vcard/ns#logo> <http://www.qivivo.com/fr/societe/> <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/2006/vcard/ns#adr> _:node56c5f0a84d249049f65c4e243bd3e82 <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2089%2075%2089> <http://www.qivivo.com/fr/societe/partenaires> .
+_:nodef6b5cdb29d45aeb7c3aa9f2e397b42f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.qivivo.com/fr/societe/partenaires> .
+_:node8a6d3e76636332cd2fc8b9a2a3e2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.qivivo.com/fr/societe/partenaires> .
+_:node33f1a2199ccd1db9945bbd4323b59e62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.qivivo.com/fr/societe/partenaires> .
+_:node33f1a2199ccd1db9945bbd4323b59e62 <http://schema.org/PostalAddress/addressCountry> "France"@fr <http://www.qivivo.com/fr/societe/partenaires> .
+_:node33f1a2199ccd1db9945bbd4323b59e62 <http://schema.org/PostalAddress/streetAddress> "Immeuble Ehundura <http://www.qivivo.com/fr/societe/partenaires> .
+Mail du Front Populaire"@fr <http://www.qivivo.com/fr/societe/partenaires> .
+_:node33f1a2199ccd1db9945bbd4323b59e62 <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.qivivo.com/fr/societe/partenaires> .
+_:node33f1a2199ccd1db9945bbd4323b59e62 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.qivivo.com/fr/societe/partenaires> .
+_:node8a6d3e76636332cd2fc8b9a2a3e2c <http://schema.org/LocalBusiness/address> _:node33f1a2199ccd1db9945bbd4323b59e62 <http://www.qivivo.com/fr/societe/partenaires> .
+_:node8a6d3e76636332cd2fc8b9a2a3e2c <http://schema.org/LocalBusiness/description> "Thermostat connect\u00E9 pour chauffage \u00E9lectrique, chaudi\u00E8re au gaz, au fioul, au bois, pompe \u00E0 chaleur. Le Thermostat Connect\u00E9 Qivivo r\u00E9alise jusqu'\u00E0 40% d'\u00E9conomies sur votre facture \u00E9nerg\u00E9tique."@fr <http://www.qivivo.com/fr/societe/partenaires> .
+_:node8a6d3e76636332cd2fc8b9a2a3e2c <http://schema.org/LocalBusiness/email> <http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/societe/partenaires> .
+<http://www.qivivo.com/fr/societe/partenaires> <http://www.w3.org/1999/xhtml/microdata#item> _:node8a6d3e76636332cd2fc8b9a2a3e2c <http://www.qivivo.com/fr/societe/partenaires> .
+<http://www.qivivo.com/fr/societe/partenaires> <http://purl.org/dc/terms/title> "Partenaires"@fr <http://www.qivivo.com/fr/societe/partenaires> .

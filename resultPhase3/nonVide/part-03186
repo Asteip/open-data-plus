@@ -1,0 +1,30 @@
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://dating.lt/users1/stevens44> .
+_:node7e76525b41f4573ef96e64a73e504ed2 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/2006/vcard/ns#fn> "Stevens44" <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8h9p3x112017853 <http://dating.lt/users1/stevens44> .
+_:node1b4p8h9p3x112017853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://dating.lt/users1/stevens44> .
+_:node1b4p8h9p3x112017853 <http://www.w3.org/2006/vcard/ns#given-name> "Stevens44" <http://dating.lt/users1/stevens44> .
+_:node1b4p8h9p3x112017853 <http://www.w3.org/2006/vcard/ns#family-name> "Stevens44" <http://dating.lt/users1/stevens44> .
+_:node1b4p8h9p3x112017853 <http://www.w3.org/2006/vcard/ns#nickname> "Stevens44" <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/2006/vcard/ns#photo> <http://static5.dating.lt/photos/dat/89/89qcdatrvl/89qcdatrvl_1_09d95cf7b9265cdcce96f7ef0a63f6a5.jpg> <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/2006/vcard/ns#adr> _:node7e76525b41f4573ef96e64a73e504ed2 <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/2006/vcard/ns#note> "I am <http://dating.lt/users1/stevens44> .
+man, 43 years oldseeking <http://dating.lt/users1/stevens44> .
+woman age from 25 till 43" <http://dating.lt/users1/stevens44> .
+_:node8fe5bac5f2714312fd3a43420f9c025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://dating.lt/users1/stevens44> .
+_:nodeb5d576983e2f3d671b2477e4688b22f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> <http://dating.lt/users1/stevens44> .
+_:nodeb5d576983e2f3d671b2477e4688b22f8 <http://schema.org/WebPage/inLanguage> "en" <http://dating.lt/users1/stevens44> .
+<http://dating.lt/users1/stevens44> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb5d576983e2f3d671b2477e4688b22f8 <http://dating.lt/users1/stevens44> .
+_:node9c3445863ec6a2a167764e15e1205834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://dating.lt/users1/stevens44> .
+_:node9c3445863ec6a2a167764e15e1205834 <http://schema.org/Person/image> <http://static5.dating.lt/photos/dat/89/89qcdatrvl/89qcdatrvl_1_09d95cf7b9265cdcce96f7ef0a63f6a5.jpg> <http://dating.lt/users1/stevens44> .
+_:node9c3445863ec6a2a167764e15e1205834 <http://schema.org/Person/name> "Stevens44" <http://dating.lt/users1/stevens44> .
+_:node9c3445863ec6a2a167764e15e1205834 <http://schema.org/Person/description> "I am <http://dating.lt/users1/stevens44> .
+man, 43 years oldseeking <http://dating.lt/users1/stevens44> .
+woman age from 25 till 43" <http://dating.lt/users1/stevens44> .
+<http://dating.lt/users1/stevens44> <http://www.w3.org/1999/xhtml/microdata#item> _:node9c3445863ec6a2a167764e15e1205834 <http://dating.lt/users1/stevens44> .

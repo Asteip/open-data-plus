@@ -1,0 +1,42 @@
+_:node68421772e2681ccb0ca8abc9e9341f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/15620126.html> .
+_:node68421772e2681ccb0ca8abc9e9341f <http://www.w3.org/2006/vcard/ns#street-address> "130 Rue Paul Bellamy" <http://fr.nomao.com/15620126.html> .
+_:node68421772e2681ccb0ca8abc9e9341f <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/15620126.html> .
+_:node68421772e2681ccb0ca8abc9e9341f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/15620126.html> .
+_:node68421772e2681ccb0ca8abc9e9341f <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/15620126.html> .
+_:nodeb488fa96317cb5a9ace573175317b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15620126.html> .
+_:nodeb488fa96317cb5a9ace573175317b9 <http://schema.org/ListItem/item> <http://fr.nomao.com/15620126.html//> <http://fr.nomao.com/15620126.html> .
+_:nodeb488fa96317cb5a9ace573175317b9 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://schema.org/BreadcrumbList/itemListElement> _:nodeb488fa96317cb5a9ace573175317b9 <http://fr.nomao.com/15620126.html> .
+_:node994db3dcb845553f73c5fe61dac171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15620126.html> .
+_:node994db3dcb845553f73c5fe61dac171 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/15620126.html> .
+_:node994db3dcb845553f73c5fe61dac171 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://schema.org/BreadcrumbList/itemListElement> _:node994db3dcb845553f73c5fe61dac171 <http://fr.nomao.com/15620126.html> .
+_:node6aa8c13ef5fcd42b2fb8d1719ddff89a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15620126.html> .
+_:node6aa8c13ef5fcd42b2fb8d1719ddff89a <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante.html> <http://fr.nomao.com/15620126.html> .
+_:node6aa8c13ef5fcd42b2fb8d1719ddff89a <http://schema.org/ListItem/name> "Sant\u00E9 Nantes"@fr <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://schema.org/BreadcrumbList/itemListElement> _:node6aa8c13ef5fcd42b2fb8d1719ddff89a <http://fr.nomao.com/15620126.html> .
+_:node1947e65c4496a4dc94ae29f53b5675e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15620126.html> .
+_:node1947e65c4496a4dc94ae29f53b5675e <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante,etablissement.html> <http://fr.nomao.com/15620126.html> .
+_:node1947e65c4496a4dc94ae29f53b5675e <http://schema.org/ListItem/name> "\u00C9tablissement Nantes"@fr <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://schema.org/BreadcrumbList/itemListElement> _:node1947e65c4496a4dc94ae29f53b5675e <http://fr.nomao.com/15620126.html> .
+_:nodef98f8aa1ace11e16abdd9e60a58a3924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/15620126.html> .
+_:nodef98f8aa1ace11e16abdd9e60a58a3924 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/sante,etablissement,maison+de+retraite.html> <http://fr.nomao.com/15620126.html> .
+_:nodef98f8aa1ace11e16abdd9e60a58a3924 <http://schema.org/ListItem/name> "Maison de retraite Nantes"@fr <http://fr.nomao.com/15620126.html> .
+_:node29853c69f361a2a55a55930b065cf51 <http://schema.org/BreadcrumbList/itemListElement> _:nodef98f8aa1ace11e16abdd9e60a58a3924 <http://fr.nomao.com/15620126.html> .
+<http://fr.nomao.com/15620126.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node29853c69f361a2a55a55930b065cf51 <http://fr.nomao.com/15620126.html> .
+_:noded72d97ed6e48f3542a3b778c9638b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <http://fr.nomao.com/15620126.html> .
+_:nodebac9d083af2dd01a779d14df43548a4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/15620126.html> .
+_:nodebac9d083af2dd01a779d14df43548a4c <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/15620126.html> .
+_:nodebac9d083af2dd01a779d14df43548a4c <http://schema.org/PostalAddress/streetAddress> "130 Rue Paul Bellamy"@fr <http://fr.nomao.com/15620126.html> .
+_:nodebac9d083af2dd01a779d14df43548a4c <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/15620126.html> .
+_:nodebac9d083af2dd01a779d14df43548a4c <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/15620126.html> .
+_:noded72d97ed6e48f3542a3b778c9638b0 <http://schema.org/MedicalOrganization/address> _:nodebac9d083af2dd01a779d14df43548a4c <http://fr.nomao.com/15620126.html> .
+_:noded72d97ed6e48f3542a3b778c9638b0 <http://schema.org/MedicalOrganization/name> "R\u00E9sidence Les Jardins d'Arcadie"@fr <http://fr.nomao.com/15620126.html> .
+_:noded72d97ed6e48f3542a3b778c9638b0 <http://schema.org/MedicalOrganization/logo> "http://static.nomao.com/img/v4/5085886_spot.png"@fr <http://fr.nomao.com/15620126.html> .
+_:noded72d97ed6e48f3542a3b778c9638b0 <http://schema.org/MedicalOrganization/url> "http://fr.nomao.com/15620126.html"@fr <http://fr.nomao.com/15620126.html> .
+<http://fr.nomao.com/15620126.html> <http://www.w3.org/1999/xhtml/microdata#item> _:noded72d97ed6e48f3542a3b778c9638b0 <http://fr.nomao.com/15620126.html> .
+<http://fr.nomao.com/15620126.html> <http://purl.org/dc/terms/title> "R\u00E9sidence Les Jardins d'Arcadie <http://fr.nomao.com/15620126.html> .
+Maison de retraite, 130 Rue Paul Bellamy, Nantes <http://fr.nomao.com/15620126.html> .
+\u00C9tablissement <http://fr.nomao.com/15620126.html> .
+Nomao"@fr <http://fr.nomao.com/15620126.html> .

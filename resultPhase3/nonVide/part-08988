@@ -1,0 +1,30 @@
+_:node91efe07a165fb5dff062b79d3a3c838b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.octocom-mma.fr/> .
+_:node91efe07a165fb5dff062b79d3a3c838b <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.octocom-mma.fr/> .
+_:node91efe07a165fb5dff062b79d3a3c838b <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.octocom-mma.fr/> .
+Nantes" <http://www.octocom-mma.fr/> .
+_:node91efe07a165fb5dff062b79d3a3c838b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.octocom-mma.fr/> .
+_:node91efe07a165fb5dff062b79d3a3c838b <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.octocom-mma.fr/> .
+_:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.octocom-mma.fr/> .
+_:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.octocom-mma.fr/> .
+_:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.octocom-mma.fr/> .
+Nantes" <http://www.octocom-mma.fr/> .
+_:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.octocom-mma.fr/> .
+_:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx203549786 <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx203549787 <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549787 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549787 <http://www.w3.org/2006/vcard/ns#organization-name> "Octocom" <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/2006/vcard/ns#url> <http://www.octocom-mma.fr/> <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/2006/vcard/ns#adr> _:node91efe07a165fb5dff062b79d3a3c838b <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.octocom-mma.fr/> .
+_:nodeb83391ecb898e2a6a82c239c1110a73a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2en3jx203549788 <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2en3jx203549789 <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.octocom-mma.fr/> .
+_:node1b4m2en3jx203549789 <http://www.w3.org/2006/vcard/ns#organization-name> "Octocom" <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/2006/vcard/ns#url> <http://www.octocom-mma.fr/> <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/2006/vcard/ns#adr> _:nodee1921bfd9f112d98e388a37d1ef7da49 <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.octocom-mma.fr/> .
+_:node17b2c2d7c234c11498d39bfe3195da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.octocom-mma.fr/> .

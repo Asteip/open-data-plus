@@ -1,0 +1,42 @@
+_:noded7a1837cabfc4f304a2d161fa6eaf54f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/4749226.html> .
+_:noded7a1837cabfc4f304a2d161fa6eaf54f <http://www.w3.org/2006/vcard/ns#street-address> "13 Rue Giton" <http://fr.nomao.com/4749226.html> .
+_:noded7a1837cabfc4f304a2d161fa6eaf54f <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/4749226.html> .
+_:noded7a1837cabfc4f304a2d161fa6eaf54f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/4749226.html> .
+_:noded7a1837cabfc4f304a2d161fa6eaf54f <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/4749226.html> .
+_:nodee74ae310cba531ee749ea96a57e54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4749226.html> .
+_:nodee74ae310cba531ee749ea96a57e54 <http://schema.org/ListItem/item> <http://fr.nomao.com/4749226.html//> <http://fr.nomao.com/4749226.html> .
+_:nodee74ae310cba531ee749ea96a57e54 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://schema.org/BreadcrumbList/itemListElement> _:nodee74ae310cba531ee749ea96a57e54 <http://fr.nomao.com/4749226.html> .
+_:node72634474731274c8f880fe99e8cd3ee4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4749226.html> .
+_:node72634474731274c8f880fe99e8cd3ee4 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/4749226.html> .
+_:node72634474731274c8f880fe99e8cd3ee4 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://schema.org/BreadcrumbList/itemListElement> _:node72634474731274c8f880fe99e8cd3ee4 <http://fr.nomao.com/4749226.html> .
+_:nodedac8072a8bd973ed56b324c27d9cee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4749226.html> .
+_:nodedac8072a8bd973ed56b324c27d9cee <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/education.html> <http://fr.nomao.com/4749226.html> .
+_:nodedac8072a8bd973ed56b324c27d9cee <http://schema.org/ListItem/name> "\u00C9ducation Nantes"@fr <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://schema.org/BreadcrumbList/itemListElement> _:nodedac8072a8bd973ed56b324c27d9cee <http://fr.nomao.com/4749226.html> .
+_:nodeb3f01b8264cacfa49e42b5dfdd2492d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4749226.html> .
+_:nodeb3f01b8264cacfa49e42b5dfdd2492d3 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/education,enfance.html> <http://fr.nomao.com/4749226.html> .
+_:nodeb3f01b8264cacfa49e42b5dfdd2492d3 <http://schema.org/ListItem/name> "Enfance Nantes"@fr <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://schema.org/BreadcrumbList/itemListElement> _:nodeb3f01b8264cacfa49e42b5dfdd2492d3 <http://fr.nomao.com/4749226.html> .
+_:nodeae65eef4ac8a7e4e185ce364b8fee1e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/4749226.html> .
+_:nodeae65eef4ac8a7e4e185ce364b8fee1e6 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/education,ecole+primaire.html> <http://fr.nomao.com/4749226.html> .
+_:nodeae65eef4ac8a7e4e185ce364b8fee1e6 <http://schema.org/ListItem/name> "\u00C9cole primaire Nantes"@fr <http://fr.nomao.com/4749226.html> .
+_:nodeb584606b2ad66016e8aac998f399772d <http://schema.org/BreadcrumbList/itemListElement> _:nodeae65eef4ac8a7e4e185ce364b8fee1e6 <http://fr.nomao.com/4749226.html> .
+<http://fr.nomao.com/4749226.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb584606b2ad66016e8aac998f399772d <http://fr.nomao.com/4749226.html> .
+_:nodee53c99cd1f6d6034d8275b435cb79e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <http://fr.nomao.com/4749226.html> .
+_:nodef94040185fec24691410c2ab9de177c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/4749226.html> .
+_:nodef94040185fec24691410c2ab9de177c7 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/4749226.html> .
+_:nodef94040185fec24691410c2ab9de177c7 <http://schema.org/PostalAddress/streetAddress> "13 Rue Giton"@fr <http://fr.nomao.com/4749226.html> .
+_:nodef94040185fec24691410c2ab9de177c7 <http://schema.org/PostalAddress/postalCode> "44100 "@fr <http://fr.nomao.com/4749226.html> .
+_:nodef94040185fec24691410c2ab9de177c7 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/4749226.html> .
+_:nodee53c99cd1f6d6034d8275b435cb79e <http://schema.org/EducationalOrganization/address> _:nodef94040185fec24691410c2ab9de177c7 <http://fr.nomao.com/4749226.html> .
+_:nodee53c99cd1f6d6034d8275b435cb79e <http://schema.org/EducationalOrganization/name> "College Prive Sacre Coeur"@fr <http://fr.nomao.com/4749226.html> .
+_:nodee53c99cd1f6d6034d8275b435cb79e <http://schema.org/EducationalOrganization/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/4749226.html> .
+_:nodee53c99cd1f6d6034d8275b435cb79e <http://schema.org/EducationalOrganization/url> "http://fr.nomao.com/4749226.html"@fr <http://fr.nomao.com/4749226.html> .
+<http://fr.nomao.com/4749226.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee53c99cd1f6d6034d8275b435cb79e <http://fr.nomao.com/4749226.html> .
+<http://fr.nomao.com/4749226.html> <http://purl.org/dc/terms/title> "College Prive Sacre Coeur <http://fr.nomao.com/4749226.html> .
+\u00C9cole primaire, 13 Rue Giton, Nantes <http://fr.nomao.com/4749226.html> .
+\u00C9tablissement <http://fr.nomao.com/4749226.html> .
+Nomao"@fr <http://fr.nomao.com/4749226.html> .

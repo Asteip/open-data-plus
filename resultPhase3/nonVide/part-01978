@@ -1,0 +1,16 @@
+_:node5e2d88116a687da739fcf01f5dae7d7a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node5e2d88116a687da739fcf01f5dae7d7a <http://www.w3.org/2006/vcard/ns#street-address> "7 Rue Saint-Nicolas" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node5e2d88116a687da739fcf01f5dae7d7a <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node5e2d88116a687da739fcf01f5dae7d7a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1cbd81c2f81aba06528c5ff9f33b869 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/2006/vcard/ns#fn> "Hotel Saint Patrick Nantes" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2eemex68717694 <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1b4m2eemex68717694 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1b4m2eemex68717694 <http://www.w3.org/2006/vcard/ns#given-name> "Hotel" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1b4m2eemex68717694 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2eemex68717695 <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1b4m2eemex68717695 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node1b4m2eemex68717695 <http://www.w3.org/2006/vcard/ns#organization-name> "Hotel Saint Patrick Nantes" <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/2006/vcard/ns#adr> _:node5e2d88116a687da739fcf01f5dae7d7a <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/2006/vcard/ns#geo> _:node1cbd81c2f81aba06528c5ff9f33b869 <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .
+_:node7acfd556222d2c59cf9bbceeb3afd48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.travbuddy.com/Hotel-Saint-Patrick-Nantes-v230702> .

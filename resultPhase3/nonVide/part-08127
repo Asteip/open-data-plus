@@ -1,0 +1,29 @@
+_:node84d9c377d7abaa13f99f20d3498d4c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.slideshare.net/JrmeCannaferina> .
+_:node84d9c377d7abaa13f99f20d3498d4c7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#fn> "J\u00E9r\u00F4me Cannaferina" <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#n> _:node1b4p8allnx38882738 <http://www.slideshare.net/JrmeCannaferina> .
+_:node1b4p8allnx38882738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.slideshare.net/JrmeCannaferina> .
+_:node1b4p8allnx38882738 <http://www.w3.org/2006/vcard/ns#given-name> "J\u00E9r\u00F4me" <http://www.slideshare.net/JrmeCannaferina> .
+_:node1b4p8allnx38882738 <http://www.w3.org/2006/vcard/ns#family-name> "Cannaferina" <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#url> <http://www.cac42.com> <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#photo> <http://cdn.slidesharecdn.com/profile-photo-JrmeCannaferina-96x96.jpg?cb=1474729450> <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#adr> _:node84d9c377d7abaa13f99f20d3498d4c7 <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/2006/vcard/ns#role> "Founder" <http://www.slideshare.net/JrmeCannaferina> .
+_:nodee65adceee963595888c1fee642924afb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/image> <http://www.slideshare.net/JrmeCannaferina///cdn.slidesharecdn.com/profile-photo-JrmeCannaferina-96x96.jpg?cb=1474729450> <http://www.slideshare.net/JrmeCannaferina> .
+_:nodef2b3c4e5f939739f1a26a826117ef136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.slideshare.net/JrmeCannaferina> .
+_:nodef2b3c4e5f939739f1a26a826117ef136 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.slideshare.net/JrmeCannaferina> .
+_:nodef2b3c4e5f939739f1a26a826117ef136 <http://schema.org/PostalAddress/addressLocality> "Nantes Area, France"@en <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/address> _:nodef2b3c4e5f939739f1a26a826117ef136 <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/jobTitle> "Founder"@en <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/name> "\n <http://www.slideshare.net/JrmeCannaferina> .
+ <http://www.slideshare.net/JrmeCannaferina> .
+J\u00E9r\u00F4me Cannaferina\n <http://www.slideshare.net/JrmeCannaferina> .
+ "@en <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/description> "CAC42 is <http://www.slideshare.net/JrmeCannaferina> .
+web platform for investor and people supporting businesses.\n\nCAC42, enables clients to assess human potential projects on three axes:\n- Complementarity of the board.\n- Adequacy of the profiles and skills to roles.\n- Sharing values.\n\nBeyond HR assessments via cognitive science. CAC42 is integrated very early in the process through project monitoring process (workflow management tasks, collaborative space, ...)\n\nFor more information www.cac42.com"@en <http://www.slideshare.net/JrmeCannaferina> .
+_:node49d3295ce513cfcc1feb6816c0d8eb <http://schema.org/Person/url> <http://www.cac42.com> <http://www.slideshare.net/JrmeCannaferina> .
+<http://www.slideshare.net/JrmeCannaferina> <http://www.w3.org/1999/xhtml/microdata#item> _:node49d3295ce513cfcc1feb6816c0d8eb <http://www.slideshare.net/JrmeCannaferina> .
+<http://www.slideshare.net/JrmeCannaferina> <http://purl.org/dc/terms/title> "J\u00E9r\u00F4me Cannaferina, Founder at Cac42.com <http://www.slideshare.net/JrmeCannaferina> .
+SlideShare"@en <http://www.slideshare.net/JrmeCannaferina> .

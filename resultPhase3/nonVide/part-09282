@@ -1,0 +1,108 @@
+_:nodef745912244f42fcf1bd18b989b12ee9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef745912244f42fcf1bd18b989b12ee9c <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef745912244f42fcf1bd18b989b12ee9c <http://www.w3.org/2006/vcard/ns#locality> "Loire-Atlantique" <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef745912244f42fcf1bd18b989b12ee9c <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodec6af434ac1cee443d14d968287d2b63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodec6af434ac1cee443d14d968287d2b63 <http://www.w3.org/2006/vcard/ns#latitude> "47.156" <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodec6af434ac1cee443d14d968287d2b63 <http://www.w3.org/2006/vcard/ns#longitude> "-1.6098" <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node50362386797226ae4932404c3d4225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node50362386797226ae4932404c3d4225 <http://data-vocabulary.org/Breadcrumb/title> "Home"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node50362386797226ae4932404c3d4225 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node50362386797226ae4932404c3d4225 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeafb190a58e4153fe93bdc44664e87230 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeafb190a58e4153fe93bdc44664e87230 <http://data-vocabulary.org/Breadcrumb/title> "World"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeafb190a58e4153fe93bdc44664e87230 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/global/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeafb190a58e4153fe93bdc44664e87230 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeb47b5e512f298425e374dd5783a88e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeb47b5e512f298425e374dd5783a88e9 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodeb47b5e512f298425e374dd5783a88e9 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/europe/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb47b5e512f298425e374dd5783a88e9 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee635c4fe40481353dcfd2ae36ce6ac2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee635c4fe40481353dcfd2ae36ce6ac2 <http://data-vocabulary.org/Breadcrumb/title> "France"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee635c4fe40481353dcfd2ae36ce6ac2 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee635c4fe40481353dcfd2ae36ce6ac2 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node41c43d885f6c2cb5a8955b948532dcfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node41c43d885f6c2cb5a8955b948532dcfa <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node41c43d885f6c2cb5a8955b948532dcfa <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node41c43d885f6c2cb5a8955b948532dcfa <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node2af3d52e504665fbb2445c7debcb59d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node2af3d52e504665fbb2445c7debcb59d5 <http://data-vocabulary.org/Breadcrumb/title> "Nantes Atlantique Airport"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node2af3d52e504665fbb2445c7debcb59d5 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node2af3d52e504665fbb2445c7debcb59d5 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee5bca034da7eb66d17e539f395a257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee5bca034da7eb66d17e539f395a257 <http://data-vocabulary.org/Breadcrumb/title> "Guide"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodee5bca034da7eb66d17e539f395a257 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee5bca034da7eb66d17e539f395a257 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodea1d49d4e1e85b5c3c4b4847e53a4d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodea1d49d4e1e85b5c3c4b4847e53a4d1 <http://schema.org/GeoCoordinates/latitude> "47.156"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodea1d49d4e1e85b5c3c4b4847e53a4d1 <http://schema.org/GeoCoordinates/longitude> "-1.6098"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/geo> _:nodea1d49d4e1e85b5c3c4b4847e53a4d1 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/repository/N/A/N/T/E/S/A/T/nantes---atlantique-airport-nte-_atlantique.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/36099/disneyparistransfer-left-slide3_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/58161/15_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/37961/IMG_0070_64_64.JPG> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/14441/Photo_du_14-07-12_\u00E0_17_25__64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/22585/DSC_0725_64_64.JPG> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/58284/patrick-duveau-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/17403/DSC02349_64_64.JPG> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/69435/sarah-quellec-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/64124/julio-iglesias-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/5732/nathalie-agab-avatar_1_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/58131/10614238_10152322256396669_5639963690474394297_n_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/39743/sumilir-angin-wates-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/63383/stanislas-boigny-de-cinq-cygne-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/5732/nathalie-agab-avatar_1_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/22667/jenny-liebert-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/10411/correard-remy-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/59797/_MG_3697_64_64.JPG> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/33856/rv-laviale-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/47612/alban-diane-alex_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/56468/ben-atlan-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/28706/rosa-bonheur-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/member/42805/kourdou-papion-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/52981/josy-mikusinski-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/member/62651/tere-rosales-avatar_64_64.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/pays-de-la-loire/cat/airports.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/airports.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/europe/cat/airports.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/global/cat/airports.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/pays-de-la-loire/cat/airports.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef8d6a351b2dddbe1247e52e247c12688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef8d6a351b2dddbe1247e52e247c12688 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef8d6a351b2dddbe1247e52e247c12688 <http://schema.org/PostalAddress/addressLocality> "Nantes"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:nodef8d6a351b2dddbe1247e52e247c12688 <http://schema.org/PostalAddress/addressRegion> "Loire-Atlantique"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/address> _:nodef8d6a351b2dddbe1247e52e247c12688 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/name> "Nantes Atlantique Airport"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node9dbe26b34cfe04263929bf3b6871c12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node9dbe26b34cfe04263929bf3b6871c12 <http://schema.org/ImageObject/contentURL> <http://cdn1.images.touristlink.com/data/cache/N/A/N/T/E/S/A/T/nantes---atlantique-airport-nte-_atlantique_400_300.jpg> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node9dbe26b34cfe04263929bf3b6871c12 <http://schema.org/ImageObject/url> <http://www.touristlink.com/france/nantes---atlantique-airport/photos.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/photo> _:node9dbe26b34cfe04263929bf3b6871c12 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/description> "\n <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+\n <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+  Nantes Atlantique Airport (IATA: NTE,\u00A0ICAO: LFRS) is an international airport serving Nantes, France. It is located <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+kilometres (5.0\u00A0mi) southwest of the city, in Bouguenais.The airport is operated by the Chambre de commerce et d'industrie de Nantes. It is currently the largest airport in the west of France, with <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+maximum capacity of three million passengers <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+year.\n\nNantes airport has <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+single 'L' shaped passenger terminal, which is divided into four numbered halls. Halls <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+to <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+form the long side of the 'L' and are zones within the same two story building, with baggage claim and check-in facilities on the ground floor, and departure lounges on the upper level. Hall <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+occupies <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+later single story building at right angles to the earlier building, but connected to it by <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+lobby. <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+\n <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+ "@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/photos> "Null"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+_:node979c17998631fc3a155745c5aa34f25 <http://schema.org/Airport/url> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node979c17998631fc3a155745c5aa34f25 <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .
+<http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> <http://purl.org/dc/terms/title> "Nantes Atlantique Airport, Nantes, France Tourist Information"@en-us <http://www.touristlink.com/france/nantes---atlantique-airport/overview.html> .

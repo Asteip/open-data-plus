@@ -1,0 +1,13 @@
+_:node64e70e6dcde2f998897732c77243f71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://terraform.fr/actualites/> .
+_:node64e70e6dcde2f998897732c77243f71 <http://www.w3.org/2006/vcard/ns#street-address> "1 rue Saint-Pierre" <http://terraform.fr/actualites/> .
+_:node64e70e6dcde2f998897732c77243f71 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://terraform.fr/actualites/> .
+_:node64e70e6dcde2f998897732c77243f71 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://terraform.fr/actualites/> .
+_:node64e70e6dcde2f998897732c77243f71 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://terraform.fr/actualites/> .
+_:nodef572554eaf5c1b2079c05ded5b55d3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2ec3rx48822514 <http://terraform.fr/actualites/> .
+_:node1b4m2ec3rx48822514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://terraform.fr/actualites/> .
+_:nodef572554eaf5c1b2079c05ded5b55d3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2ec3rx48822515 <http://terraform.fr/actualites/> .
+_:node1b4m2ec3rx48822515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://terraform.fr/actualites/> .
+_:node1b4m2ec3rx48822515 <http://www.w3.org/2006/vcard/ns#organization-name> "TERRAform" <http://terraform.fr/actualites/> .
+_:nodef572554eaf5c1b2079c05ded5b55d3 <http://www.w3.org/2006/vcard/ns#url> <http://terraform.fr/actualites/',%20get_bloginfo('url')%20,%20'> <http://terraform.fr/actualites/> .
+_:nodef572554eaf5c1b2079c05ded5b55d3 <http://www.w3.org/2006/vcard/ns#adr> _:node64e70e6dcde2f998897732c77243f71 <http://terraform.fr/actualites/> .
+_:nodef572554eaf5c1b2079c05ded5b55d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://terraform.fr/actualites/> .

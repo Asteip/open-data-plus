@@ -1,0 +1,30 @@
+_:nodec79c437c29d2d85563b9d0a992805962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/1299904.html> .
+_:nodec79c437c29d2d85563b9d0a992805962 <http://www.w3.org/2006/vcard/ns#street-address> "14 Route de Paris" <http://fr.nomao.com/1299904.html> .
+_:nodec79c437c29d2d85563b9d0a992805962 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/1299904.html> .
+_:nodeed1fe7c8f7195ac3c858f231de5a2d45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/1299904.html> .
+_:node4491f941a814bed7b251b42a13d9e5f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1299904.html> .
+_:node4491f941a814bed7b251b42a13d9e5f <http://schema.org/ListItem/item> <http://fr.nomao.com/1299904.html//> <http://fr.nomao.com/1299904.html> .
+_:node4491f941a814bed7b251b42a13d9e5f <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/1299904.html> .
+_:nodeed1fe7c8f7195ac3c858f231de5a2d45 <http://schema.org/BreadcrumbList/itemListElement> _:node4491f941a814bed7b251b42a13d9e5f <http://fr.nomao.com/1299904.html> .
+_:node2683eabf3acc9d671368fdd1319705d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1299904.html> .
+_:node2683eabf3acc9d671368fdd1319705d <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping.html> <http://fr.nomao.com/1299904.html> .
+_:node2683eabf3acc9d671368fdd1319705d <http://schema.org/ListItem/name> "Shopping Nantes"@fr <http://fr.nomao.com/1299904.html> .
+_:nodeed1fe7c8f7195ac3c858f231de5a2d45 <http://schema.org/BreadcrumbList/itemListElement> _:node2683eabf3acc9d671368fdd1319705d <http://fr.nomao.com/1299904.html> .
+_:nodeb725a59629d280642c7b1483b22448fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1299904.html> .
+_:nodeb725a59629d280642c7b1483b22448fb <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+sport.html> <http://fr.nomao.com/1299904.html> .
+_:nodeb725a59629d280642c7b1483b22448fb <http://schema.org/ListItem/name> "Magasin de sport Nantes"@fr <http://fr.nomao.com/1299904.html> .
+_:nodeed1fe7c8f7195ac3c858f231de5a2d45 <http://schema.org/BreadcrumbList/itemListElement> _:nodeb725a59629d280642c7b1483b22448fb <http://fr.nomao.com/1299904.html> .
+<http://fr.nomao.com/1299904.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeed1fe7c8f7195ac3c858f231de5a2d45 <http://fr.nomao.com/1299904.html> .
+_:nodee7d16b253de071804a27e643d4756568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <http://fr.nomao.com/1299904.html> .
+_:noded1d3e8af4cca6b77bce52cc4abcd3b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/1299904.html> .
+_:noded1d3e8af4cca6b77bce52cc4abcd3b7 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/1299904.html> .
+_:noded1d3e8af4cca6b77bce52cc4abcd3b7 <http://schema.org/PostalAddress/streetAddress> "14 Route de Paris"@fr <http://fr.nomao.com/1299904.html> .
+_:nodee7d16b253de071804a27e643d4756568 <http://schema.org/Store/address> _:noded1d3e8af4cca6b77bce52cc4abcd3b7 <http://fr.nomao.com/1299904.html> .
+_:nodee7d16b253de071804a27e643d4756568 <http://schema.org/Store/name> "Open Sport"@fr <http://fr.nomao.com/1299904.html> .
+_:nodee7d16b253de071804a27e643d4756568 <http://schema.org/Store/logo> "http://static.nomao.com/img/v4/5084_spot.png"@fr <http://fr.nomao.com/1299904.html> .
+_:nodee7d16b253de071804a27e643d4756568 <http://schema.org/Store/url> "http://fr.nomao.com/1299904.html"@fr <http://fr.nomao.com/1299904.html> .
+<http://fr.nomao.com/1299904.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee7d16b253de071804a27e643d4756568 <http://fr.nomao.com/1299904.html> .
+<http://fr.nomao.com/1299904.html> <http://purl.org/dc/terms/title> "Open Sport <http://fr.nomao.com/1299904.html> .
+Magasin de sport, 14 Route de Paris, Nantes <http://fr.nomao.com/1299904.html> .
+Magasin <http://fr.nomao.com/1299904.html> .
+Nomao"@fr <http://fr.nomao.com/1299904.html> .

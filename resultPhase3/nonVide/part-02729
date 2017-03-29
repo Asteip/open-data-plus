@@ -1,0 +1,12 @@
+_:node207aeea3df31b407cf1a3247e61dcf2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://cflex.com/global-locations/simedit-sas/> .
+_:node207aeea3df31b407cf1a3247e61dcf2 <http://www.w3.org/2006/vcard/ns#street-address> "Z.A. Les Hauts de Cou\u00EAron, \nRue des Imprimeurs" <http://cflex.com/global-locations/simedit-sas/> .
+_:node207aeea3df31b407cf1a3247e61dcf2 <http://www.w3.org/2006/vcard/ns#locality> "Cou\u00EAron-Nantes" <http://cflex.com/global-locations/simedit-sas/> .
+_:node207aeea3df31b407cf1a3247e61dcf2 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://cflex.com/global-locations/simedit-sas/> .
+_:node207aeea3df31b407cf1a3247e61dcf2 <http://www.w3.org/2006/vcard/ns#postal-code> "F-44220" <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqc6ckx65724342 <http://cflex.com/global-locations/simedit-sas/> .
+_:node1b4lqc6ckx65724342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/2006/vcard/ns#email> <mailto:E-Mail> <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/2006/vcard/ns#adr> _:node207aeea3df31b407cf1a3247e61dcf2 <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%202%2040%2038%2000%2071> <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%202%2040%2038%2009%2085> <http://cflex.com/global-locations/simedit-sas/> .
+_:node8f525819ffd25f9405b2ff0b3a9c88d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://cflex.com/global-locations/simedit-sas/> .

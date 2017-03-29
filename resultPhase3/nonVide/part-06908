@@ -1,0 +1,50 @@
+_:node9d6f02b19ce7960a94b2fbafb11afae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9d6f02b19ce7960a94b2fbafb11afae <http://www.w3.org/2006/vcard/ns#street-address> "3 All\u00E9e Jacques Berque (31 Quai Malakoff)" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9d6f02b19ce7960a94b2fbafb11afae <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9d6f02b19ce7960a94b2fbafb11afae <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9d6f02b19ce7960a94b2fbafb11afae <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb8f6bf32cd9ff650498c0d03f975d <http://www.w3.org/2006/vcard/ns#fn> "Residhome Nantes Berges De La Loire" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb8f6bf32cd9ff650498c0d03f975d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dnjnx180790495 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node1b4m4dnjnx180790495 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node1b4m4dnjnx180790495 <http://www.w3.org/2006/vcard/ns#given-name> "Residhome" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node1b4m4dnjnx180790495 <http://www.w3.org/2006/vcard/ns#family-name> "Loire" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb8f6bf32cd9ff650498c0d03f975d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4dnjnx180790496 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node1b4m4dnjnx180790496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node1b4m4dnjnx180790496 <http://www.w3.org/2006/vcard/ns#organization-name> "Residhome Nantes Berges De La Loire" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb8f6bf32cd9ff650498c0d03f975d <http://www.w3.org/2006/vcard/ns#adr> _:node9d6f02b19ce7960a94b2fbafb11afae <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb8f6bf32cd9ff650498c0d03f975d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodec9abf998848a6a1c42ee431865a68e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodec9abf998848a6a1c42ee431865a68e7 <http://purl.org/stuff/rev#type> "Autre paysage" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node39fd5eeab385a020e0c2f7e615a8976 <http://www.w3.org/2006/vcard/ns#fn> "Residhome Nantes Berges De La Loire" <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node39fd5eeab385a020e0c2f7e615a8976 <http://www.w3.org/2006/vcard/ns#url> <http://www.tvtrip.fr/> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node39fd5eeab385a020e0c2f7e615a8976 <http://purl.org/stuff/rev#hasReview> _:nodec9abf998848a6a1c42ee431865a68e7 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node7635dc9817839ecebc3b4da84c012f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node7635dc9817839ecebc3b4da84c012f1 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:node7635dc9817839ecebc3b4da84c012f1 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodecf1d96fb6b5bb3d83e621cad4a72ab4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodecf1d96fb6b5bb3d83e621cad4a72ab4 <http://data-vocabulary.org/Breadcrumb/title> "France"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodecf1d96fb6b5bb3d83e621cad4a72ab4 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/yox14Brb-france> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:nodecf1d96fb6b5bb3d83e621cad4a72ab4 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb7e593c5d7eb89e5a2525b070f93cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodeb7e593c5d7eb89e5a2525b070f93cc <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb7e593c5d7eb89e5a2525b070f93cc <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9a29a1e45dc54e31f79aa06f322bcc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node9a29a1e45dc54e31f79aa06f322bcc0 <http://data-vocabulary.org/Breadcrumb/title> "D\u00E9partement de la Loire-Atlantique"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:node9a29a1e45dc54e31f79aa06f322bcc0 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodedf3690e19e81842be75397bf7d2954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodedf3690e19e81842be75397bf7d2954 <http://data-vocabulary.org/Breadcrumb/title> "Nantes"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:nodedf3690e19e81842be75397bf7d2954 <http://data-vocabulary.org/Breadcrumb/url> <http://www.tvtrip.fr/cihDlZz-nantes-h%C3%B4tels> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedf3690e19e81842be75397bf7d2954 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node789911d8874a55e717fde868e015c484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+_:node789911d8874a55e717fde868e015c484 <http://data-vocabulary.org/Breadcrumb/title> "Residhome Nantes Berges De La Loire"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.w3.org/1999/xhtml/microdata#item> _:node789911d8874a55e717fde868e015c484 <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://purl.org/dc/terms/title> "\nResidhome Nantes Berges De La Loire, hotel Nantes <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+France <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+prix r\u00E9servation moins cher, avis, photos, vid\u00E9os"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://opengraphprotocol.org/schema/site_name> "TVtrip"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.facebook.com/2008/fbmladmins> "100000822410120,100000831289983,100000953068141,712856989,730741412,616464424"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://www.facebook.com/2008/fbmlapp_id> "122578111093076"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://opengraphprotocol.org/schema/description> "Residhome Nantes Berges De La Loire \u00E0 Nantes. D\u00E9couvrez les vid\u00E9os des chambres et la situation exacte de l'h\u00F4tel sur la carte. R\u00E9servez \u00E0 prix discount pour chaque type de chambre."@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://opengraphprotocol.org/schema/type> "product"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://opengraphprotocol.org/schema/url> "http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .
+<http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> <http://opengraphprotocol.org/schema/title> "Residhome Nantes Berges De La Loire, Nantes"@fr_fr <http://www.tvtrip.fr/hox5cc5-residhome-nantes-berges-de-la-loire> .

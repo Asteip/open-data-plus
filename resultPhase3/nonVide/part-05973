@@ -1,0 +1,11 @@
+_:node421b29146410b4f1605cdf2a7da621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node421b29146410b4f1605cdf2a7da621 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node421b29146410b4f1605cdf2a7da621 <http://www.w3.org/2006/vcard/ns#country-name> "France" <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node4fc93f11783bc46384f496a8d6fc98e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node4fc93f11783bc46384f496a8d6fc98e <http://www.w3.org/2006/vcard/ns#latitude> "47.218371" <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node4fc93f11783bc46384f496a8d6fc98e <http://www.w3.org/2006/vcard/ns#longitude> "-1.553621" <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node611c9a885987b0dca2dfab9d4aebc584 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lkvd30x117783996 <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node1b4lkvd30x117783996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node611c9a885987b0dca2dfab9d4aebc584 <http://www.w3.org/2006/vcard/ns#adr> _:node421b29146410b4f1605cdf2a7da621 <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node611c9a885987b0dca2dfab9d4aebc584 <http://www.w3.org/2006/vcard/ns#geo> _:node4fc93f11783bc46384f496a8d6fc98e <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .
+_:node611c9a885987b0dca2dfab9d4aebc584 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <https://www.autismspeaks.org/liub-buildings/fountain-royal-palace> .

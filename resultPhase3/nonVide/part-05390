@@ -1,0 +1,19 @@
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node94a15dc055b6d5a5428341e54c89aa85 <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node62f5547b332463ab3f994fd19793778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node62f5547b332463ab3f994fd19793778 <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node62f5547b332463ab3f994fd19793778 <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/2006/vcard/ns#fn> "CITI <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4n1rkv7x61573875 <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node1b4n1rkv7x61573875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node1b4n1rkv7x61573875 <http://www.w3.org/2006/vcard/ns#given-name> "CITI" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node1b4n1rkv7x61573875 <http://www.w3.org/2006/vcard/ns#family-name> "Int\u00E9grative" <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/2006/vcard/ns#adr> _:node94a15dc055b6d5a5428341e54c89aa85 <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/2006/vcard/ns#geo> _:node62f5547b332463ab3f994fd19793778 <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .
+_:node70e493959e999bd422809db341f4e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://therapeutes.eu/annuaire-hypnose-ericksonienne/dr-isabelle-stimec> .

@@ -1,0 +1,18 @@
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/2006/vcard/ns#street-address> "15, Avenue Louise Michel" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/2006/vcard/ns#locality> "Rez\u00E9" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node88f462c9285bcc719bbad4b5ad4c89e <http://www.w3.org/2006/vcard/ns#addressType> "voice" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node368be6c55079504f90ffefbcd1b958b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node368be6c55079504f90ffefbcd1b958b8 <http://www.w3.org/2006/vcard/ns#latitude> "47.188147" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node368be6c55079504f90ffefbcd1b958b8 <http://www.w3.org/2006/vcard/ns#longitude> "-1.549589" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/2006/vcard/ns#fn> "Centre Interdisciplinaire de Th\u00E9rapie Int\u00E9grative Nantes Rez\u00E9" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0j076x189038884 <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node1b4m0j076x189038884 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node1b4m0j076x189038884 <http://www.w3.org/2006/vcard/ns#given-name> "Centre" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node1b4m0j076x189038884 <http://www.w3.org/2006/vcard/ns#family-name> "Rez\u00E9" <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/2006/vcard/ns#adr> _:node88f462c9285bcc719bbad4b5ad4c89e <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/2006/vcard/ns#tel> <tel:02.40.40.32.15> <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/2006/vcard/ns#geo> _:node368be6c55079504f90ffefbcd1b958b8 <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
+_:node3aa54b7b7d0d897a5307e9ea6ecd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://hypnose-ericksonienne.fr/nantes-reze/pierre-henri-garnier-psychologue-psychotherapeute> .
