@@ -1,0 +1,31 @@
+_:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/conception-de-salles> .
+_:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/conception-de-salles> .
+_:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/conception-de-salles> .
+Nantes" <http://www.sportcom.fr/conception-de-salles> .
+_:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/conception-de-salles> .
+_:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/conception-de-salles> .
+_:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/conception-de-salles> .
+_:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/conception-de-salles> .
+_:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/conception-de-salles> .
+Nantes" <http://www.sportcom.fr/conception-de-salles> .
+_:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/conception-de-salles> .
+_:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2egmjx50870272 <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870272 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2egmjx50870273 <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870273 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/2006/vcard/ns#adr> _:node58b8a5ff7af8ca2b88ab47baaef4df56 <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.sportcom.fr/conception-de-salles> .
+_:nodefe1c3c9827d7df3595b7f747a1f5cae8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m2egmjx50870274 <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m2egmjx50870275 <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/conception-de-salles> .
+_:node1b4m2egmjx50870275 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#email> <mailto:contact@greg-ludo.com> <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#adr> _:nodecfd550e8e6bd4ad25bf4c5cf8f8ef0 <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20350%20997> <http://www.sportcom.fr/conception-de-salles> .
+_:node63289a6380f97bb640e4b01bcc966f51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/conception-de-salles> .

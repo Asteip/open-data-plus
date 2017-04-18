@@ -1,0 +1,13 @@
+_:node642021824ae217892f92ca4282147 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:node642021824ae217892f92ca4282147 <http://www.w3.org/2006/vcard/ns#street-address> "Zi de Tournebride <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+R.D. 65" <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:node642021824ae217892f92ca4282147 <http://www.w3.org/2006/vcard/ns#locality> "Sautron-Nantes" <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:node642021824ae217892f92ca4282147 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:node642021824ae217892f92ca4282147 <http://www.w3.org/2006/vcard/ns#postal-code> "F-44880" <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltn8qtx149179515 <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:node1b4ltn8qtx149179515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/2006/vcard/ns#email> <mailto:E-Mail> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/2006/vcard/ns#adr> _:node642021824ae217892f92ca4282147 <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%202%2040%2038%2000%2071> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%202%2040%2038%2009%2085> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .
+_:nodebb8fa1c0a88b8e5f17c552047ab8675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://cflex.com/global-locations/simedit-imprimeur-sas/> .

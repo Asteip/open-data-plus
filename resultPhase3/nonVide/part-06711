@@ -1,0 +1,394 @@
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#street-address> "Heriberto Fr\u00EDas 1439 \u2013 404" <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#street-address> "Colonia del Valle, Delegaci\u00F3n Benito Ju\u00E1rez" <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#locality> "M\u00E9xico" <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#region> "D,F." <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#country-name> "Mexico" <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#postal-code> "3100" <http://www.erickson-foundation.org/institutes/> .
+_:node2440833b7e793f5d5f7976f6807980ad <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/2006/vcard/ns#street-address> "Ugarteche 3193" <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/2006/vcard/ns#locality> "Ciudad Aut\u00F3noma de Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/2006/vcard/ns#country-name> "Argentina" <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/2006/vcard/ns#postal-code> "1425" <http://www.erickson-foundation.org/institutes/> .
+_:node91605473ea1b41accc46a5e0d336d2 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#street-address> "rue de la grotte, 7" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#locality> "La Hulpe" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#region> "Brabant Wallon" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#country-name> "Belgium" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#postal-code> "1310" <http://www.erickson-foundation.org/institutes/> .
+_:node51c1adec60227e692edec332aa2d16b1 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/2006/vcard/ns#street-address> "8, Rue Du Mont Blanc" <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/2006/vcard/ns#locality> "Annemasse" <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/2006/vcard/ns#postal-code> "F \u2013 74100 ANNEMASSE" <http://www.erickson-foundation.org/institutes/> .
+_:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#street-address> "rue Emile Collard 30-B" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#locality> "Liege" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#region> "Belgique" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#country-name> "Belgium" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#postal-code> "4030" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaff2856c817d10476f32a53b261166 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#street-address> "ZithaKlinik" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#street-address> "36, rue Ste Zithe" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#locality> "Luxembourg" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#region> "LU" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#postal-code> "L-2763" <http://www.erickson-foundation.org/institutes/> .
+_:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.w3.org/2006/vcard/ns#street-address> "20, Rue Mercoeur" <http://www.erickson-foundation.org/institutes/> .
+_:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.erickson-foundation.org/institutes/> .
+_:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.erickson-foundation.org/institutes/> .
+_:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/2006/vcard/ns#street-address> "25b, Boulevard de la Liberte\\\u2019" <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/2006/vcard/ns#locality> "Rennes" <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/2006/vcard/ns#postal-code> "35000" <http://www.erickson-foundation.org/institutes/> .
+_:node24f5ccc861ab38567bb194e26aa13 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/2006/vcard/ns#street-address> "15 Avenue Louise Michel" <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/2006/vcard/ns#locality> "Reze" <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/2006/vcard/ns#postal-code> "44400" <http://www.erickson-foundation.org/institutes/> .
+_:node11b926c78bdd4813c179529661aff6 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#street-address> "106, rue Vieille du Temple" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#region> "Francenone" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#postal-code> "75003" <http://www.erickson-foundation.org/institutes/> .
+_:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#street-address> "3, CHEMIN DE L\u2019 EGALITE" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#locality> "G Y" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#region> "GENEVE" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#country-name> "Switzerland" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#postal-code> "1251 <http://www.erickson-foundation.org/institutes/> .
+Y" <http://www.erickson-foundation.org/institutes/> .
+_:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/2006/vcard/ns#street-address> "21, rue Tonduti de l\u2019Escarene" <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/2006/vcard/ns#locality> "Nice" <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/2006/vcard/ns#postal-code> "06000" <http://www.erickson-foundation.org/institutes/> .
+_:node8ba9aa471494163b56fed6f3e33455 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/2006/vcard/ns#street-address> "Brecha California esq. Guaycuras <http://www.erickson-foundation.org/institutes/> .
+1015" <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/2006/vcard/ns#locality> "La Paz" <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/2006/vcard/ns#region> "Fracc. Juarez" <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/2006/vcard/ns#country-name> "Mexico" <http://www.erickson-foundation.org/institutes/> .
+_:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/2006/vcard/ns#street-address> "Av. Barao de Rio Branco, 2872" <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/2006/vcard/ns#locality> "Centro Juiz de Fora" <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/2006/vcard/ns#region> "MG" <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/2006/vcard/ns#country-name> "Brazil" <http://www.erickson-foundation.org/institutes/> .
+_:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/2006/vcard/ns#street-address> "Buchardo 2065" <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/2006/vcard/ns#locality> "B\u00BA PUEYRRED\u00D3N" <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/2006/vcard/ns#region> "C\u00D3RDOBA" <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/2006/vcard/ns#country-name> "Argentina" <http://www.erickson-foundation.org/institutes/> .
+_:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#street-address> "Copan Lt 10 MZ 5" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#street-address> "Col SMZ 39 Residencial Paraiso" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#locality> "Cancun" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#region> "Quintana Roo" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#country-name> "Mexico" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#postal-code> "77507" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#street-address> "Av. Rio Branco 354" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#locality> "Florianopolis" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#region> "SC" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#country-name> "Brazil" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#postal-code> "88015-203" <http://www.erickson-foundation.org/institutes/> .
+_:node3b366f2194a12059cda7f3bc0e4464 <http://www.w3.org/2006/vcard/ns#addressType> "home" <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/2006/vcard/ns#street-address> "Ave. Borges de Medeiros 2105 <http://www.erickson-foundation.org/institutes/> .
+709" <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/2006/vcard/ns#locality> "Porto Alegre" <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/2006/vcard/ns#region> "RS" <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/2006/vcard/ns#country-name> "Brazil" <http://www.erickson-foundation.org/institutes/> .
+_:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#street-address> "Rua Conde Linhares 980" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#locality> "Belo Horizonte" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#region> "MG" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#country-name> "Brazil" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#postal-code> "30380-030" <http://www.erickson-foundation.org/institutes/> .
+_:node64fd1211975ba8084d61c0fe598857 <http://www.w3.org/2006/vcard/ns#addressType> "postal" <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/2006/vcard/ns#street-address> "Sanchez de Bustamante 1945, PB A" <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/2006/vcard/ns#locality> "Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/2006/vcard/ns#country-name> "Argentina" <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/2006/vcard/ns#postal-code> "1425" <http://www.erickson-foundation.org/institutes/> .
+_:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.w3.org/2006/vcard/ns#addressType> "work" <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#fn> "Centro Ericksoniano de Mexico AC" <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640877 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640877 <http://www.w3.org/2006/vcard/ns#given-name> "Centro" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640877 <http://www.w3.org/2006/vcard/ns#family-name> "AC" <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640878 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640878 <http://www.w3.org/2006/vcard/ns#organization-name> "Centro Ericksoniano de Mexico AC" <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#url> <http://www.grupocem.edu.mx> <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20tere@grupocem.edu.mxINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#adr> _:node2440833b7e793f5d5f7976f6807980ad <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/2006/vcard/ns#workTel> <tel:0052%2055%208500%206161> <http://www.erickson-foundation.org/institutes/> .
+_:node2caaf91b45b18f56a4f2d15736b12ef8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#fn> "Centro Milton H. Erickson de la Ciudad de Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640886 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640886 <http://www.w3.org/2006/vcard/ns#given-name> "Centro" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640886 <http://www.w3.org/2006/vcard/ns#family-name> "Aires" <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640887 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640887 <http://www.w3.org/2006/vcard/ns#organization-name> "Centro Milton H. Erickson de la Ciudad de Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#url> <https://cenerick.com.ar> <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20centroerickson@cenerick.com.arINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#adr> _:node91605473ea1b41accc46a5e0d336d2 <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/2006/vcard/ns#workTel> <tel:54%209%2011%2056915159> <http://www.erickson-foundation.org/institutes/> .
+_:noded0e7669a8869aa20d2cb5752ed113b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton Erickson de Belgique IMHEB" <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640891 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640891 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640891 <http://www.w3.org/2006/vcard/ns#family-name> "IMHEB" <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640892 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640892 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton Erickson de Belgique IMHEB" <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#url> <https://www.imheb.be> <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20gerald.brassine@imheb.beINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#adr> _:node51c1adec60227e692edec332aa2d16b1 <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/2006/vcard/ns#workTel> <tel:00%2032%202%20652%2009%2009> <http://www.erickson-foundation.org/institutes/> .
+_:nodecfdffe495633e94f941e9821d199dff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de la Region Lemanique" <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640893 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640893 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640893 <http://www.w3.org/2006/vcard/ns#family-name> "Lemanique" <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640894 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640894 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640894 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de la Region Lemanique" <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#url> <https://www.hypnose-formation.org> <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20guychedeau@hotmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#adr> _:nodefa241e3ba3bdd8e5503adbe52867c7a0 <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/2006/vcard/ns#workTel> <tel:00%2033%20450%2038%2035%2091> <http://www.erickson-foundation.org/institutes/> .
+_:node493f5e71a8212dac8a6ef10769ac7d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de Liege" <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640895 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640895 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640895 <http://www.w3.org/2006/vcard/ns#family-name> "Liege" <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640896 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640896 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de Liege" <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20institut.erickson.liege@gmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#adr> _:nodeaff2856c817d10476f32a53b261166 <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/2006/vcard/ns#workTel> <tel:32%204%20367%2031%2085> <http://www.erickson-foundation.org/institutes/> .
+_:node9e2ca7b1a7df62d5cb7b39f1b4afb153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de Luxembourg" <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640897 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640897 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640897 <http://www.w3.org/2006/vcard/ns#family-name> "Luxembourg" <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640898 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640898 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de Luxembourg" <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#url> <https://www.imhel.lu> <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#email> <mailto:Personal%20Email:%20contact@imhel.luINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#adr> _:node4ccc9cc95bf13bd7967d7a2602afb8 <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/2006/vcard/ns#workTel> <tel:+(352)%20621%2023%2008%2064> <http://www.erickson-foundation.org/institutes/> .
+_:node2a548dd251988423dccaa77c71f455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de Nantes" <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640899 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640899 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640899 <http://www.w3.org/2006/vcard/ns#family-name> "Nantes" <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640900 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640900 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de Nantes" <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#url> <https://www.imhena.com> <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20tservillat@free.frINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#adr> _:nodead8244c514f4a96e3f524f2ac698a2ce <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/2006/vcard/ns#workTel> <tel:33-02-40-48-77-39> <http://www.erickson-foundation.org/institutes/> .
+_:node724d837d8999c1e1b9a85916d75805d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de Rennes Bretagne (IMHERB)" <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640901 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640901 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640901 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640901 <http://www.w3.org/2006/vcard/ns#family-name> "(IMHERB)" <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640902 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640902 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640902 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de Rennes Bretagne (IMHERB)" <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#url> <https://www.hypnose-bretagne.org> <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20president.imherb@gmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#adr> _:node24f5ccc861ab38567bb194e26aa13 <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/2006/vcard/ns#workTel> <tel:33-648-55-27-26> <http://www.erickson-foundation.org/institutes/> .
+_:node9dafbe177aaf1b996984cff61afbb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson de Reze" <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640903 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640903 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640903 <http://www.w3.org/2006/vcard/ns#family-name> "Reze" <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640904 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640904 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson de Reze" <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#url> <https://www.rime44.com> <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20contact@rime44.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#adr> _:node11b926c78bdd4813c179529661aff6 <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/2006/vcard/ns#workTel> <tel:0033%20240%20403%20215> <http://www.erickson-foundation.org/institutes/> .
+_:node10b7a864bedd7b676c1b2528415a351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson Ile-de-France" <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640906 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640906 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640906 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640906 <http://www.w3.org/2006/vcard/ns#family-name> "Ile-de-France" <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640907 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640907 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson Ile-de-France" <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#url> <https://imheidf.wordpress.com> <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20imheidf@gmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#adr> _:nodebde635a85ed5d3a7b4da896ae3c421ce <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/2006/vcard/ns#workTel> <tel:33%20(0)1%2040%2036%2004%2094> <http://www.erickson-foundation.org/institutes/> .
+_:node32994a1699f71bcf4313f2c01b4beee9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson Lemanique de Geneva" <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640908 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640908 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640908 <http://www.w3.org/2006/vcard/ns#family-name> "Geneva" <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640909 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640909 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson Lemanique de Geneva" <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#url> <https://www.hypnose-suisse-formation.ch> <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20hypsos@bluemail.chINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#adr> _:nodec7bbcb1f7f39af0c04b7de2fc39aa73 <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/2006/vcard/ns#workTel> <tel:41%2079%20359%2099%2020> <http://www.erickson-foundation.org/institutes/> .
+_:node1175a6c1d5518823e2460c731db7326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#fn> "Institut Milton H. Erickson Nice, Cote D\u2019Azur" <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640910 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640910 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640910 <http://www.w3.org/2006/vcard/ns#given-name> "Institut" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640910 <http://www.w3.org/2006/vcard/ns#family-name> "D\u2019Azur" <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640911 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640911 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640911 <http://www.w3.org/2006/vcard/ns#organization-name> "Institut Milton H. Erickson Nice, Cote D\u2019Azur" <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#url> <https://www.abchypnose.fr/> <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20contact@abchypnose.frINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#adr> _:node8ba9aa471494163b56fed6f3e33455 <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/2006/vcard/ns#workTel> <tel:33-93-04%2093%2013%2081%2069> <http://www.erickson-foundation.org/institutes/> .
+_:node95a13777643047ae101f87ed3af343b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#fn> "Instituto de Estudios Superiores Milton H. Erickson de La Paz" <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640912 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640912 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640912 <http://www.w3.org/2006/vcard/ns#family-name> "Paz" <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640913 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640913 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto de Estudios Superiores Milton H. Erickson de La Paz" <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#url> <https://www.venydescubre.com.mx> <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20venydescubre@hotmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#adr> _:node3873b5bee3e2a72aeb6281f23d144d5 <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/2006/vcard/ns#workTel> <tel:526121220000> <http://www.erickson-foundation.org/institutes/> .
+_:nodec12184fe22ce75916cdc6248d6b778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#fn> "Instituto de Psicologia Milton H. Erickson Juiz de Fora" <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640915 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640915 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640915 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640915 <http://www.w3.org/2006/vcard/ns#family-name> "Fora" <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640916 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640916 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto de Psicologia Milton H. Erickson Juiz de Fora" <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#url> <https://www.hipnoseericksonianajf.com.br/> <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#adr> _:nodecb1d07ef48bf8848b5e0ff24fb9441 <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/2006/vcard/ns#workTel> <tel:55%2032%203215-2171> <http://www.erickson-foundation.org/institutes/> .
+_:node25d421915eccc9874f6d24d47afc1b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton Erickson de Cordoba" <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640919 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640919 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640919 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640919 <http://www.w3.org/2006/vcard/ns#family-name> "Cordoba" <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640935 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640935 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640935 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton Erickson de Cordoba" <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#url> <https://hipnosis-erickson.com.ar> <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20virginiaavedikian@gmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#adr> _:node5e1aa89cda187ea55acf963ab7e6fbc4 <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/2006/vcard/ns#workTel> <tel:0351-452%203579> <http://www.erickson-foundation.org/institutes/> .
+_:nodea5faf480f9bc748c51ef09bbc05e93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton <http://www.erickson-foundation.org/institutes/> .
+Erickson de Cancun" <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640947 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640947 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640947 <http://www.w3.org/2006/vcard/ns#family-name> "Cancun" <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640948 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640948 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton <http://www.erickson-foundation.org/institutes/> .
+Erickson de Cancun" <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#url> <https://www.grupocem.edu.mx> <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20cancun@grupocem.edu.mx%20ceci@grupocem.edu.mxINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#adr> _:nodeb264ebd71acdd6e1e182d019930ec2e <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/2006/vcard/ns#workTel> <tel:52%20(998)%20848%2001%2018> <http://www.erickson-foundation.org/institutes/> .
+_:nodedf16c372532a8145674e4b0b49af52a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton <http://www.erickson-foundation.org/institutes/> .
+Erickson de Florianopolis" <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640949 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640949 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640949 <http://www.w3.org/2006/vcard/ns#family-name> "Florianopolis" <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640950 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640950 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton <http://www.erickson-foundation.org/institutes/> .
+Erickson de Florianopolis" <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20sofiabauer@terra.copsicomar@terra.com.brINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#adr> _:node3b366f2194a12059cda7f3bc0e4464 <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/2006/vcard/ns#workTel> <tel:55-48-3028-0163> <http://www.erickson-foundation.org/institutes/> .
+_:node80bcf08ffa419ebfb9355f78f4e7637 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton H. Erickson Brasil Sul" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640951 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640951 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640951 <http://www.w3.org/2006/vcard/ns#family-name> "Sul" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640952 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640952 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton H. Erickson Brasil Sul" <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#url> <https://www.miltonerickson-brasilsul.com.br> <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20ricardo.feix@me.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#adr> _:nodefc83eeedba47e451b7cdda9f5c7f4e36 <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/2006/vcard/ns#workTel> <tel:55%2051%203026%203088> <http://www.erickson-foundation.org/institutes/> .
+_:nodeb2809c642e41c6d1997bb2ee52bb508e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton H. Erickson de Belo Horizonte" <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640953 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640953 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640953 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640953 <http://www.w3.org/2006/vcard/ns#family-name> "Horizonte" <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640954 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640954 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton H. Erickson de Belo Horizonte" <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#url> <https://www.ericksonbh.com/br> <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20instituto@ericksonbh.com.brINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#adr> _:node64fd1211975ba8084d61c0fe598857 <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/2006/vcard/ns#workTel> <tel:55%2031%203344%208447> <http://www.erickson-foundation.org/institutes/> .
+_:node7e60f25b5a5c4485c78d42e15fa84b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#fn> "Instituto Milton H. Erickson de Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx14640956 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640956 <http://www.w3.org/2006/vcard/ns#given-name> "Instituto" <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640956 <http://www.w3.org/2006/vcard/ns#family-name> "Aires" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx14640957 <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.erickson-foundation.org/institutes/> .
+_:node1b4m3r1qrx14640957 <http://www.w3.org/2006/vcard/ns#organization-name> "Instituto Milton H. Erickson de Buenos Aires" <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#url> <https://www.institutodehipnosis.com.ar> <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#email> <mailto:Work%20Email:%20edgaretkin@gmail.comINTERNET> <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#adr> _:nodedff34e14a7ac255f2bf5354978fd7953 <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/2006/vcard/ns#workTel> <tel:54-11-4823-1324> <http://www.erickson-foundation.org/institutes/> .
+_:nodeaa65186c903ee390b2d7a2fd63f594a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.erickson-foundation.org/institutes/> .

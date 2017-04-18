@@ -1,0 +1,17 @@
+_:nodea6441be7c3415818dcb4435825da0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <https://www.zapaday.com/venue/470145> .
+_:nodea6441be7c3415818dcb4435825da0 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <https://www.zapaday.com/venue/470145> .
+_:nodea6441be7c3415818dcb4435825da0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#fn> "http://www.exponantes.com/" <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#n> _:node1b4lv8ivkx4468361 <https://www.zapaday.com/venue/470145> .
+_:node1b4lv8ivkx4468361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <https://www.zapaday.com/venue/470145> .
+_:node1b4lv8ivkx4468361 <http://www.w3.org/2006/vcard/ns#given-name> "http://www.exponantes.com/" <https://www.zapaday.com/venue/470145> .
+_:node1b4lv8ivkx4468361 <http://www.w3.org/2006/vcard/ns#family-name> "http://www.exponantes.com/" <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#org> _:node1b4lv8ivkx4468387 <https://www.zapaday.com/venue/470145> .
+_:node1b4lv8ivkx4468387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <https://www.zapaday.com/venue/470145> .
+_:node1b4lv8ivkx4468387 <http://www.w3.org/2006/vcard/ns#organization-name> "Nantes <https://www.zapaday.com/venue/470145> .
+Parc Expo <https://www.zapaday.com/venue/470145> .
+La beaujoire" <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#url> <http://www.exponantes.com/> <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#category> "Conference center" <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/2006/vcard/ns#adr> _:nodea6441be7c3415818dcb4435825da0 <https://www.zapaday.com/venue/470145> .
+_:node50a51c5b1e8594a6738ca75246c553f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <https://www.zapaday.com/venue/470145> .

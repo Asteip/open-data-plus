@@ -1,0 +1,62 @@
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/> .
+Nantes" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/> .
+Nantes" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/> .
+Nantes" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/> .
+_:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.sportcom.fr/> .
+Nantes" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.sportcom.fr/> .
+_:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lv8ip8x33824044 <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824044 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lv8ip8x33824045 <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824045 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#adr> _:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lv8ip8x33824046 <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lv8ip8x33824047 <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/> .
+_:node1b4lv8ip8x33824047 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#email> <mailto:contact@greg-ludo.com> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#adr> _:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20350%20997> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irpvx192645189 <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irpvx192645190 <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645190 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645190 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#adr> _:node9dcba92aaa3aedc18a6d2c2dc6e62cf <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.sportcom.fr/> .
+_:node3c4f3eb0ae263bbe4995a4e741c77a95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0irpvx192645191 <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645191 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0irpvx192645192 <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.sportcom.fr/> .
+_:node1b4m0irpvx192645192 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#url> <http://www.sportcom.fr/> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#email> <mailto:contact@greg-ludo.com> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#adr> _:node7fa3fe7fca3e12da6df33e13987f4c23 <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20350%20997> <http://www.sportcom.fr/> .
+_:noded1ca835f51b7de53bc2182e02bb5ca13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.sportcom.fr/> .

@@ -1,0 +1,522 @@
+_:node8cf8f59d5b2249e65394d8162a3b236f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8cf8f59d5b2249e65394d8162a3b236f <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8cf8f59d5b2249e65394d8162a3b236f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec370265583faec9c3c61d9d466b74231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec370265583faec9c3c61d9d466b74231 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec370265583faec9c3c61d9d466b74231 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee87b7c4c1e34968e377cc96a0914e2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee87b7c4c1e34968e377cc96a0914e2d <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee87b7c4c1e34968e377cc96a0914e2d <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node881813ab7f4c9e8bc3f5d1ffc9c63f76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node881813ab7f4c9e8bc3f5d1ffc9c63f76 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node881813ab7f4c9e8bc3f5d1ffc9c63f76 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node3024d3e2237b35d06de6d9371ffe3563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node3024d3e2237b35d06de6d9371ffe3563 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node3024d3e2237b35d06de6d9371ffe3563 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeaef58f3cdba6c218105a921886414d4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeaef58f3cdba6c218105a921886414d4c <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeaef58f3cdba6c218105a921886414d4c <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1cac55a48db445e7d61b2629edad7ca7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1cac55a48db445e7d61b2629edad7ca7 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1cac55a48db445e7d61b2629edad7ca7 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedbe669bcdf33c4499209cfed65c5043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedbe669bcdf33c4499209cfed65c5043 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedbe669bcdf33c4499209cfed65c5043 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb54ce3ea031201d5efcd745b37f33d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb54ce3ea031201d5efcd745b37f33d8 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb54ce3ea031201d5efcd745b37f33d8 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded79f86fb911fbda63d4bc6d7e7d6887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded79f86fb911fbda63d4bc6d7e7d6887 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded79f86fb911fbda63d4bc6d7e7d6887 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node649555c34d6dc53caaa87f77e956b39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node649555c34d6dc53caaa87f77e956b39 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node649555c34d6dc53caaa87f77e956b39 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb1c3d6e22f6473b19cc9a5ce1541123 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb1c3d6e22f6473b19cc9a5ce1541123 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb1c3d6e22f6473b19cc9a5ce1541123 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec51fb92008facbb46f1e9e76f11b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec51fb92008facbb46f1e9e76f11b <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodec51fb92008facbb46f1e9e76f11b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8e2df81b696bdb8791c4cc17ea099db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8e2df81b696bdb8791c4cc17ea099db <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8e2df81b696bdb8791c4cc17ea099db <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedba36c8a4eddabe4bd620b4c57baa64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedba36c8a4eddabe4bd620b4c57baa64 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedba36c8a4eddabe4bd620b4c57baa64 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node61c2b33ac371895bffc3e62427fa57c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node61c2b33ac371895bffc3e62427fa57c9 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node61c2b33ac371895bffc3e62427fa57c9 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node95e027aedc5c3a466ac6beb70c1b565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node95e027aedc5c3a466ac6beb70c1b565 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node95e027aedc5c3a466ac6beb70c1b565 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeef65fca0ab881e01e3c36691bc1bbf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeef65fca0ab881e01e3c36691bc1bbf <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeef65fca0ab881e01e3c36691bc1bbf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded3db151340434a633326d615f98916d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded3db151340434a633326d615f98916d <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded3db151340434a633326d615f98916d <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node432854db6fcf957bc08223facd3f3622 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node432854db6fcf957bc08223facd3f3622 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node432854db6fcf957bc08223facd3f3622 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea6c96b3468d417c2898c294dfa4bafb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea6c96b3468d417c2898c294dfa4bafb <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea6c96b3468d417c2898c294dfa4bafb <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb18f84978def49386571bb18641744d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb18f84978def49386571bb18641744d <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb18f84978def49386571bb18641744d <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node336e29ba2060e13ee3fa288f6dc11387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node336e29ba2060e13ee3fa288f6dc11387 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node336e29ba2060e13ee3fa288f6dc11387 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node83df23260ccc5b83a2adee13f54b24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node83df23260ccc5b83a2adee13f54b24 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node83df23260ccc5b83a2adee13f54b24 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8298b99b9af42a1cc34a7d2dabd26fd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8298b99b9af42a1cc34a7d2dabd26fd3 <http://www.w3.org/2006/vcard/ns#locality> "Paris 12" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node8298b99b9af42a1cc34a7d2dabd26fd3 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#vcalendar> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Les Insus" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/2002/12/cal/icaltzd#description> "Les Insus" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayOct 22, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798793 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/les-insus-10-22-2016-tickets-2929910.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798793 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Jeff Beck" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/2002/12/cal/icaltzd#description> "Jeff Beck" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceSalle Pleyel" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "MondayOct 24, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798794 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/jeff-beck-10-24-2016-tickets-2926736.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798794 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/2002/12/cal/icaltzd#description> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "TuesdayOct 25, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798795 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/renaud-10-25-2016-tickets-2838250.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798795 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/2002/12/cal/icaltzd#description> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayOct 26, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798796 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/renaud-10-26-2016-tickets-2838251.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798796 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/2002/12/cal/icaltzd#description> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "ThursdayOct 27, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798797 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/renaud-10-27-2016-tickets-2838252.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798797 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/2002/12/cal/icaltzd#description> "Renaud" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "FridayOct 28, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798798 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/renaud-10-28-2016-tickets-2838253.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798798 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. Stade Rennes FC" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. Stade Rennes FC" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SundayNov 06, 2016[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798799 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-stade-rennes-fc-11-06-2016-tickets-2899709.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798799 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/2002/12/cal/icaltzd#summary> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/2002/12/cal/icaltzd#description> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "FridayNov 11, 20163:30PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798800 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/isu-grand-prix-of-figure-skating-11-11-2016-tickets-2929947.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798800 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/2002/12/cal/icaltzd#summary> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/2002/12/cal/icaltzd#description> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 12, 20161:30PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798801 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/isu-grand-prix-of-figure-skating-11-12-2016-tickets-2929948.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798801 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/2002/12/cal/icaltzd#summary> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/2002/12/cal/icaltzd#description> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 12, 20166:15PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798802 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/isu-grand-prix-of-figure-skating-11-12-2016-tickets-2929949.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798802 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/2002/12/cal/icaltzd#summary> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/2002/12/cal/icaltzd#description> "ISU Grand Prix of Figure Skating" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SundayNov 13, 20162:30PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798803 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/isu-grand-prix-of-figure-skating-11-13-2016-tickets-2929950.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798803 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Pete Doherty" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/2002/12/cal/icaltzd#description> "Pete Doherty" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Bataclan" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "ThursdayNov 17, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798805 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/pete-doherty-11-17-2016-tickets-2838842.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798805 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. FC Nantes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. FC Nantes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayNov 19, 2016[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798812 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-fc-nantes-11-19-2016-tickets-2899707.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798812 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Pixies" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/2002/12/cal/icaltzd#description> "Pixies" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayNov 23, 20167:30PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798813 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/pixies-11-23-2016-tickets-2889417.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798813 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Kev Adams <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Gad Elmaleh" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/2002/12/cal/icaltzd#description> "Kev Adams <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Gad Elmaleh" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayNov 23, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798815 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/kev-adams-gad-elmaleh-11-23-2016-tickets-2929965.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798815 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/2002/12/cal/icaltzd#summary> "DJ Snake" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/2002/12/cal/icaltzd#description> "DJ Snake" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "FridayNov 25, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798818 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/dj-snake-11-25-2016-tickets-2947681.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798818 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Placebo" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/2002/12/cal/icaltzd#description> "Placebo" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "TuesdayNov 29, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798819 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/placebo-11-29-2016-tickets-2929990.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798819 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. Angers SCO" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. Angers SCO" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayNov 30, 2016[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798820 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-angers-sco-11-30-2016-tickets-2899693.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798820 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. OGC Nice" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. OGC Nice" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayDec 10, 2016[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798821 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-ogc-nice-12-10-2016-tickets-2899708.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798821 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Marco Mengoni" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/2002/12/cal/icaltzd#description> "Marco Mengoni" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceLe Trianon Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SundayDec 11, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798822 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/marco-mengoni-12-11-2016-tickets-2838065.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798822 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Jean Michel Jarre" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/2002/12/cal/icaltzd#description> "Jean Michel Jarre" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "MondayDec 12, 20168:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798823 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/jean-michel-jarre-12-12-2016-tickets-2929955.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798823 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Pascal Obispo" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/2002/12/cal/icaltzd#description> "Pascal Obispo" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayDec 17, 20168:30PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798824 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/pascal-obispo-12-17-2016-tickets-2929989.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798824 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. FC Lorient" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. FC Lorient" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "WednesdayDec 21, 2016[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798825 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-fc-lorient-12-21-2016-tickets-2899700.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798825 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Paris Saint-Germain FC vs. AS Monaco FC" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/2002/12/cal/icaltzd#description> "Paris Saint-Germain FC vs. AS Monaco FC" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris, FranceParc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "SaturdayJan 28, 2017[Time TBA]" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798826 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/paris-saint-germain-fc-vs-as-monaco-fc-01-28-2017-tickets-2899704.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798826 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/12/cal/icaltzd#Vevent> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/2002/12/cal/icaltzd#summary> "Green Day" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/2002/12/cal/icaltzd#description> "Green Day" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/2002/12/cal/icaltzd#location> "Paris 12, FranceAccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "FridayFeb 03, 20177:00PM" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798827 <http://www.w3.org/2002/12/cal/icaltzd#url> <http://www.ticketnetwork.com/tix/green-day-02-03-2017-tickets-2929951.aspx> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://www.w3.org/2002/12/cal/icaltzd#component> _:node1b4m4e5j7x86798827 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node556a64917488b9a1118ae5f73a97868 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node556a64917488b9a1118ae5f73a97868 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798828 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798828 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798828 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node556a64917488b9a1118ae5f73a97868 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798829 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798829 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798829 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node556a64917488b9a1118ae5f73a97868 <http://www.w3.org/2006/vcard/ns#adr> _:node8cf8f59d5b2249e65394d8162a3b236f <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node556a64917488b9a1118ae5f73a97868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeac125c369746f4bc45972d527b779c <http://www.w3.org/2006/vcard/ns#fn> "Salle Pleyel" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeac125c369746f4bc45972d527b779c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798830 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798830 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798830 <http://www.w3.org/2006/vcard/ns#given-name> "Salle" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798830 <http://www.w3.org/2006/vcard/ns#family-name> "Pleyel" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeac125c369746f4bc45972d527b779c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798831 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798831 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798831 <http://www.w3.org/2006/vcard/ns#organization-name> "Salle Pleyel" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeac125c369746f4bc45972d527b779c <http://www.w3.org/2006/vcard/ns#adr> _:nodec370265583faec9c3c61d9d466b74231 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeac125c369746f4bc45972d527b779c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee05d4982ed2b7c7f62b3358550be9 <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee05d4982ed2b7c7f62b3358550be9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798832 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798832 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798832 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798832 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee05d4982ed2b7c7f62b3358550be9 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798833 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798833 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798833 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee05d4982ed2b7c7f62b3358550be9 <http://www.w3.org/2006/vcard/ns#adr> _:nodee87b7c4c1e34968e377cc96a0914e2d <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee05d4982ed2b7c7f62b3358550be9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node365c4a1b958e731b8759c6882b5aff2c <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node365c4a1b958e731b8759c6882b5aff2c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798834 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798834 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798834 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node365c4a1b958e731b8759c6882b5aff2c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798835 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798835 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node365c4a1b958e731b8759c6882b5aff2c <http://www.w3.org/2006/vcard/ns#adr> _:node881813ab7f4c9e8bc3f5d1ffc9c63f76 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node365c4a1b958e731b8759c6882b5aff2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node23a270eaadf96b3b6a533b5a917ae8a9 <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node23a270eaadf96b3b6a533b5a917ae8a9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798843 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798843 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798843 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node23a270eaadf96b3b6a533b5a917ae8a9 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798844 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798844 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node23a270eaadf96b3b6a533b5a917ae8a9 <http://www.w3.org/2006/vcard/ns#adr> _:node3024d3e2237b35d06de6d9371ffe3563 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node23a270eaadf96b3b6a533b5a917ae8a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea2e6e0def19ab3a45135b480e7599c33 <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea2e6e0def19ab3a45135b480e7599c33 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798845 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798845 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798845 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea2e6e0def19ab3a45135b480e7599c33 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798846 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798846 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea2e6e0def19ab3a45135b480e7599c33 <http://www.w3.org/2006/vcard/ns#adr> _:nodeaef58f3cdba6c218105a921886414d4c <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea2e6e0def19ab3a45135b480e7599c33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node467cddb96c8f2f472417f9a90a51d9e <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node467cddb96c8f2f472417f9a90a51d9e <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798847 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798847 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798847 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node467cddb96c8f2f472417f9a90a51d9e <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798848 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798848 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node467cddb96c8f2f472417f9a90a51d9e <http://www.w3.org/2006/vcard/ns#adr> _:node1cac55a48db445e7d61b2629edad7ca7 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node467cddb96c8f2f472417f9a90a51d9e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedfdc9aeb6fd33c8bb5cdf96d3e29e94 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedfdc9aeb6fd33c8bb5cdf96d3e29e94 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798849 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798849 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798849 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedfdc9aeb6fd33c8bb5cdf96d3e29e94 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798850 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798850 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedfdc9aeb6fd33c8bb5cdf96d3e29e94 <http://www.w3.org/2006/vcard/ns#adr> _:nodeedbe669bcdf33c4499209cfed65c5043 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeedfdc9aeb6fd33c8bb5cdf96d3e29e94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded1da21bd5c99fae043685eccc763582c <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded1da21bd5c99fae043685eccc763582c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798851 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798851 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798851 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded1da21bd5c99fae043685eccc763582c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798852 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798852 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded1da21bd5c99fae043685eccc763582c <http://www.w3.org/2006/vcard/ns#adr> _:nodeb54ce3ea031201d5efcd745b37f33d8 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:noded1da21bd5c99fae043685eccc763582c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodef0d575fe9d44cb16becba2fae8ca1fd <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodef0d575fe9d44cb16becba2fae8ca1fd <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798853 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798853 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798853 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodef0d575fe9d44cb16becba2fae8ca1fd <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798854 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798854 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodef0d575fe9d44cb16becba2fae8ca1fd <http://www.w3.org/2006/vcard/ns#adr> _:noded79f86fb911fbda63d4bc6d7e7d6887 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodef0d575fe9d44cb16becba2fae8ca1fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee343e896ce3a72fd53e41756e7daa531 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee343e896ce3a72fd53e41756e7daa531 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798855 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798855 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798855 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee343e896ce3a72fd53e41756e7daa531 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798856 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798856 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee343e896ce3a72fd53e41756e7daa531 <http://www.w3.org/2006/vcard/ns#adr> _:node649555c34d6dc53caaa87f77e956b39 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee343e896ce3a72fd53e41756e7daa531 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea95bed538ee45e3a293a27610bc2a62 <http://www.w3.org/2006/vcard/ns#fn> "Le Bataclan" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea95bed538ee45e3a293a27610bc2a62 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798857 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798857 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798857 <http://www.w3.org/2006/vcard/ns#family-name> "Bataclan" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea95bed538ee45e3a293a27610bc2a62 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798858 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798858 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Bataclan" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea95bed538ee45e3a293a27610bc2a62 <http://www.w3.org/2006/vcard/ns#adr> _:nodeb1c3d6e22f6473b19cc9a5ce1541123 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodea95bed538ee45e3a293a27610bc2a62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node474dd120e3f9a6f0f8b1ef59a47accca <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node474dd120e3f9a6f0f8b1ef59a47accca <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798859 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798859 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798859 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798859 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node474dd120e3f9a6f0f8b1ef59a47accca <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798860 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798860 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node474dd120e3f9a6f0f8b1ef59a47accca <http://www.w3.org/2006/vcard/ns#adr> _:nodec51fb92008facbb46f1e9e76f11b <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node474dd120e3f9a6f0f8b1ef59a47accca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee12a92cfce7a2ba6902e33a269f14c4 <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee12a92cfce7a2ba6902e33a269f14c4 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798861 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798861 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798861 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee12a92cfce7a2ba6902e33a269f14c4 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798862 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798862 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798862 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee12a92cfce7a2ba6902e33a269f14c4 <http://www.w3.org/2006/vcard/ns#adr> _:node8e2df81b696bdb8791c4cc17ea099db <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodee12a92cfce7a2ba6902e33a269f14c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node47ccdd5d1ed9f18ca664f7bf8f11e771 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node47ccdd5d1ed9f18ca664f7bf8f11e771 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798863 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798863 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798863 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798863 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node47ccdd5d1ed9f18ca664f7bf8f11e771 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798864 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798864 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node47ccdd5d1ed9f18ca664f7bf8f11e771 <http://www.w3.org/2006/vcard/ns#adr> _:nodedba36c8a4eddabe4bd620b4c57baa64 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node47ccdd5d1ed9f18ca664f7bf8f11e771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node42a22b7b9adebd332aab714ca92b0 <http://www.w3.org/2006/vcard/ns#fn> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node42a22b7b9adebd332aab714ca92b0 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798865 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798865 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798865 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node42a22b7b9adebd332aab714ca92b0 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798866 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798866 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Zenith <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node42a22b7b9adebd332aab714ca92b0 <http://www.w3.org/2006/vcard/ns#adr> _:node61c2b33ac371895bffc3e62427fa57c9 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node42a22b7b9adebd332aab714ca92b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb4b8a60a56e8b1bb1702049921036c3 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb4b8a60a56e8b1bb1702049921036c3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798874 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798874 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798874 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb4b8a60a56e8b1bb1702049921036c3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798875 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798875 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb4b8a60a56e8b1bb1702049921036c3 <http://www.w3.org/2006/vcard/ns#adr> _:node95e027aedc5c3a466ac6beb70c1b565 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodeb4b8a60a56e8b1bb1702049921036c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node6786a57f915cdd3943e5b26a8a3b412 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node6786a57f915cdd3943e5b26a8a3b412 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798876 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798876 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798876 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node6786a57f915cdd3943e5b26a8a3b412 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798877 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798877 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node6786a57f915cdd3943e5b26a8a3b412 <http://www.w3.org/2006/vcard/ns#adr> _:nodeef65fca0ab881e01e3c36691bc1bbf <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node6786a57f915cdd3943e5b26a8a3b412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node56c1813c58b6f22c4dbee0bf96130b0 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node56c1813c58b6f22c4dbee0bf96130b0 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798878 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798878 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798878 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node56c1813c58b6f22c4dbee0bf96130b0 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798879 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798879 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node56c1813c58b6f22c4dbee0bf96130b0 <http://www.w3.org/2006/vcard/ns#adr> _:noded3db151340434a633326d615f98916d <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node56c1813c58b6f22c4dbee0bf96130b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node19bb63352d4cdee8fce352827793fa3 <http://www.w3.org/2006/vcard/ns#fn> "Le Trianon Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node19bb63352d4cdee8fce352827793fa3 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798881 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798881 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798881 <http://www.w3.org/2006/vcard/ns#given-name> "Le" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798881 <http://www.w3.org/2006/vcard/ns#family-name> "Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node19bb63352d4cdee8fce352827793fa3 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798882 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798882 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798882 <http://www.w3.org/2006/vcard/ns#organization-name> "Le Trianon Paris" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node19bb63352d4cdee8fce352827793fa3 <http://www.w3.org/2006/vcard/ns#adr> _:node432854db6fcf957bc08223facd3f3622 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node19bb63352d4cdee8fce352827793fa3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedd25e9b3e4c41b9b43795e64f5a2 <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedd25e9b3e4c41b9b43795e64f5a2 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798883 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798883 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798883 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798883 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedd25e9b3e4c41b9b43795e64f5a2 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798884 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798884 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798884 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedd25e9b3e4c41b9b43795e64f5a2 <http://www.w3.org/2006/vcard/ns#adr> _:nodea6c96b3468d417c2898c294dfa4bafb <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:nodedd25e9b3e4c41b9b43795e64f5a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node11e5db2af1b792b0c12d7fa5ab87c3ac <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node11e5db2af1b792b0c12d7fa5ab87c3ac <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798885 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798885 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798885 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node11e5db2af1b792b0c12d7fa5ab87c3ac <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798886 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798886 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node11e5db2af1b792b0c12d7fa5ab87c3ac <http://www.w3.org/2006/vcard/ns#adr> _:nodeb18f84978def49386571bb18641744d <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node11e5db2af1b792b0c12d7fa5ab87c3ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node5ad7439198cbd84f7f787d766c9b6440 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node5ad7439198cbd84f7f787d766c9b6440 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798893 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798893 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798893 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node5ad7439198cbd84f7f787d766c9b6440 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798900 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798900 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node5ad7439198cbd84f7f787d766c9b6440 <http://www.w3.org/2006/vcard/ns#adr> _:node336e29ba2060e13ee3fa288f6dc11387 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node5ad7439198cbd84f7f787d766c9b6440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node41a247e9f4ef1a546573a9b9df11568 <http://www.w3.org/2006/vcard/ns#fn> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node41a247e9f4ef1a546573a9b9df11568 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798901 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798901 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798901 <http://www.w3.org/2006/vcard/ns#given-name> "Parc" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798901 <http://www.w3.org/2006/vcard/ns#family-name> "Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node41a247e9f4ef1a546573a9b9df11568 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798902 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798902 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798902 <http://www.w3.org/2006/vcard/ns#organization-name> "Parc Des Princes" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node41a247e9f4ef1a546573a9b9df11568 <http://www.w3.org/2006/vcard/ns#adr> _:node83df23260ccc5b83a2adee13f54b24 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node41a247e9f4ef1a546573a9b9df11568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node15493cd8a3c8f17b95cf23905ddb795d <http://www.w3.org/2006/vcard/ns#fn> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node15493cd8a3c8f17b95cf23905ddb795d <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4e5j7x86798903 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798903 <http://www.w3.org/2006/vcard/ns#given-name> "AccorHotels" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798903 <http://www.w3.org/2006/vcard/ns#family-name> "Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node15493cd8a3c8f17b95cf23905ddb795d <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4e5j7x86798904 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node1b4m4e5j7x86798904 <http://www.w3.org/2006/vcard/ns#organization-name> "AccorHotels Arena" <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node15493cd8a3c8f17b95cf23905ddb795d <http://www.w3.org/2006/vcard/ns#adr> _:node8298b99b9af42a1cc34a7d2dabd26fd3 <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+_:node15493cd8a3c8f17b95cf23905ddb795d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .
+<http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> <http://ogp.me/ns/fb#app_id> "121641127863557"@en-us <http://www.ticketnetwork.com/ticket/paris-vp-events.aspx> .

@@ -1,0 +1,44 @@
+_:nodea7ac1c14474e90db2f83f41496e146ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/859425.html> .
+_:nodea7ac1c14474e90db2f83f41496e146ae <http://www.w3.org/2006/vcard/ns#street-address> "13, rue Beauregard" <http://fr.nomao.com/859425.html> .
+_:nodea7ac1c14474e90db2f83f41496e146ae <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/859425.html> .
+_:nodea7ac1c14474e90db2f83f41496e146ae <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/859425.html> .
+_:nodea7ac1c14474e90db2f83f41496e146ae <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/859425.html> .
+_:nodedc907f171164ef6de5034a948b51136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/859425.html> .
+_:node1bf7c154abf787bc68c153571bb0f0f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859425.html> .
+_:node1bf7c154abf787bc68c153571bb0f0f4 <http://schema.org/ListItem/item> <http://fr.nomao.com/859425.html//> <http://fr.nomao.com/859425.html> .
+_:node1bf7c154abf787bc68c153571bb0f0f4 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/859425.html> .
+_:nodedc907f171164ef6de5034a948b51136 <http://schema.org/BreadcrumbList/itemListElement> _:node1bf7c154abf787bc68c153571bb0f0f4 <http://fr.nomao.com/859425.html> .
+_:node1d0fbff917a44feb71e3cccf8f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859425.html> .
+_:node1d0fbff917a44feb71e3cccf8f0 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger.html> <http://fr.nomao.com/859425.html> .
+_:node1d0fbff917a44feb71e3cccf8f0 <http://schema.org/ListItem/name> "Manger Nantes"@fr <http://fr.nomao.com/859425.html> .
+_:nodedc907f171164ef6de5034a948b51136 <http://schema.org/BreadcrumbList/itemListElement> _:node1d0fbff917a44feb71e3cccf8f0 <http://fr.nomao.com/859425.html> .
+_:noded05384988cf61be264b3c57536287d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859425.html> .
+_:noded05384988cf61be264b3c57536287d1 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger/restaurant.html> <http://fr.nomao.com/859425.html> .
+_:noded05384988cf61be264b3c57536287d1 <http://schema.org/ListItem/name> "Restaurant Nantes"@fr <http://fr.nomao.com/859425.html> .
+_:nodedc907f171164ef6de5034a948b51136 <http://schema.org/BreadcrumbList/itemListElement> _:noded05384988cf61be264b3c57536287d1 <http://fr.nomao.com/859425.html> .
+_:node22b5f934e8f2462bbdc8220b7d92a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/859425.html> .
+_:node22b5f934e8f2462bbdc8220b7d92a6 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger/restaurant,cuisine+francaise.html> <http://fr.nomao.com/859425.html> .
+_:node22b5f934e8f2462bbdc8220b7d92a6 <http://schema.org/ListItem/name> "Cuisine fran\u00E7aise Nantes"@fr <http://fr.nomao.com/859425.html> .
+_:nodedc907f171164ef6de5034a948b51136 <http://schema.org/BreadcrumbList/itemListElement> _:node22b5f934e8f2462bbdc8220b7d92a6 <http://fr.nomao.com/859425.html> .
+<http://fr.nomao.com/859425.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedc907f171164ef6de5034a948b51136 <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <http://fr.nomao.com/859425.html> .
+_:nodef93bae259581c6226b43bdb769534a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/859425.html> .
+_:nodef93bae259581c6226b43bdb769534a <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/859425.html> .
+_:nodef93bae259581c6226b43bdb769534a <http://schema.org/PostalAddress/streetAddress> "13, rue Beauregard"@fr <http://fr.nomao.com/859425.html> .
+_:nodef93bae259581c6226b43bdb769534a <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/859425.html> .
+_:nodef93bae259581c6226b43bdb769534a <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/address> _:nodef93bae259581c6226b43bdb769534a <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/name> "La Table D'oscar"@fr <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/logo> "http://static.nomao.com/img/v4/1631_spot.png"@fr <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/photo> <http://mt8.nomao.com/pictures/46210750?w=178&h=145> <http://fr.nomao.com/859425.html> .
+_:node2de9dfb7fc3dde67f3e526bb1deafb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/859425.html> .
+_:node2de9dfb7fc3dde67f3e526bb1deafb2 <http://schema.org/AggregateRating/ratingValue> "3.2"@fr <http://fr.nomao.com/859425.html> .
+_:node2de9dfb7fc3dde67f3e526bb1deafb2 <http://schema.org/AggregateRating/ratingCount> "47"@fr <http://fr.nomao.com/859425.html> .
+_:node2de9dfb7fc3dde67f3e526bb1deafb2 <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/aggregateRating> _:node2de9dfb7fc3dde67f3e526bb1deafb2 <http://fr.nomao.com/859425.html> .
+_:nodeb1fb2149e03ccb83f899cc860f26c2b <http://schema.org/Restaurant/url> "http://fr.nomao.com/859425.html"@fr <http://fr.nomao.com/859425.html> .
+<http://fr.nomao.com/859425.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeb1fb2149e03ccb83f899cc860f26c2b <http://fr.nomao.com/859425.html> .
+<http://fr.nomao.com/859425.html> <http://purl.org/dc/terms/title> "La Table D'oscar <http://fr.nomao.com/859425.html> .
+Cuisine fran\u00E7aise, 13, rue Beauregard, Nantes <http://fr.nomao.com/859425.html> .
+Restaurant <http://fr.nomao.com/859425.html> .
+Nomao"@fr <http://fr.nomao.com/859425.html> .

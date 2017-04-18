@@ -1,0 +1,36 @@
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#street-address> "1 quai du Cordon Bleu" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#street-address> "1 quai du Cordon Bleu" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#street-address> "1 quai du Cordon Bleu" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.royal-de-luxe.com/en/> .
+_:node39eba49b6e9d1deeb070d6df816a74db <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#n> _:node1b4m37k1ix112332877 <http://www.royal-de-luxe.com/en/> .
+_:node1b4m37k1ix112332877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#org> _:node1b4m37k1ix112332878 <http://www.royal-de-luxe.com/en/> .
+_:node1b4m37k1ix112332878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.royal-de-luxe.com/en/> .
+_:node1b4m37k1ix112332878 <http://www.w3.org/2006/vcard/ns#organization-name> "Royal de Luxe" <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#adr> _:node39eba49b6e9d1deeb070d6df816a74db <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#n> _:node1b4m373kcx208442660 <http://www.royal-de-luxe.com/en/> .
+_:node1b4m373kcx208442660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#org> _:node1b4m373kcx208442661 <http://www.royal-de-luxe.com/en/> .
+_:node1b4m373kcx208442661 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.royal-de-luxe.com/en/> .
+_:node1b4m373kcx208442661 <http://www.w3.org/2006/vcard/ns#organization-name> "Royal de Luxe" <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#adr> _:node39eba49b6e9d1deeb070d6df816a74db <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#n> _:node1b4lv8j09x276325171 <http://www.royal-de-luxe.com/en/> .
+_:node1b4lv8j09x276325171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#org> _:node1b4lv8j09x276325172 <http://www.royal-de-luxe.com/en/> .
+_:node1b4lv8j09x276325172 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.royal-de-luxe.com/en/> .
+_:node1b4lv8j09x276325172 <http://www.w3.org/2006/vcard/ns#organization-name> "Royal de Luxe" <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/2006/vcard/ns#adr> _:node39eba49b6e9d1deeb070d6df816a74db <http://www.royal-de-luxe.com/en/> .
+_:nodeca62ebf1d8f821a127fcc152679dafa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.royal-de-luxe.com/en/> .

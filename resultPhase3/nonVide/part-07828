@@ -1,0 +1,36 @@
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#street-address> "3 rue Fran\u00E7ois Evellin" <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#region> "Loire Atlantique" <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.scooter-system.tel/> .
+_:noded30412a8c328edf45e14e528d38aae <http://www.w3.org/2006/vcard/ns#addressType> "pref" <http://www.scooter-system.tel/> .
+_:node44c93e2bcc7f5a42e9946a7abc5f46c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.scooter-system.tel/> .
+_:node44c93e2bcc7f5a42e9946a7abc5f46c <http://www.w3.org/2006/vcard/ns#latitude> "47.21684222222222" <http://www.scooter-system.tel/> .
+_:node44c93e2bcc7f5a42e9946a7abc5f46c <http://www.w3.org/2006/vcard/ns#longitude> "-1.5567447222222222" <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#fn> "Scooter System" <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0j2fex260999498 <http://www.scooter-system.tel/> .
+_:node1b4m0j2fex260999498 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.scooter-system.tel/> .
+_:node1b4m0j2fex260999498 <http://www.w3.org/2006/vcard/ns#given-name> "Scooter" <http://www.scooter-system.tel/> .
+_:node1b4m0j2fex260999498 <http://www.w3.org/2006/vcard/ns#family-name> "System" <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://scooter-system.tel> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.scooter-system.fr> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://twitter.com/scootersystem> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.facebook.com/scooter.system> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.youtube.com/user/scootersystems> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://plus.google.com/+scootersystem> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.pinterest.com/scootersystem/> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.instagram.com/scootersystem/> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://scooter-system.tumblr.com/> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.linkedin.com/company/scooter-system> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.viadeo.com/fr/company/scooter-system> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.alexa.com/siteinfo/scooter-system.fr> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#url> <http://www.technoscoots.com> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#email> <mailto:internet%20webmaster@scooter-system.fr> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#photo> <https://secure.gravatar.com/avatar/753a166298067230df08a1f92dd17b1b?s=78> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#adr> _:noded30412a8c328edf45e14e528d38aae <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#workTel> <tel:+33650648957> <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#note> "Scooter System est le premier portail d'information fran\u00E7ais sur le scooter. Le site vous propose de d\u00E9couvrir toute l'actualit\u00E9 scooter en continu. Informez-vous et partagez votre passion du scooter 50cc, 125, du maxiscooter et de la 50 \u00E0 bo\u00EEte..." <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#note> "Scooter System" <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/2006/vcard/ns#geo> _:node44c93e2bcc7f5a42e9946a7abc5f46c <http://www.scooter-system.tel/> .
+_:node196feaa1b685ff0be9f9859ffa385ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.scooter-system.tel/> .

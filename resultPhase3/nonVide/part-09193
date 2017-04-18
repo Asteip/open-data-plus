@@ -1,0 +1,44 @@
+_:noded0f3e8d17f6e814428adf0ee51a359 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/2189846.html> .
+_:noded0f3e8d17f6e814428adf0ee51a359 <http://www.w3.org/2006/vcard/ns#street-address> "12 Place du Pilori" <http://fr.nomao.com/2189846.html> .
+_:noded0f3e8d17f6e814428adf0ee51a359 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/2189846.html> .
+_:noded0f3e8d17f6e814428adf0ee51a359 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/2189846.html> .
+_:noded0f3e8d17f6e814428adf0ee51a359 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/2189846.html> .
+_:node5092a5817b781b3acc4aed9cbbdbad2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/2189846.html> .
+_:nodeecfde77889f5c554a6b5b0ac80ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2189846.html> .
+_:nodeecfde77889f5c554a6b5b0ac80ab <http://schema.org/ListItem/item> <http://fr.nomao.com/2189846.html//> <http://fr.nomao.com/2189846.html> .
+_:nodeecfde77889f5c554a6b5b0ac80ab <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/2189846.html> .
+_:node5092a5817b781b3acc4aed9cbbdbad2 <http://schema.org/BreadcrumbList/itemListElement> _:nodeecfde77889f5c554a6b5b0ac80ab <http://fr.nomao.com/2189846.html> .
+_:node6a6ebb992ca87e22502c60f3988dcc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2189846.html> .
+_:node6a6ebb992ca87e22502c60f3988dcc0 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping.html> <http://fr.nomao.com/2189846.html> .
+_:node6a6ebb992ca87e22502c60f3988dcc0 <http://schema.org/ListItem/name> "Shopping Nantes"@fr <http://fr.nomao.com/2189846.html> .
+_:node5092a5817b781b3acc4aed9cbbdbad2 <http://schema.org/BreadcrumbList/itemListElement> _:node6a6ebb992ca87e22502c60f3988dcc0 <http://fr.nomao.com/2189846.html> .
+_:node75c7bc24e3a904759ae693ab58f7ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2189846.html> .
+_:node75c7bc24e3a904759ae693ab58f7ee <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+mode.html> <http://fr.nomao.com/2189846.html> .
+_:node75c7bc24e3a904759ae693ab58f7ee <http://schema.org/ListItem/name> "Magasin de mode Nantes"@fr <http://fr.nomao.com/2189846.html> .
+_:node5092a5817b781b3acc4aed9cbbdbad2 <http://schema.org/BreadcrumbList/itemListElement> _:node75c7bc24e3a904759ae693ab58f7ee <http://fr.nomao.com/2189846.html> .
+_:nodef5867103979f19d57b56739b841578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/2189846.html> .
+_:nodef5867103979f19d57b56739b841578 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/magasin+de+chaussures.html> <http://fr.nomao.com/2189846.html> .
+_:nodef5867103979f19d57b56739b841578 <http://schema.org/ListItem/name> "Magasin de chaussures Nantes"@fr <http://fr.nomao.com/2189846.html> .
+_:node5092a5817b781b3acc4aed9cbbdbad2 <http://schema.org/BreadcrumbList/itemListElement> _:nodef5867103979f19d57b56739b841578 <http://fr.nomao.com/2189846.html> .
+<http://fr.nomao.com/2189846.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node5092a5817b781b3acc4aed9cbbdbad2 <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <http://fr.nomao.com/2189846.html> .
+_:node1b187f4427cb124b21be8eae84d247d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/2189846.html> .
+_:node1b187f4427cb124b21be8eae84d247d <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/2189846.html> .
+_:node1b187f4427cb124b21be8eae84d247d <http://schema.org/PostalAddress/streetAddress> "12 Place du Pilori"@fr <http://fr.nomao.com/2189846.html> .
+_:node1b187f4427cb124b21be8eae84d247d <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/2189846.html> .
+_:node1b187f4427cb124b21be8eae84d247d <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/address> _:node1b187f4427cb124b21be8eae84d247d <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/name> "ROCK'N GROLL"@fr <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/logo> "http://static.nomao.com/img/v4/5084_spot.png"@fr <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/photo> <http://mt0.nomao.com/pictures/45720268?w=178&h=145> <http://fr.nomao.com/2189846.html> .
+_:nodeccd43c97fb884a1b305bfde7a61ebfb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/2189846.html> .
+_:nodeccd43c97fb884a1b305bfde7a61ebfb3 <http://schema.org/AggregateRating/ratingValue> "3.9"@fr <http://fr.nomao.com/2189846.html> .
+_:nodeccd43c97fb884a1b305bfde7a61ebfb3 <http://schema.org/AggregateRating/ratingCount> "18"@fr <http://fr.nomao.com/2189846.html> .
+_:nodeccd43c97fb884a1b305bfde7a61ebfb3 <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/aggregateRating> _:nodeccd43c97fb884a1b305bfde7a61ebfb3 <http://fr.nomao.com/2189846.html> .
+_:nodec4a3b1a784398c5fa4eccac646acce3 <http://schema.org/Store/url> "http://fr.nomao.com/2189846.html"@fr <http://fr.nomao.com/2189846.html> .
+<http://fr.nomao.com/2189846.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec4a3b1a784398c5fa4eccac646acce3 <http://fr.nomao.com/2189846.html> .
+<http://fr.nomao.com/2189846.html> <http://purl.org/dc/terms/title> "ROCK'N GROLL <http://fr.nomao.com/2189846.html> .
+Magasin de chaussures, 12 Place du Pilori, Nantes <http://fr.nomao.com/2189846.html> .
+Magasin <http://fr.nomao.com/2189846.html> .
+Nomao"@fr <http://fr.nomao.com/2189846.html> .

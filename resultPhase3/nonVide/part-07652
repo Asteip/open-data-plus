@@ -1,0 +1,15 @@
+_:node19a52b22e38aaeed1ba44569ab616140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.flexi-roll.es/> .
+_:node19a52b22e38aaeed1ba44569ab616140 <http://www.w3.org/2006/vcard/ns#street-address> "4, Rue des Fr\u00E8res Lumi\u00E8re" <http://www.flexi-roll.es/> .
+_:node19a52b22e38aaeed1ba44569ab616140 <http://www.w3.org/2006/vcard/ns#locality> "Treilli\u00E8res <http://www.flexi-roll.es/> .
+Nantes" <http://www.flexi-roll.es/> .
+_:node19a52b22e38aaeed1ba44569ab616140 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.flexi-roll.es/> .
+_:node19a52b22e38aaeed1ba44569ab616140 <http://www.w3.org/2006/vcard/ns#postal-code> "44119" <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/2006/vcard/ns#n> _:node1b4lqc9jmx268347479 <http://www.flexi-roll.es/> .
+_:node1b4lqc9jmx268347479 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/2006/vcard/ns#org> _:node1b4lqc9jmx268347480 <http://www.flexi-roll.es/> .
+_:node1b4lqc9jmx268347480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.flexi-roll.es/> .
+_:node1b4lqc9jmx268347480 <http://www.w3.org/2006/vcard/ns#organization-name> "SportCom" <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/2006/vcard/ns#url> <http://www.flexi-roll.es/> <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/2006/vcard/ns#adr> _:node19a52b22e38aaeed1ba44569ab616140 <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33%20(0)%20240%20145%20601> <http://www.flexi-roll.es/> .
+_:node6ef710d87a9271ba3963ce7ad7d44ba8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.flexi-roll.es/> .

@@ -1,0 +1,13 @@
+_:nodec165b992d796ea709baf571abd5d1cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodec165b992d796ea709baf571abd5d1cf <http://www.w3.org/2006/vcard/ns#country-name> "France" <https://simple.wikipedia.org/wiki/Nantes> .
+_:node87fb59738ad39daa9ef2ab9bf22f83a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <https://simple.wikipedia.org/wiki/Nantes> .
+_:node87fb59738ad39daa9ef2ab9bf22f83a <http://www.w3.org/2006/vcard/ns#latitude> "47.1305" <https://simple.wikipedia.org/wiki/Nantes> .
+_:node87fb59738ad39daa9ef2ab9bf22f83a <http://www.w3.org/2006/vcard/ns#longitude> "-1.331" <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodefb772b6dc1fed1e053e5702641cae6ca <http://www.w3.org/2006/vcard/ns#fn> "Nantes" <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodefb772b6dc1fed1e053e5702641cae6ca <http://www.w3.org/2006/vcard/ns#n> _:node1b4lkv8r6x198383493 <https://simple.wikipedia.org/wiki/Nantes> .
+_:node1b4lkv8r6x198383493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodefb772b6dc1fed1e053e5702641cae6ca <http://www.w3.org/2006/vcard/ns#org> _:node1b4lkv8r6x198383494 <https://simple.wikipedia.org/wiki/Nantes> .
+_:node1b4lkv8r6x198383494 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <https://simple.wikipedia.org/wiki/Nantes> .
+_:node1b4lkv8r6x198383494 <http://www.w3.org/2006/vcard/ns#organization-name> "Nantes" <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodefb772b6dc1fed1e053e5702641cae6ca <http://www.w3.org/2006/vcard/ns#adr> _:nodec165b992d796ea709baf571abd5d1cf <https://simple.wikipedia.org/wiki/Nantes> .
+_:nodefb772b6dc1fed1e053e5702641cae6ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <https://simple.wikipedia.org/wiki/Nantes> .

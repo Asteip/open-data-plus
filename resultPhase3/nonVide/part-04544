@@ -1,0 +1,27 @@
+_:nodea8b5196ec258d2fe39bf348ccaabc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodea8b5196ec258d2fe39bf348ccaabc <http://www.w3.org/2006/vcard/ns#street-address> "Immeuble Ehundura <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+Mail du Front Populaire" <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodea8b5196ec258d2fe39bf348ccaabc <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodea8b5196ec258d2fe39bf348ccaabc <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodea8b5196ec258d2fe39bf348ccaabc <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/2006/vcard/ns#n> _:node1b4otfkcdx129870741 <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node1b4otfkcdx129870741 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/2006/vcard/ns#email> <mailto:http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/2006/vcard/ns#logo> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/2006/vcard/ns#adr> _:nodea8b5196ec258d2fe39bf348ccaabc <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2089%2075%2089> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node5ba88057980265812cde26a16418f8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node712f8b25dc0745a6c93d5331b110e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodeb43eca5e2131f4a119319912bdb3499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodeb43eca5e2131f4a119319912bdb3499 <http://schema.org/PostalAddress/addressCountry> "France"@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodeb43eca5e2131f4a119319912bdb3499 <http://schema.org/PostalAddress/streetAddress> "Immeuble Ehundura <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+Mail du Front Populaire"@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodeb43eca5e2131f4a119319912bdb3499 <http://schema.org/PostalAddress/postalCode> "44200"@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:nodeb43eca5e2131f4a119319912bdb3499 <http://schema.org/PostalAddress/addressLocality> "Nantes"@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node712f8b25dc0745a6c93d5331b110e8 <http://schema.org/LocalBusiness/address> _:nodeb43eca5e2131f4a119319912bdb3499 <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node712f8b25dc0745a6c93d5331b110e8 <http://schema.org/LocalBusiness/description> "Thermostat connect\u00E9 pour chauffage \u00E9lectrique, chaudi\u00E8re au gaz, au fioul, au bois, pompe \u00E0 chaleur. Le Thermostat Connect\u00E9 Qivivo r\u00E9alise jusqu'\u00E0 40% d'\u00E9conomies sur votre facture \u00E9nerg\u00E9tique."@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+_:node712f8b25dc0745a6c93d5331b110e8 <http://schema.org/LocalBusiness/email> <http://support.qivivo.com/hc/fr/requests/new> <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+<http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> <http://www.w3.org/1999/xhtml/microdata#item> _:node712f8b25dc0745a6c93d5331b110e8 <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+<http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> <http://purl.org/dc/terms/title> "Caract\u00E9ristiques <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+Qivivo Thermostat filaire <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .
+Qivivo"@fr <http://www.qivivo.com/fr/comment-ca-marche/caracteristiques/qivivo-thermostat-filaire> .

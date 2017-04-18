@@ -1,0 +1,31 @@
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#street-address> "22 RUE RENE VIVIANI" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique, France" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:nodeaec3871fb4f77bd52b2114f881f65e19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#fn> "CENTRE HOSPITALIER VET ATLANTIA" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dmeix288680027 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node1b4m4dmeix288680027 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node1b4m4dmeix288680027 <http://www.w3.org/2006/vcard/ns#given-name> "CENTRE" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node1b4m4dmeix288680027 <http://www.w3.org/2006/vcard/ns#family-name> "ATLANTIA" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4dmeix288680028 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node1b4m4dmeix288680028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node1b4m4dmeix288680028 <http://www.w3.org/2006/vcard/ns#organization-name> "CENTRE HOSPITALIER VET ATLANTIA" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#adr> _:node3bc5a24e5217dbfc6866d8968fcd1495 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#tel> <tel:02-40-47-40-09> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/2006/vcard/ns#geo> _:nodeaec3871fb4f77bd52b2114f881f65e19 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node18a8ad1195ccaa13d8c52aac6ea9e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:nodef834b4ca968a822de82146f0a6e2b443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:nodef834b4ca968a822de82146f0a6e2b443 <http://data-vocabulary.org/Breadcrumb/title> "Accueil" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:nodef834b4ca968a822de82146f0a6e2b443 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+<http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef834b4ca968a822de82146f0a6e2b443 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node6c6e915cabe123c468d54f7fc2c6560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node6c6e915cabe123c468d54f7fc2c6560 <http://data-vocabulary.org/Breadcrumb/title> "Annuaire des v\u00E9t\u00E9rinaires en France" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+_:node6c6e915cabe123c468d54f7fc2c6560 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/annuaire-veterinaire-france.html> <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+<http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node6c6e915cabe123c468d54f7fc2c6560 <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+<http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> <http://purl.org/dc/terms/title> "Site v\u00E9t\u00E9rinaire <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+Chezmonveto.com <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .
+Cr\u00E9ation de sites internet pour les v\u00E9t\u00E9rinaires" <http://www.chezmonveto.com/fiche-centre-hospitalier-vet-atlantia-nantes-102831.html> .

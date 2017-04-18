@@ -19,8 +19,16 @@ import scala.collection.immutable.TreeSet
     def getContext(nquad : String) : String = {
       val begin = nquad.lastIndexOf("<")
       val end = nquad.lastIndexOf(">")
-      nquad.substring(begin + 1, end) 
-      
+      printl("nquad : "+ nquad)
+      try{
+      	nquad.substring(begin + 1, end) 
+      }
+      catch{
+	case e:IndexOutOfBoundsException => {
+	    println("line ignore. : " + nquad)
+	    e.toString()
+	}
+      }
     }
 
     def getNode(nquad : String) : String = {
@@ -75,7 +83,7 @@ import scala.collection.immutable.TreeSet
     //var init = "";
     var tat = "";
     var total =""; //Pour chaque contexte
-    var total2 = ""; //tous les resultats
+    //var total2 = ""; //tous les resultats
     val total3 = ArrayBuffer[String]();
 
     def concat(files: String, stageOneFiles: String, sc : SparkContext) : Unit = {
@@ -88,23 +96,23 @@ import scala.collection.immutable.TreeSet
         }).foreach(a => {
           if(getContext(a) == tat){
             total = total + a;
-            total2 = total2 +a;
+            //total2 = total2 +a;
             } else{
               //total.saveAsTextFile("resultsPhase2")
               total3 += total;
-              println("--- Nouvelle entrée ---");
-              println(total);
+             // println("--- Nouvelle entrée ---");
+             // println(total);
               tat = getContext(a);
               total = "";
-              total2 = total2 + "\n";
+              //total2 = total2 + "\n";
               total = a;
-              total2 = total2 + a;
+              //total2 = total2 + a;
             }
             
           }          
           )
-        println("--- total ---");
-        println(total);
+        //println("--- total ---");
+        //println(total);
         total3 += total;
 
         val distData = sc.parallelize(total3);
@@ -139,29 +147,29 @@ Ville or CodePostal or Region or Country      //sur 30%
 */
 
         stageOne.foreach(nquad => {
-            if(nquad.contains("Nantes") & nquad.contains("addressCountry> \"France") & (nquad.contains("postal-code> \"44000") | nquad.contains("postal-code> \"44100") | nquad.contains("postal-code> \"44200") | nquad.contains("postal-code> \"44300") | nquad.contains("postal-code> \"44301"))){
-              println("--- Contiens nantes + 44000 + france ---");
+            if(nquad.contains("Nantes") & nquad.contains("France") & (nquad.contains("postal-code> \"44000") | nquad.contains("postal-code> \"44100") | nquad.contains("postal-code> \"44200") | nquad.contains("postal-code> \"44300") | nquad.contains("postal-code> \"44301"))){
+              //println("--- Contiens nantes + 44000 + france ---");
               //println(nquad);
               total3 += nquad;
             }
-            else if(nquad.contains("Nantes") & nquad.contains("addressCountry> \"France")){
-              println("--- Contiens nantes + france ---");
+            else if(nquad.contains("Nantes") & nquad.contains("France")){
+              //println("--- Contiens nantes + france ---");
               //println(nquad);
               total3 += nquad;
             }
             else if(nquad.contains("Nantes") & (nquad.contains("postal-code> \"44000") | nquad.contains("postal-code> \"44100") | nquad.contains("postal-code> \"44200") | nquad.contains("postal-code> \"44300") | nquad.contains("postal-code> \"44301"))){
-              println("--- Contiens nantes + 44XXX ---");
+              //println("--- Contiens nantes + 44XXX ---");
               //println(nquad);
               total3 += nquad;
             }
-            else if(nquad.contains("addressCountry> \"France") & (nquad.contains("postal-code> \"44000") | nquad.contains("postal-code> \"44100") | nquad.contains("postal-code> \"44200") | nquad.contains("postal-code> \"44300") | nquad.contains("postal-code> \"44301"))){
-              println("--- Contiens france + 44XXX ---");
+            else if(nquad.contains("France") & (nquad.contains("postal-code> \"44000") | nquad.contains("postal-code> \"44100") | nquad.contains("postal-code> \"44200") | nquad.contains("postal-code> \"44300") | nquad.contains("postal-code> \"44301"))){
+              //println("--- Contiens france + 44XXX ---");
               //println(nquad);
               total3 += nquad;
             }
             
             else if(nquad.contains("Nantes") & nquad.contains("Pays de la loire")){
-              println("--- Contiens nantes + loire ---");
+              //println("--- Contiens nantes + loire ---");
               //println(nquad);
               total3 += nquad;
             }
@@ -183,8 +191,8 @@ Ville or CodePostal or Region or Country      //sur 30%
       args(0) match {
         case "1" => runStageOne(args(1), sc)
         case "2" => {
-          //runStageTwo(args(1), args(2), sc)
-          concat(args(1), args(2), sc)
+          runStageTwo(args(1), args(2), sc)
+          //concat(args(1), args(2), sc)
         }
         case "3" => {
           decisionTree(args(1), sc)

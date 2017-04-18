@@ -1,0 +1,33 @@
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#street-address> "21 RUE DE LA CORNOUAILLE" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique, France" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#region> "Loire-Atlantique" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node3f03c2e745e4172c029927c497f7efa <http://www.w3.org/2006/vcard/ns#postal-code> "44300" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:nodee358ca6aface22f82de6db01fed27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#fn> "CLINIQUE VETERINAIRE DE <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+ERAUDIERE" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#n> _:node1b4m3r1qrx118635080 <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node1b4m3r1qrx118635080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node1b4m3r1qrx118635080 <http://www.w3.org/2006/vcard/ns#given-name> "CLINIQUE" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node1b4m3r1qrx118635080 <http://www.w3.org/2006/vcard/ns#family-name> "ERAUDIERE" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#org> _:node1b4m3r1qrx118635081 <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node1b4m3r1qrx118635081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node1b4m3r1qrx118635081 <http://www.w3.org/2006/vcard/ns#organization-name> "CLINIQUE VETERINAIRE DE <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+ERAUDIERE" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#adr> _:node3f03c2e745e4172c029927c497f7efa <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2040%2068%2095%2074> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/2006/vcard/ns#geo> _:nodee358ca6aface22f82de6db01fed27 <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node42236a2e37e74241c852c34dfea2d6f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:nodecc1d84cc80f63ae0bb0e7d331e4aa53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:nodecc1d84cc80f63ae0bb0e7d331e4aa53 <http://data-vocabulary.org/Breadcrumb/title> "Accueil" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:nodecc1d84cc80f63ae0bb0e7d331e4aa53 <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+<http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodecc1d84cc80f63ae0bb0e7d331e4aa53 <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node51948e89c081a47ec964cf5ca0e644e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node51948e89c081a47ec964cf5ca0e644e <http://data-vocabulary.org/Breadcrumb/title> "Annuaire des v\u00E9t\u00E9rinaires en France" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+_:node51948e89c081a47ec964cf5ca0e644e <http://data-vocabulary.org/Breadcrumb/URL> <http://www.chezmonveto.com/annuaire-veterinaire-france.html> <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+<http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node51948e89c081a47ec964cf5ca0e644e <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+<http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> <http://purl.org/dc/terms/title> "Site v\u00E9t\u00E9rinaire <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+Chezmonveto.com <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .
+Cr\u00E9ation de sites internet pour les v\u00E9t\u00E9rinaires" <http://www.chezmonveto.com/fiche-clinique-veterinaire-de-l-eraudiere-nantes-102860.html> .

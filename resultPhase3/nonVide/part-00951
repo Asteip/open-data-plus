@@ -1,0 +1,35 @@
+_:nodeebea2b72e85cc2f38633e6c726d38f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/1104970.html> .
+_:nodeebea2b72e85cc2f38633e6c726d38f <http://www.w3.org/2006/vcard/ns#street-address> "4 Rue Cassini" <http://fr.nomao.com/1104970.html> .
+_:nodeebea2b72e85cc2f38633e6c726d38f <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/1104970.html> .
+_:nodeebea2b72e85cc2f38633e6c726d38f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/1104970.html> .
+_:nodeebea2b72e85cc2f38633e6c726d38f <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/1104970.html> .
+_:node608133b827eb413e9920c5b35ea227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/1104970.html> .
+_:nodeb374733afff824f7df182967e747076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1104970.html> .
+_:nodeb374733afff824f7df182967e747076 <http://schema.org/ListItem/item> <http://fr.nomao.com/1104970.html//> <http://fr.nomao.com/1104970.html> .
+_:nodeb374733afff824f7df182967e747076 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/1104970.html> .
+_:node608133b827eb413e9920c5b35ea227 <http://schema.org/BreadcrumbList/itemListElement> _:nodeb374733afff824f7df182967e747076 <http://fr.nomao.com/1104970.html> .
+_:nodeda87e3555d6d858837511dd9a01327ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1104970.html> .
+_:nodeda87e3555d6d858837511dd9a01327ec <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping.html> <http://fr.nomao.com/1104970.html> .
+_:nodeda87e3555d6d858837511dd9a01327ec <http://schema.org/ListItem/name> "Shopping Nantes"@fr <http://fr.nomao.com/1104970.html> .
+_:node608133b827eb413e9920c5b35ea227 <http://schema.org/BreadcrumbList/itemListElement> _:nodeda87e3555d6d858837511dd9a01327ec <http://fr.nomao.com/1104970.html> .
+_:node3485ceec286deb24994e94dde58a35b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1104970.html> .
+_:node3485ceec286deb24994e94dde58a35b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/commerces,fleuriste.html> <http://fr.nomao.com/1104970.html> .
+_:node3485ceec286deb24994e94dde58a35b <http://schema.org/ListItem/name> "Fleuriste Nantes"@fr <http://fr.nomao.com/1104970.html> .
+_:node608133b827eb413e9920c5b35ea227 <http://schema.org/BreadcrumbList/itemListElement> _:node3485ceec286deb24994e94dde58a35b <http://fr.nomao.com/1104970.html> .
+<http://fr.nomao.com/1104970.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node608133b827eb413e9920c5b35ea227 <http://fr.nomao.com/1104970.html> .
+_:nodec69e8cc8dcc6bc583840dd26a16af20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <http://fr.nomao.com/1104970.html> .
+_:node2c5792d7737dcc8bcef22b71761d27d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/1104970.html> .
+_:node2c5792d7737dcc8bcef22b71761d27d <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/1104970.html> .
+_:node2c5792d7737dcc8bcef22b71761d27d <http://schema.org/PostalAddress/streetAddress> "4 Rue Cassini"@fr <http://fr.nomao.com/1104970.html> .
+_:node2c5792d7737dcc8bcef22b71761d27d <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/1104970.html> .
+_:node2c5792d7737dcc8bcef22b71761d27d <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/1104970.html> .
+_:nodec69e8cc8dcc6bc583840dd26a16af20 <http://schema.org/Store/address> _:node2c5792d7737dcc8bcef22b71761d27d <http://fr.nomao.com/1104970.html> .
+_:nodec69e8cc8dcc6bc583840dd26a16af20 <http://schema.org/Store/name> "Charpentier Christian"@fr <http://fr.nomao.com/1104970.html> .
+_:nodec69e8cc8dcc6bc583840dd26a16af20 <http://schema.org/Store/logo> "http://static.nomao.com/img/v4/5084_spot.png"@fr <http://fr.nomao.com/1104970.html> .
+_:nodec69e8cc8dcc6bc583840dd26a16af20 <http://schema.org/Store/url> "http://fr.nomao.com/1104970.html"@fr <http://fr.nomao.com/1104970.html> .
+<http://fr.nomao.com/1104970.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec69e8cc8dcc6bc583840dd26a16af20 <http://fr.nomao.com/1104970.html> .
+<http://fr.nomao.com/1104970.html> <http://purl.org/dc/terms/title> "Charpentier Christian <http://fr.nomao.com/1104970.html> .
+Fleuriste, <http://fr.nomao.com/1104970.html> .
+Rue Cassini, Nantes <http://fr.nomao.com/1104970.html> .
+Magasin <http://fr.nomao.com/1104970.html> .
+Nomao"@fr <http://fr.nomao.com/1104970.html> .

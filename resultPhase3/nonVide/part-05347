@@ -1,0 +1,305 @@
+_:node1647f286ee3f37eb6676ce1c9b95e73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:node1647f286ee3f37eb6676ce1c9b95e73 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.touristlink.com/france/cat/services.html> .
+_:node1647f286ee3f37eb6676ce1c9b95e73 <http://www.w3.org/2006/vcard/ns#locality> "Ile-de-France" <http://www.touristlink.com/france/cat/services.html> .
+_:node1647f286ee3f37eb6676ce1c9b95e73 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:node3296fc9f296cc66319a33a9be9298d36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:node3296fc9f296cc66319a33a9be9298d36 <http://www.w3.org/2006/vcard/ns#locality> "Cergy" <http://www.touristlink.com/france/cat/services.html> .
+_:node3296fc9f296cc66319a33a9be9298d36 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:node80eb181aa88a6520ddb71a780bb3351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:node80eb181aa88a6520ddb71a780bb3351 <http://www.w3.org/2006/vcard/ns#locality> "Montparnasse Tower (14)" <http://www.touristlink.com/france/cat/services.html> .
+_:node80eb181aa88a6520ddb71a780bb3351 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:node6b22ddd54578e3bd304fa29461d8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:node6b22ddd54578e3bd304fa29461d8b <http://www.w3.org/2006/vcard/ns#locality> "Le Bourget" <http://www.touristlink.com/france/cat/services.html> .
+_:node6b22ddd54578e3bd304fa29461d8b <http://www.w3.org/2006/vcard/ns#locality> "Seine-Saint-Denis" <http://www.touristlink.com/france/cat/services.html> .
+_:node6b22ddd54578e3bd304fa29461d8b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa8a70729f1c55617df4817183eed12b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa8a70729f1c55617df4817183eed12b <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa8a70729f1c55617df4817183eed12b <http://www.w3.org/2006/vcard/ns#locality> "Loire-Atlantique" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa8a70729f1c55617df4817183eed12b <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:node97b61978629c18dd7ff5ef32eeb3030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:node97b61978629c18dd7ff5ef32eeb3030 <http://www.w3.org/2006/vcard/ns#street-address> "Champs \u00C9lys\u00E9e District 08" <http://www.touristlink.com/france/cat/services.html> .
+_:node97b61978629c18dd7ff5ef32eeb3030 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.touristlink.com/france/cat/services.html> .
+_:node97b61978629c18dd7ff5ef32eeb3030 <http://www.w3.org/2006/vcard/ns#locality> "\u00CEle-de-France" <http://www.touristlink.com/france/cat/services.html> .
+_:node97b61978629c18dd7ff5ef32eeb3030 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeceda84136d4a4b8e76f1b8e2c77533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeceda84136d4a4b8e76f1b8e2c77533 <http://www.w3.org/2006/vcard/ns#street-address> "Champs \u00C9lys\u00E9e District 08" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeceda84136d4a4b8e76f1b8e2c77533 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeceda84136d4a4b8e76f1b8e2c77533 <http://www.w3.org/2006/vcard/ns#locality> "Ile-de-France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeceda84136d4a4b8e76f1b8e2c77533 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodea317b9c6ca5b2527a9f4ed3ad6d9b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:nodea317b9c6ca5b2527a9f4ed3ad6d9b0 <http://www.w3.org/2006/vcard/ns#locality> "Entzheim" <http://www.touristlink.com/france/cat/services.html> .
+_:nodea317b9c6ca5b2527a9f4ed3ad6d9b0 <http://www.w3.org/2006/vcard/ns#locality> "Bas-Rhin" <http://www.touristlink.com/france/cat/services.html> .
+_:nodea317b9c6ca5b2527a9f4ed3ad6d9b0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:noded9db50e511b9d6bd7cf9e7d915c9774 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:noded9db50e511b9d6bd7cf9e7d915c9774 <http://www.w3.org/2006/vcard/ns#street-address> "Op\u00E9ra <http://www.touristlink.com/france/cat/services.html> .
+District 09" <http://www.touristlink.com/france/cat/services.html> .
+_:noded9db50e511b9d6bd7cf9e7d915c9774 <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.touristlink.com/france/cat/services.html> .
+_:noded9db50e511b9d6bd7cf9e7d915c9774 <http://www.w3.org/2006/vcard/ns#locality> "\u00CEle-de-France" <http://www.touristlink.com/france/cat/services.html> .
+_:noded9db50e511b9d6bd7cf9e7d915c9774 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeb25a63d7a8afd132b8b76d59dbfdd1bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeb25a63d7a8afd132b8b76d59dbfdd1bf <http://www.w3.org/2006/vcard/ns#street-address> "Orly" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeb25a63d7a8afd132b8b76d59dbfdd1bf <http://www.w3.org/2006/vcard/ns#locality> "Paris" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeb25a63d7a8afd132b8b76d59dbfdd1bf <http://www.w3.org/2006/vcard/ns#locality> "Ile-de-France" <http://www.touristlink.com/france/cat/services.html> .
+_:nodeb25a63d7a8afd132b8b76d59dbfdd1bf <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/cat/services.html> .
+_:node9de614c82c25e7a9f6fe1182e6c5279 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node9de614c82c25e7a9f6fe1182e6c5279 <http://www.w3.org/2006/vcard/ns#latitude> "48.8566" <http://www.touristlink.com/france/cat/services.html> .
+_:node9de614c82c25e7a9f6fe1182e6c5279 <http://www.w3.org/2006/vcard/ns#longitude> "2.3522" <http://www.touristlink.com/france/cat/services.html> .
+_:node8c54368b551a9aa72d2981ff5b47f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node8c54368b551a9aa72d2981ff5b47f1 <http://www.w3.org/2006/vcard/ns#latitude> "49.0356" <http://www.touristlink.com/france/cat/services.html> .
+_:node8c54368b551a9aa72d2981ff5b47f1 <http://www.w3.org/2006/vcard/ns#longitude> "2.0603" <http://www.touristlink.com/france/cat/services.html> .
+_:node57881369e88c2f0a014752ebe14a83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node57881369e88c2f0a014752ebe14a83 <http://www.w3.org/2006/vcard/ns#latitude> "48.8284" <http://www.touristlink.com/france/cat/services.html> .
+_:node57881369e88c2f0a014752ebe14a83 <http://www.w3.org/2006/vcard/ns#longitude> "2.3274" <http://www.touristlink.com/france/cat/services.html> .
+_:node216ae0ffc0bf82c997531cff6a24fab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node216ae0ffc0bf82c997531cff6a24fab <http://www.w3.org/2006/vcard/ns#latitude> "48.9615" <http://www.touristlink.com/france/cat/services.html> .
+_:node216ae0ffc0bf82c997531cff6a24fab <http://www.w3.org/2006/vcard/ns#longitude> "2.4372" <http://www.touristlink.com/france/cat/services.html> .
+_:node33fa8b43b9603acfce7d5467f2fbfc17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node33fa8b43b9603acfce7d5467f2fbfc17 <http://www.w3.org/2006/vcard/ns#latitude> "47.156" <http://www.touristlink.com/france/cat/services.html> .
+_:node33fa8b43b9603acfce7d5467f2fbfc17 <http://www.w3.org/2006/vcard/ns#longitude> "-1.6098" <http://www.touristlink.com/france/cat/services.html> .
+_:node9f3c86c4e9909e9549f1d86617725bd8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node9f3c86c4e9909e9549f1d86617725bd8 <http://www.w3.org/2006/vcard/ns#latitude> "48.8839" <http://www.touristlink.com/france/cat/services.html> .
+_:node9f3c86c4e9909e9549f1d86617725bd8 <http://www.w3.org/2006/vcard/ns#longitude> "2.3275" <http://www.touristlink.com/france/cat/services.html> .
+_:node7ec726c755a2672a2159b8a1489180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node7ec726c755a2672a2159b8a1489180 <http://www.w3.org/2006/vcard/ns#latitude> "48.8769" <http://www.touristlink.com/france/cat/services.html> .
+_:node7ec726c755a2672a2159b8a1489180 <http://www.w3.org/2006/vcard/ns#longitude> "2.3244" <http://www.touristlink.com/france/cat/services.html> .
+_:node8f458ef422c8792af7f07b84294721 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node8f458ef422c8792af7f07b84294721 <http://www.w3.org/2006/vcard/ns#latitude> "48.5444" <http://www.touristlink.com/france/cat/services.html> .
+_:node8f458ef422c8792af7f07b84294721 <http://www.w3.org/2006/vcard/ns#longitude> "7.6276" <http://www.touristlink.com/france/cat/services.html> .
+_:node1d20ac67eeee5c7cec7ccf1e8126effa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node1d20ac67eeee5c7cec7ccf1e8126effa <http://www.w3.org/2006/vcard/ns#latitude> "48.8836" <http://www.touristlink.com/france/cat/services.html> .
+_:node1d20ac67eeee5c7cec7ccf1e8126effa <http://www.w3.org/2006/vcard/ns#longitude> "2.3498" <http://www.touristlink.com/france/cat/services.html> .
+_:node275752a19f333fb7443326ce7f22ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/cat/services.html> .
+_:node275752a19f333fb7443326ce7f22ca <http://www.w3.org/2006/vcard/ns#latitude> "48.7233" <http://www.touristlink.com/france/cat/services.html> .
+_:node275752a19f333fb7443326ce7f22ca <http://www.w3.org/2006/vcard/ns#longitude> "2.3794" <http://www.touristlink.com/france/cat/services.html> .
+_:node11adffd0fc1e6fbe7e4e224a23867639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/cat/services.html> .
+_:node11adffd0fc1e6fbe7e4e224a23867639 <http://data-vocabulary.org/Breadcrumb/title> "Home"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node11adffd0fc1e6fbe7e4e224a23867639 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node11adffd0fc1e6fbe7e4e224a23867639 <http://www.touristlink.com/france/cat/services.html> .
+_:node7a4cc040cc71f771b98570b2bb6e63b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/cat/services.html> .
+_:node7a4cc040cc71f771b98570b2bb6e63b <http://data-vocabulary.org/Breadcrumb/title> "World"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node7a4cc040cc71f771b98570b2bb6e63b <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/global/overview.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node7a4cc040cc71f771b98570b2bb6e63b <http://www.touristlink.com/france/cat/services.html> .
+_:noded6ced598241dd5b52ebe873d356162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/cat/services.html> .
+_:noded6ced598241dd5b52ebe873d356162 <http://data-vocabulary.org/Breadcrumb/title> "Europe"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:noded6ced598241dd5b52ebe873d356162 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/europe/overview.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:noded6ced598241dd5b52ebe873d356162 <http://www.touristlink.com/france/cat/services.html> .
+_:node2ed9fd5f687cb2ff9c2b7891b8adb98 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/cat/services.html> .
+_:node2ed9fd5f687cb2ff9c2b7891b8adb98 <http://data-vocabulary.org/Breadcrumb/title> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node2ed9fd5f687cb2ff9c2b7891b8adb98 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/overview.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node2ed9fd5f687cb2ff9c2b7891b8adb98 <http://www.touristlink.com/france/cat/services.html> .
+_:node953d14f9fee82f25a682617d2cbebab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/cat/services.html> .
+_:node953d14f9fee82f25a682617d2cbebab <http://data-vocabulary.org/Breadcrumb/title> "Services"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node953d14f9fee82f25a682617d2cbebab <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/cat/services.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node953d14f9fee82f25a682617d2cbebab <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/member/111132/richard-nahem-avatar_32_32.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/77371/barabashuk-olha-avatar_32_32.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_32_32.gif> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/111311/jane-berger-avatar_1_32_32.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/member/69435/sarah-quellec-avatar_32_32.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/5622/laura-mortier-avatar_64_64.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/member/10031/antony-anacleto-avatar_64_64.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/14764/youssef-iraqui-avatar_64_64.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/member/22585/DSC_0725_64_64.JPG> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/70640/11053429_780009022085713_6778374888960575521_n_64_64.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/member/31548/jdid_64_64.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://icdn.images.touristlink.com/data/cache/member/57673/ourservice_64_64.png> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/name> "Services in France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node73dd40ddab7430b8d474435fff1c9d9 <http://schema.org/Country/description> "Travelers are voting Paris Charles De Gaulle Airport, Cergy Gare de Cergy Prefecture and Alesia Metro Station as the best of 913 services in France. Also popular are Paris Le Bourget Airport in Le Bourget, Nantes Atlantique Airport in Pays de la Loire and Place de Clichy in Champs \u00C9lys\u00E9e District 08. Want more? Check out our map of services in France or these 543 services in Paris."@en-us <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node73dd40ddab7430b8d474435fff1c9d9 <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/cat/services.html> .
+_:node4e2228319466be22747f32b702b9728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node4e2228319466be22747f32b702b9728 <http://schema.org/GeoCoordinates/latitude> "48.8566"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node4e2228319466be22747f32b702b9728 <http://schema.org/GeoCoordinates/longitude> "2.3522"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/geo> _:node4e2228319466be22747f32b702b9728 <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/T/E/R/M/I/N/A/L/terminal-2e-lisa-station_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Airports "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:noded50a9e3dd7bbfde8602857f3bb1013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:noded50a9e3dd7bbfde8602857f3bb1013 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:noded50a9e3dd7bbfde8602857f3bb1013 <http://schema.org/PostalAddress/addressLocality> "Paris"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:noded50a9e3dd7bbfde8602857f3bb1013 <http://schema.org/PostalAddress/addressRegion> "Ile-de-France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/address> _:noded50a9e3dd7bbfde8602857f3bb1013 <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/name> "Paris Charles De Gaulle Airport"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/url> <http://www.touristlink.com/france/paris/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodec45366171a615f2c2e7cb36d9b7ae6a <http://schema.org/Airport/url> <http://www.touristlink.com/france/paris/cat/airports.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec45366171a615f2c2e7cb36d9b7ae6a <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TrainStation> <http://www.touristlink.com/france/cat/services.html> .
+_:nodebca977f3394497aa3393971baf23a111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:nodebca977f3394497aa3393971baf23a111 <http://schema.org/GeoCoordinates/latitude> "49.0356"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodebca977f3394497aa3393971baf23a111 <http://schema.org/GeoCoordinates/longitude> "2.0603"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/geo> _:nodebca977f3394497aa3393971baf23a111 <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/image> <http://cdn1.images.touristlink.com/data/cache/P/H/O/T/O/G/A/R/cergy-gare-de-prefecture-photo-_gare-_routi-c-3-a-8re-2-8-_-pontoise-9_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Railway Stations "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node9b584642afecb56eef1b4d8df96c9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node9b584642afecb56eef1b4d8df96c9c <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node9b584642afecb56eef1b4d8df96c9c <http://schema.org/PostalAddress/addressLocality> "Cergy"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/address> _:node9b584642afecb56eef1b4d8df96c9c <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/name> "Cergy Gare de Cergy Prefecture"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/url> <http://www.touristlink.com/france/ile-de-france/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://schema.org/TrainStation/url> <http://www.touristlink.com/france/ile-de-france/cat/railway-stations.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodecbbb5ad1c11e76bbe8b7dd5338391a1 <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SubwayStation> <http://www.touristlink.com/france/cat/services.html> .
+_:node4db59da57fac1a2ef9ff8dc56fd3154b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node4db59da57fac1a2ef9ff8dc56fd3154b <http://schema.org/GeoCoordinates/latitude> "48.8284"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node4db59da57fac1a2ef9ff8dc56fd3154b <http://schema.org/GeoCoordinates/longitude> "2.3274"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/geo> _:node4db59da57fac1a2ef9ff8dc56fd3154b <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/image> <http://icdn.images.touristlink.com/data/cache/A/L/E/S/I/A/D/F/alesia-metro-station_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Metro Stations "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec93790e613d82e0497ef41bc132897a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:nodec93790e613d82e0497ef41bc132897a <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodec93790e613d82e0497ef41bc132897a <http://schema.org/PostalAddress/addressLocality> "Montparnasse Tower (14)"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/address> _:nodec93790e613d82e0497ef41bc132897a <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/name> "Alesia Metro Station"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/paris/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodee6a04c948ac4bd984833d275212f866 <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/paris/cat/metro-stations.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee6a04c948ac4bd984833d275212f866 <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef152dfd8726ff16ec9a9f93ef9632ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef152dfd8726ff16ec9a9f93ef9632ab <http://schema.org/GeoCoordinates/latitude> "48.9615"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef152dfd8726ff16ec9a9f93ef9632ab <http://schema.org/GeoCoordinates/longitude> "2.4372"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/geo> _:nodef152dfd8726ff16ec9a9f93ef9632ab <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/B/E/A/H/Q/L/E/B/paris-le-bourget-airport-lbg-b-e-a-h-q-8_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Airports "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node376525f5c8e9e1fedf4407427201f20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node376525f5c8e9e1fedf4407427201f20 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node376525f5c8e9e1fedf4407427201f20 <http://schema.org/PostalAddress/addressLocality> "Le Bourget"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node376525f5c8e9e1fedf4407427201f20 <http://schema.org/PostalAddress/addressRegion> "Seine-Saint-Denis"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/address> _:node376525f5c8e9e1fedf4407427201f20 <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/name> "Paris Le Bourget Airport"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/url> <http://www.touristlink.com/france/le-bourget/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:node69d3e89bd09015c1b713ed1b66bd5e49 <http://schema.org/Airport/url> <http://www.touristlink.com/france/le-bourget/cat/airports.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node69d3e89bd09015c1b713ed1b66bd5e49 <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaaa8aced81e7628ec898b29a51ed13e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaaa8aced81e7628ec898b29a51ed13e <http://schema.org/GeoCoordinates/latitude> "47.156"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaaa8aced81e7628ec898b29a51ed13e <http://schema.org/GeoCoordinates/longitude> "-1.6098"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/geo> _:nodeaaa8aced81e7628ec898b29a51ed13e <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/image> <http://icdn.images.touristlink.com/data/cache/N/A/N/T/E/S/A/T/nantes---atlantique-airport-nte-_atlantique_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Airports "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node37fb8e95b2a954fbabbf27ee5ca2e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node37fb8e95b2a954fbabbf27ee5ca2e1 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node37fb8e95b2a954fbabbf27ee5ca2e1 <http://schema.org/PostalAddress/addressLocality> "Nantes"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node37fb8e95b2a954fbabbf27ee5ca2e1 <http://schema.org/PostalAddress/addressRegion> "Loire-Atlantique"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/address> _:node37fb8e95b2a954fbabbf27ee5ca2e1 <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/name> "Nantes Atlantique Airport"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/url> <http://www.touristlink.com/france/pays-de-la-loire/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://schema.org/Airport/url> <http://www.touristlink.com/france/pays-de-la-loire/cat/airports.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef6ebcecaa684c6a88ae8caa185d5e0 <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SubwayStation> <http://www.touristlink.com/france/cat/services.html> .
+_:node36dcf6657bca922022a0bf66c9f276d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node36dcf6657bca922022a0bf66c9f276d1 <http://schema.org/GeoCoordinates/latitude> "48.8839"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node36dcf6657bca922022a0bf66c9f276d1 <http://schema.org/GeoCoordinates/longitude> "2.3275"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/geo> _:node36dcf6657bca922022a0bf66c9f276d1 <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/image> <http://cdn1.images.touristlink.com/data/cache/P/L/A/C/E/D/E/C/place-de-clichy_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Metro Stations "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa536f30923bc4592ea4f892c4d73b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa536f30923bc4592ea4f892c4d73b29 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa536f30923bc4592ea4f892c4d73b29 <http://schema.org/PostalAddress/streetAddress> "Champs \u00C9lys\u00E9e District 08"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa536f30923bc4592ea4f892c4d73b29 <http://schema.org/PostalAddress/addressLocality> "Paris"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodeaa536f30923bc4592ea4f892c4d73b29 <http://schema.org/PostalAddress/addressRegion> "\u00CEle-de-France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/address> _:nodeaa536f30923bc4592ea4f892c4d73b29 <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/name> "Place de Clichy"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/champs-elysee-district-08/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/champs-elysee-district-08/cat/metro-stations.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodee67534fc93bdd436b9ff9e5fc76975e3 <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TrainStation> <http://www.touristlink.com/france/cat/services.html> .
+_:node677691edbb8e8833e2994e103bab7969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node677691edbb8e8833e2994e103bab7969 <http://schema.org/GeoCoordinates/latitude> "48.8769"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node677691edbb8e8833e2994e103bab7969 <http://schema.org/GeoCoordinates/longitude> "2.3244"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/geo> _:node677691edbb8e8833e2994e103bab7969 <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/image> <http://icdn.images.touristlink.com/data/cache/G/A/R/E/S/A/I/N/gare-saint-lazare_1_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Railway Stations "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef4e9c67d04026bf13a73e9873a960c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef4e9c67d04026bf13a73e9873a960c <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef4e9c67d04026bf13a73e9873a960c <http://schema.org/PostalAddress/streetAddress> "Champs \u00C9lys\u00E9e District 08"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef4e9c67d04026bf13a73e9873a960c <http://schema.org/PostalAddress/addressLocality> "Paris"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef4e9c67d04026bf13a73e9873a960c <http://schema.org/PostalAddress/addressRegion> "Ile-de-France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/address> _:nodef4e9c67d04026bf13a73e9873a960c <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/name> "Gare Saint-Lazare"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/url> <http://www.touristlink.com/france/champs-elysee-district-08/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodedbe8d936e42a38f88a529337ce2a4d7 <http://schema.org/TrainStation/url> <http://www.touristlink.com/france/champs-elysee-district-08/cat/railway-stations.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodedbe8d936e42a38f88a529337ce2a4d7 <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/cat/services.html> .
+_:node94ee3fa2ba572f2ee8f617588f74476 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node94ee3fa2ba572f2ee8f617588f74476 <http://schema.org/GeoCoordinates/latitude> "48.5444"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node94ee3fa2ba572f2ee8f617588f74476 <http://schema.org/GeoCoordinates/longitude> "7.6276"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/geo> _:node94ee3fa2ba572f2ee8f617588f74476 <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/S/T/R/A/S/B/O/U/strasbourg-intl-airport-sxb---enzheim-_-a-c-3-9roport_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Airports "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node4cd6e8854ea75547ea1207b3a44ede4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node4cd6e8854ea75547ea1207b3a44ede4 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node4cd6e8854ea75547ea1207b3a44ede4 <http://schema.org/PostalAddress/addressLocality> "Entzheim"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node4cd6e8854ea75547ea1207b3a44ede4 <http://schema.org/PostalAddress/addressRegion> "Bas-Rhin"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/address> _:node4cd6e8854ea75547ea1207b3a44ede4 <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/name> "Strasbourg Airport"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/url> <http://www.touristlink.com/france/entzheim/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:node3d3445344486baa5e52687c82662b75 <http://schema.org/Airport/url> <http://www.touristlink.com/france/entzheim/cat/airports.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node3d3445344486baa5e52687c82662b75 <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SubwayStation> <http://www.touristlink.com/france/cat/services.html> .
+_:node60a93ccbd79f54cd5c94ad90646830 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node60a93ccbd79f54cd5c94ad90646830 <http://schema.org/GeoCoordinates/latitude> "48.8836"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node60a93ccbd79f54cd5c94ad90646830 <http://schema.org/GeoCoordinates/longitude> "2.3498"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/geo> _:node60a93ccbd79f54cd5c94ad90646830 <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/image> <http://icdn.images.touristlink.com/data/cache/B/A/R/B/E/S/R/O/barbes-rochechouart_200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Metro Stations "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node46076c716a2cb6fe59cff5ecceae086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node46076c716a2cb6fe59cff5ecceae086 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node46076c716a2cb6fe59cff5ecceae086 <http://schema.org/PostalAddress/streetAddress> "Op\u00E9ra <http://www.touristlink.com/france/cat/services.html> .
+District 09"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node46076c716a2cb6fe59cff5ecceae086 <http://schema.org/PostalAddress/addressLocality> "Paris"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node46076c716a2cb6fe59cff5ecceae086 <http://schema.org/PostalAddress/addressRegion> "\u00CEle-de-France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/address> _:node46076c716a2cb6fe59cff5ecceae086 <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/name> "Barb\u00E8s <http://www.touristlink.com/france/cat/services.html> .
+Rochechouart"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/opera-district-09/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodea0a5f72c2bafb36f37b65a971ea7176f <http://schema.org/SubwayStation/url> <http://www.touristlink.com/france/opera-district-09/cat/metro-stations.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodea0a5f72c2bafb36f37b65a971ea7176f <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> <http://www.touristlink.com/france/cat/services.html> .
+_:node2c661d9d96bb3c6419b8aafd3298759 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/cat/services.html> .
+_:node2c661d9d96bb3c6419b8aafd3298759 <http://schema.org/GeoCoordinates/latitude> "48.7233"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node2c661d9d96bb3c6419b8aafd3298759 <http://schema.org/GeoCoordinates/longitude> "2.3794"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/geo> _:node2c661d9d96bb3c6419b8aafd3298759 <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/image> <http://cdn1.images.touristlink.com/data/cache/O/R/L/Y/V/A/L/O/orly-airport-ory-val-__200_150.jpg> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Tourist Essentials "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/additionalType> <http://www.touristlink.com/france/cat/services.html> .
+Airports "@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node45dca8c053c3dc44f8c97af1786d9743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/cat/services.html> .
+_:node45dca8c053c3dc44f8c97af1786d9743 <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node45dca8c053c3dc44f8c97af1786d9743 <http://schema.org/PostalAddress/streetAddress> "Orly"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node45dca8c053c3dc44f8c97af1786d9743 <http://schema.org/PostalAddress/addressLocality> "Paris"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:node45dca8c053c3dc44f8c97af1786d9743 <http://schema.org/PostalAddress/addressRegion> "Ile-de-France"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/address> _:node45dca8c053c3dc44f8c97af1786d9743 <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/name> "Paris Orly Airport"@en-us <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/url> <http://www.touristlink.com/france/orly/cat/tourist_essentials.html> <http://www.touristlink.com/france/cat/services.html> .
+_:nodef82c807e713dca54ccb62c9dfb6a5430 <http://schema.org/Airport/url> <http://www.touristlink.com/france/orly/cat/airports.html> <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodef82c807e713dca54ccb62c9dfb6a5430 <http://www.touristlink.com/france/cat/services.html> .
+<http://www.touristlink.com/france/cat/services.html> <http://purl.org/dc/terms/title> "Travel Services in France"@en-us <http://www.touristlink.com/france/cat/services.html> .

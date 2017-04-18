@@ -1,0 +1,25 @@
+_:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.w3.org/2006/vcard/ns#street-address> "19 rue Jean-Marc Nattier," <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.w3.org/2006/vcard/ns#postal-code> "44100" <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodec1bf33686ab237272d4c8f4439d4cee <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltnjbux212270287 <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:node1b4ltnjbux212270287 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodec1bf33686ab237272d4c8f4439d4cee <http://www.w3.org/2006/vcard/ns#adr> _:nodee787ca4e0afb5a694d9d972f1c28c2 <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodec1bf33686ab237272d4c8f4439d4cee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodeff29af85e891eb443a25d86f63d3564 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodeff29af85e891eb443a25d86f63d3564 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodeff29af85e891eb443a25d86f63d3564 <http://schema.org/PostalAddress/streetAddress> "19 rue Jean-Marc Nattier,"@en <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodeff29af85e891eb443a25d86f63d3564 <http://schema.org/PostalAddress/postalCode> "44100"@en <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+_:nodeff29af85e891eb443a25d86f63d3564 <http://schema.org/PostalAddress/addressLocality> "\n <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+ <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+Nantes <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+ <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+"@en <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/jazz-pages/media/yolk-records> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeff29af85e891eb443a25d86f63d3564 <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/jazz-pages/media/yolk-records> <http://purl.org/dc/terms/title> "YOLK RECORDS <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+Europe Jazz Network"@en <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/sites/default/files/ejn.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/media/Image> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/jazz-pages/media/yolk-records> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/media/ItemItem> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/jazz-pages/media/yolk-records> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/media/Document> <http://www.europejazz.net/jazz-pages/media/yolk-records> .
+<http://www.europejazz.net/sites/default/files/Yolk_0.gif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/media/Image> <http://www.europejazz.net/jazz-pages/media/yolk-records> .

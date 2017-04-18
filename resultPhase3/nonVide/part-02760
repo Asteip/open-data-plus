@@ -1,0 +1,17 @@
+_:node2f83acfc04b7351b5a2a84e6d9ce42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tattoo.com/doppleganger> .
+_:node2f83acfc04b7351b5a2a84e6d9ce42 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.tattoo.com/doppleganger> .
+_:node2f83acfc04b7351b5a2a84e6d9ce42 <http://www.w3.org/2006/vcard/ns#region> "Pays De La Loire" <http://www.tattoo.com/doppleganger> .
+_:node2f83acfc04b7351b5a2a84e6d9ce42 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tattoo.com/doppleganger> .
+_:node1136ed549d78e1c6196c491fffbcc81c <http://www.w3.org/2006/vcard/ns#n> _:node1b4ltne8jx11589200 <http://www.tattoo.com/doppleganger> .
+_:node1b4ltne8jx11589200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.tattoo.com/doppleganger> .
+_:node1136ed549d78e1c6196c491fffbcc81c <http://www.w3.org/2006/vcard/ns#adr> _:node2f83acfc04b7351b5a2a84e6d9ce42 <http://www.tattoo.com/doppleganger> .
+_:node1136ed549d78e1c6196c491fffbcc81c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns/profile#username> "Doppleganger" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#url> "http://www.tattoo.com/doppleganger" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#type> "profile" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#site_name> "Tattoo.com" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#type> "profile" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#url> "http://www.tattoo.com/doppleganger" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns#title> "Doppleganger" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/doppleganger> <http://ogp.me/ns/profile#username> "Doppleganger" <http://www.tattoo.com/doppleganger> .
+<http://www.tattoo.com/sites/default/files/styles/55x55/public/avatar.png?itok=CdM5WCdS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <http://www.tattoo.com/doppleganger> .

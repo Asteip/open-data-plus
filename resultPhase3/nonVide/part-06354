@@ -1,0 +1,42 @@
+_:node92f1ce2456803e962a9775924a418a15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/1715469.html> .
+_:node92f1ce2456803e962a9775924a418a15 <http://www.w3.org/2006/vcard/ns#street-address> "10 Rue de Budapest" <http://fr.nomao.com/1715469.html> .
+_:node92f1ce2456803e962a9775924a418a15 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/1715469.html> .
+_:node92f1ce2456803e962a9775924a418a15 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/1715469.html> .
+_:node92f1ce2456803e962a9775924a418a15 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/1715469.html> .
+_:nodee3adb779957ae129caaf8e72a82ee61d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1715469.html> .
+_:nodee3adb779957ae129caaf8e72a82ee61d <http://schema.org/ListItem/item> <http://fr.nomao.com/1715469.html//> <http://fr.nomao.com/1715469.html> .
+_:nodee3adb779957ae129caaf8e72a82ee61d <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://schema.org/BreadcrumbList/itemListElement> _:nodee3adb779957ae129caaf8e72a82ee61d <http://fr.nomao.com/1715469.html> .
+_:node94314a21a8d4bdea3918de4bb972baa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1715469.html> .
+_:node94314a21a8d4bdea3918de4bb972baa <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger.html> <http://fr.nomao.com/1715469.html> .
+_:node94314a21a8d4bdea3918de4bb972baa <http://schema.org/ListItem/name> "Manger Nantes"@fr <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://schema.org/BreadcrumbList/itemListElement> _:node94314a21a8d4bdea3918de4bb972baa <http://fr.nomao.com/1715469.html> .
+_:nodef46dd35f1bf4bf398ea1f9e28b46753d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1715469.html> .
+_:nodef46dd35f1bf4bf398ea1f9e28b46753d <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/commerces.html> <http://fr.nomao.com/1715469.html> .
+_:nodef46dd35f1bf4bf398ea1f9e28b46753d <http://schema.org/ListItem/name> "Commerces de bouche Nantes"@fr <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://schema.org/BreadcrumbList/itemListElement> _:nodef46dd35f1bf4bf398ea1f9e28b46753d <http://fr.nomao.com/1715469.html> .
+_:node2e829aa7d95a991d8f6918875121bef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1715469.html> .
+_:node2e829aa7d95a991d8f6918875121bef <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/faire+du+shopping/epicerie.html> <http://fr.nomao.com/1715469.html> .
+_:node2e829aa7d95a991d8f6918875121bef <http://schema.org/ListItem/name> "\u00C9picerie Nantes"@fr <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://schema.org/BreadcrumbList/itemListElement> _:node2e829aa7d95a991d8f6918875121bef <http://fr.nomao.com/1715469.html> .
+_:node64b73c4e895f723da8dce6d722844a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/1715469.html> .
+_:node64b73c4e895f723da8dce6d722844a0 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger/commerces,epicerie+fine.html> <http://fr.nomao.com/1715469.html> .
+_:node64b73c4e895f723da8dce6d722844a0 <http://schema.org/ListItem/name> "\u00C9picerie fine Nantes"@fr <http://fr.nomao.com/1715469.html> .
+_:node953a60442a187d56c0f37082873ba2 <http://schema.org/BreadcrumbList/itemListElement> _:node64b73c4e895f723da8dce6d722844a0 <http://fr.nomao.com/1715469.html> .
+<http://fr.nomao.com/1715469.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node953a60442a187d56c0f37082873ba2 <http://fr.nomao.com/1715469.html> .
+_:node8e167b086f5c74e95175cac5d162aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/1715469.html> .
+_:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/1715469.html> .
+_:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/1715469.html> .
+_:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://schema.org/PostalAddress/streetAddress> "10 Rue de Budapest"@fr <http://fr.nomao.com/1715469.html> .
+_:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/1715469.html> .
+_:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/1715469.html> .
+_:node8e167b086f5c74e95175cac5d162aa <http://schema.org/LocalBusiness/address> _:nodebe93e67350fe6ffdce7e628116a5a5d9 <http://fr.nomao.com/1715469.html> .
+_:node8e167b086f5c74e95175cac5d162aa <http://schema.org/LocalBusiness/name> "Famille Mary Boutique"@fr <http://fr.nomao.com/1715469.html> .
+_:node8e167b086f5c74e95175cac5d162aa <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/missingPictureNomao.png"@fr <http://fr.nomao.com/1715469.html> .
+_:node8e167b086f5c74e95175cac5d162aa <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/1715469.html"@fr <http://fr.nomao.com/1715469.html> .
+<http://fr.nomao.com/1715469.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node8e167b086f5c74e95175cac5d162aa <http://fr.nomao.com/1715469.html> .
+<http://fr.nomao.com/1715469.html> <http://purl.org/dc/terms/title> "Famille Mary Boutique <http://fr.nomao.com/1715469.html> .
+\u00C9picerie fine, 10 Rue de Budapest, Nantes <http://fr.nomao.com/1715469.html> .
+\u00C9picerie <http://fr.nomao.com/1715469.html> .
+Nomao"@fr <http://fr.nomao.com/1715469.html> .

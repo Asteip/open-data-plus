@@ -1,0 +1,104 @@
+_:nodeee84798a4142dda0f79f2a59aff624e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeee84798a4142dda0f79f2a59aff624e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeab4fa5dfebc6a564242f6de98456be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeab4fa5dfebc6a564242f6de98456be <http://www.w3.org/2006/vcard/ns#latitude> "47.4667" <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeab4fa5dfebc6a564242f6de98456be <http://www.w3.org/2006/vcard/ns#longitude> "-0.8333" <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:noded325f4fb33f34365f46b3968378dbb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:noded325f4fb33f34365f46b3968378dbb3 <http://data-vocabulary.org/Breadcrumb/title> "Home"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:noded325f4fb33f34365f46b3968378dbb3 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:noded325f4fb33f34365f46b3968378dbb3 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node51d4db6ee47dcaa156ba8270b844109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node51d4db6ee47dcaa156ba8270b844109 <http://data-vocabulary.org/Breadcrumb/title> "World"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node51d4db6ee47dcaa156ba8270b844109 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/global/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node51d4db6ee47dcaa156ba8270b844109 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node3a8236276c414d3d4533a791816493ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node3a8236276c414d3d4533a791816493ed <http://data-vocabulary.org/Breadcrumb/title> "Europe"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node3a8236276c414d3d4533a791816493ed <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/europe/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node3a8236276c414d3d4533a791816493ed <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node682bc2852f44ae9b1c0b6b0a170c41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node682bc2852f44ae9b1c0b6b0a170c41 <http://data-vocabulary.org/Breadcrumb/title> "France"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node682bc2852f44ae9b1c0b6b0a170c41 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node682bc2852f44ae9b1c0b6b0a170c41 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node9e672d65012c57a4d8df5a8aa77c8ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node9e672d65012c57a4d8df5a8aa77c8ae <http://data-vocabulary.org/Breadcrumb/title> "Pays de la Loire"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node9e672d65012c57a4d8df5a8aa77c8ae <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9e672d65012c57a4d8df5a8aa77c8ae <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodefb62ec72dffce356d5a45be2206196c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data-vocabulary.org/Breadcrumb> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodefb62ec72dffce356d5a45be2206196c7 <http://data-vocabulary.org/Breadcrumb/title> "Guide"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodefb62ec72dffce356d5a45be2206196c7 <http://data-vocabulary.org/Breadcrumb/url> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodefb62ec72dffce356d5a45be2206196c7 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/State> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node62b9225ded6914b615e17adec77129e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node62b9225ded6914b615e17adec77129e <http://schema.org/GeoCoordinates/latitude> "47.4667"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node62b9225ded6914b615e17adec77129e <http://schema.org/GeoCoordinates/longitude> "-0.8333"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/geo> _:node62b9225ded6914b615e17adec77129e <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/repository/V/I/G/N/E/B/R/pays-de-la-loire-vignebrem.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/36099/disneyparistransfer-left-slide3_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/58161/15_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/37961/IMG_0070_64_64.JPG> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/14441/Photo_du_14-07-12_\u00E0_17_25__64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/22585/DSC_0725_64_64.JPG> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/63383/stanislas-boigny-de-cinq-cygne-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/5732/nathalie-agab-avatar_1_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/58131/10614238_10152322256396669_5639963690474394297_n_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/39743/sumilir-angin-wates-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/69435/sarah-quellec-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/58284/patrick-duveau-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/64124/julio-iglesias-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/17403/DSC02349_64_64.JPG> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/5732/nathalie-agab-avatar_1_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/22667/jenny-liebert-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/10411/correard-remy-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/59797/_MG_3697_64_64.JPG> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/33856/rv-laviale-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/47612/alban-diane-alex_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/56468/ben-atlan-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/28706/rosa-bonheur-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/member/42805/kourdou-papion-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/52981/josy-mikusinski-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://icdn.images.touristlink.com/data/cache/default/member_250_250_64_64.gif> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/image> <http://cdn1.images.touristlink.com/data/cache/member/62651/tere-rosales-avatar_64_64.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/additionalType> <http://www.touristlink.com/france/cat/states-regions.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/additionalType> <http://www.touristlink.com/france/cat/states-regions.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodea2e579b72994ecf10aa2927afa1831b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodea2e579b72994ecf10aa2927afa1831b <http://schema.org/PostalAddress/addressCountry> "France"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/address> _:nodea2e579b72994ecf10aa2927afa1831b <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/name> "Pays de la Loire"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node909a08aefd85e509b5e3d12c631abc1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node909a08aefd85e509b5e3d12c631abc1 <http://schema.org/ImageObject/contentURL> <http://icdn.images.touristlink.com/data/cache/V/I/G/N/E/B/R/pays-de-la-loire-vignebrem_400_300.jpg> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:node909a08aefd85e509b5e3d12c631abc1 <http://schema.org/ImageObject/url> <http://www.touristlink.com/france/pays-de-la-loire/photos.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/photo> _:node909a08aefd85e509b5e3d12c631abc1 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/description> "\n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+\n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+  \n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ \n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+Pays de la Loire is one of the 27 regions of France. It is one of the regions created in the late 20th century to serve as <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+zone of influence for its capital, Nantes, one of <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+handful so-called \"balancing metropolises\". Other examples of \"artificially created\" regions include Rhone-Alpes, which was created as the region for Lyon, and Midi-Pyrenees, which was created as the region for Toulouse.\n\nConsequently, the name of the region, chosen by the French central government, was not based on history, but purely on geographical references: Pays (i.e. \"lands\") de la Loire (i.e. \"of the Loire River\"). However, the majority of the famous ch\u00E2teaux of the Loire Valley are located in the Centre region, and not inside Pays de la Loire, despite the confusing name. The Pays de la Loire present many great monuments as the castles of Angers, Laval, Mayenne and the Nantes \"Chateau des Ducs de Bretagne\", the Royal Fontevraud Abbey, the old city of Le Mans, and also many natural parks such as the Briere and the Marsh of Poitou. <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ \n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+  \n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+\n <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+ "@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/photos> "Null"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+_:nodeef8f945b52382e69085659ab9a06ec2 <http://schema.org/State/url> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodeef8f945b52382e69085659ab9a06ec2 <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+<http://www.touristlink.com/france/pays-de-la-loire/overview.html> <http://purl.org/dc/terms/title> "Pays de la Loire, France Social Travel Network <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .
+Touristlink"@en-us <http://www.touristlink.com/france/pays-de-la-loire/overview.html> .

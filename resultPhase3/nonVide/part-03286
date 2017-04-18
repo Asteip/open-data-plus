@@ -1,0 +1,4 @@
+_:node19a7be1314c40eb1e816a8b799f6d3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.tripadvisor.cn/Hotel_Review-g187130-d229805-Reviews-Hotel_Terminus_Tours-Tours_Loire_Valley_Centre_Val_de_Loire.html> .
+_:node19a7be1314c40eb1e816a8b799f6d3a <http://www.w3.org/2006/vcard/ns#street-address> "7 rue de Nantes" <http://www.tripadvisor.cn/Hotel_Review-g187130-d229805-Reviews-Hotel_Terminus_Tours-Tours_Loire_Valley_Centre_Val_de_Loire.html> .
+_:node19a7be1314c40eb1e816a8b799f6d3a <http://www.w3.org/2006/vcard/ns#locality> "37000, Tours," <http://www.tripadvisor.cn/Hotel_Review-g187130-d229805-Reviews-Hotel_Terminus_Tours-Tours_Loire_Valley_Centre_Val_de_Loire.html> .
+_:node19a7be1314c40eb1e816a8b799f6d3a <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.tripadvisor.cn/Hotel_Review-g187130-d229805-Reviews-Hotel_Terminus_Tours-Tours_Loire_Valley_Centre_Val_de_Loire.html> .

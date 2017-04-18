@@ -1,0 +1,47 @@
+_:nodede759bc2bacf3358f6e9676084a5d5f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/812110.html> .
+_:nodede759bc2bacf3358f6e9676084a5d5f <http://www.w3.org/2006/vcard/ns#street-address> "13 Rue H\u00E9l\u00E8ne Boucher" <http://fr.nomao.com/812110.html> .
+_:nodede759bc2bacf3358f6e9676084a5d5f <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/812110.html> .
+_:nodede759bc2bacf3358f6e9676084a5d5f <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/812110.html> .
+_:nodede759bc2bacf3358f6e9676084a5d5f <http://www.w3.org/2006/vcard/ns#postal-code> "44200" <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/812110.html> .
+_:noded23eeb66a3bab2d8431cdc41de832b5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/812110.html> .
+_:noded23eeb66a3bab2d8431cdc41de832b5e <http://schema.org/ListItem/item> <http://fr.nomao.com/812110.html//> <http://fr.nomao.com/812110.html> .
+_:noded23eeb66a3bab2d8431cdc41de832b5e <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://schema.org/BreadcrumbList/itemListElement> _:noded23eeb66a3bab2d8431cdc41de832b5e <http://fr.nomao.com/812110.html> .
+_:nodedf11b11135a04e30ee9e7d74b5422b58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/812110.html> .
+_:nodedf11b11135a04e30ee9e7d74b5422b58 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique.html> <http://fr.nomao.com/812110.html> .
+_:nodedf11b11135a04e30ee9e7d74b5422b58 <http://schema.org/ListItem/name> "Vie pratique Nantes"@fr <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://schema.org/BreadcrumbList/itemListElement> _:nodedf11b11135a04e30ee9e7d74b5422b58 <http://fr.nomao.com/812110.html> .
+_:nodef769729a1189bf9f42e9a217a16cf90 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/812110.html> .
+_:nodef769729a1189bf9f42e9a217a16cf90 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/beaute.html> <http://fr.nomao.com/812110.html> .
+_:nodef769729a1189bf9f42e9a217a16cf90 <http://schema.org/ListItem/name> "Beaut\u00E9 Nantes"@fr <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://schema.org/BreadcrumbList/itemListElement> _:nodef769729a1189bf9f42e9a217a16cf90 <http://fr.nomao.com/812110.html> .
+_:noded9ca3cfeae89a49d9a27b5c4174814b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/812110.html> .
+_:noded9ca3cfeae89a49d9a27b5c4174814b <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/beaute,mode+corporelle.html> <http://fr.nomao.com/812110.html> .
+_:noded9ca3cfeae89a49d9a27b5c4174814b <http://schema.org/ListItem/name> "Mode corporelle Nantes"@fr <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://schema.org/BreadcrumbList/itemListElement> _:noded9ca3cfeae89a49d9a27b5c4174814b <http://fr.nomao.com/812110.html> .
+_:nodea7f173dbab9dd3b69c8a52980b46312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/812110.html> .
+_:nodea7f173dbab9dd3b69c8a52980b46312 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/vie+pratique/commerces,coiffeur.html> <http://fr.nomao.com/812110.html> .
+_:nodea7f173dbab9dd3b69c8a52980b46312 <http://schema.org/ListItem/name> "Coiffeur Nantes"@fr <http://fr.nomao.com/812110.html> .
+_:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://schema.org/BreadcrumbList/itemListElement> _:nodea7f173dbab9dd3b69c8a52980b46312 <http://fr.nomao.com/812110.html> .
+<http://fr.nomao.com/812110.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node9ba8a1bc37d4c98aa9fbdb433d716c6 <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> <http://fr.nomao.com/812110.html> .
+_:node6e32e3d1e84641c4bdae428ccffe0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/812110.html> .
+_:node6e32e3d1e84641c4bdae428ccffe0 <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/812110.html> .
+_:node6e32e3d1e84641c4bdae428ccffe0 <http://schema.org/PostalAddress/streetAddress> "13 Rue H\u00E9l\u00E8ne Boucher"@fr <http://fr.nomao.com/812110.html> .
+_:node6e32e3d1e84641c4bdae428ccffe0 <http://schema.org/PostalAddress/postalCode> "44200 "@fr <http://fr.nomao.com/812110.html> .
+_:node6e32e3d1e84641c4bdae428ccffe0 <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://schema.org/LocalBusiness/address> _:node6e32e3d1e84641c4bdae428ccffe0 <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://schema.org/LocalBusiness/name> "La Cabane \u00E0 Ch'veux"@fr <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://schema.org/LocalBusiness/logo> "http://static.nomao.com/img/v4/5085_spot.png"@fr <http://fr.nomao.com/812110.html> .
+_:nodedc7d5c57739f1f32fd811cd9cdaad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/812110.html> .
+_:nodedc7d5c57739f1f32fd811cd9cdaad <http://schema.org/AggregateRating/ratingValue> "4.0"@fr <http://fr.nomao.com/812110.html> .
+_:nodedc7d5c57739f1f32fd811cd9cdaad <http://schema.org/AggregateRating/ratingCount> "1"@fr <http://fr.nomao.com/812110.html> .
+_:nodedc7d5c57739f1f32fd811cd9cdaad <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://schema.org/LocalBusiness/aggregateRating> _:nodedc7d5c57739f1f32fd811cd9cdaad <http://fr.nomao.com/812110.html> .
+_:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://schema.org/LocalBusiness/url> "http://fr.nomao.com/812110.html"@fr <http://fr.nomao.com/812110.html> .
+<http://fr.nomao.com/812110.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node1693a93c9a8dfebf5ae1bd56a7bfcd21 <http://fr.nomao.com/812110.html> .
+<http://fr.nomao.com/812110.html> <http://purl.org/dc/terms/title> "La Cabane \u00E0 Ch'veux <http://fr.nomao.com/812110.html> .
+Coiffeur, 13 Rue H\u00E9l\u00E8ne Boucher, Nantes <http://fr.nomao.com/812110.html> .
+Beaut\u00E9 <http://fr.nomao.com/812110.html> .
+Nomao"@fr <http://fr.nomao.com/812110.html> .

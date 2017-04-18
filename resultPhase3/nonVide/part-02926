@@ -1,0 +1,56 @@
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#street-address> "2, rue Paul Painlev\u00E9" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#locality> "NANTES" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#street-address> "2, rue Paul Painlev\u00E9" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#locality> "NANTES" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#street-address> "2, rue Paul Painlev\u00E9" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#locality> "NANTES" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.o-tempo.com/> .
+_:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#street-address> "2, rue Paul Painlev\u00E9" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#locality> "NANTES" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.o-tempo.com/> .
+_:node50cd7871a58e2f65692d89569b1f78e <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dotex157697001 <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4dotex157697002 <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697002 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697002 <http://www.w3.org/2006/vcard/ns#organization-name> "OTEMPO" <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#url> <http://www.o-tempo.com/> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#adr> _:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2072%2020%2051%2065> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#n> _:node1b4m4dotex157697003 <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#org> _:node1b4m4dotex157697004 <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.o-tempo.com/> .
+_:node1b4m4dotex157697004 <http://www.w3.org/2006/vcard/ns#organization-name> "OTEMPO" <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#url> <http://www.o-tempo.com/> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#adr> _:node50cd7871a58e2f65692d89569b1f78e <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2072%2020%2051%2065> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0j076x247726100 <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0j076x247726101 <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726101 <http://www.w3.org/2006/vcard/ns#organization-name> "OTEMPO" <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#url> <http://www.o-tempo.com/> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#adr> _:nodec2f046a8895ae5e0a02ecdfb4bd38698 <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2072%2020%2051%2065> <http://www.o-tempo.com/> .
+_:node5ff112646a2ab327c5ab72fff5f0c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#n> _:node1b4m0j076x247726102 <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#org> _:node1b4m0j076x247726103 <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> <http://www.o-tempo.com/> .
+_:node1b4m0j076x247726103 <http://www.w3.org/2006/vcard/ns#organization-name> "OTEMPO" <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#url> <http://www.o-tempo.com/> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#adr> _:node50cd7871a58e2f65692d89569b1f78e <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/2006/vcard/ns#tel> <tel:02%2072%2020%2051%2065> <http://www.o-tempo.com/> .
+_:node1917f6a8cd5aba39635f12462c30fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.o-tempo.com/> .

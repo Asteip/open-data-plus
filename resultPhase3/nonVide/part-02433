@@ -1,0 +1,26 @@
+_:nodec6a2284ed55cdea466616b53f7b4678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodec6a2284ed55cdea466616b53f7b4678 <http://www.w3.org/2006/vcard/ns#street-address> "4, rue Fr\u00E9d\u00E9ric Cailliaud" <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodec6a2284ed55cdea466616b53f7b4678 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodec6a2284ed55cdea466616b53f7b4678 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodec6a2284ed55cdea466616b53f7b4678 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:node25b2ce0b8f1c51517d85c9ce0c29861 <http://www.w3.org/2006/vcard/ns#n> _:node1b4m371nex247029913 <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:node1b4m371nex247029913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:node25b2ce0b8f1c51517d85c9ce0c29861 <http://www.w3.org/2006/vcard/ns#adr> _:nodec6a2284ed55cdea466616b53f7b4678 <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:node25b2ce0b8f1c51517d85c9ce0c29861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodecc9e557e7c8f161b2509c36b1e25e41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodecc9e557e7c8f161b2509c36b1e25e41 <http://schema.org/PostalAddress/addressCountry> "France"@en <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodecc9e557e7c8f161b2509c36b1e25e41 <http://schema.org/PostalAddress/streetAddress> "4, rue Fr\u00E9d\u00E9ric Cailliaud"@en <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodecc9e557e7c8f161b2509c36b1e25e41 <http://schema.org/PostalAddress/postalCode> "44000"@en <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+_:nodecc9e557e7c8f161b2509c36b1e25e41 <http://schema.org/PostalAddress/addressLocality> "\n <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+ <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+Nantes <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+ <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+"@en <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> <http://www.w3.org/1999/xhtml/microdata#item> _:nodecc9e557e7c8f161b2509c36b1e25e41 <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> <http://purl.org/dc/terms/title> "C\u00F4te Ouest Productions <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+Europe Jazz Network"@en <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/sites/default/files/ejn.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/organization/Image> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/organization/ItemItem> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/organization/Document> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/sites/default/files/cote_ouest.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/organization/Image> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .
+<http://www.europejazz.net/sites/default/files/styles/scale/public/nuitsdujazz13.jpg?itok=3j91Nywm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europejazz.net/jazz-pages/organization/Image> <http://www.europejazz.net/jazz-pages/organization/c%C3%B4te-ouest-productions> .

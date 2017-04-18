@@ -1,0 +1,46 @@
+_:nodecc04c624c45e8531f6b4aa28d7eb1b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <http://fr.nomao.com/361625.html> .
+_:nodecc04c624c45e8531f6b4aa28d7eb1b0 <http://www.w3.org/2006/vcard/ns#street-address> "10 Rue des <http://fr.nomao.com/361625.html> .
+Croissants" <http://fr.nomao.com/361625.html> .
+_:nodecc04c624c45e8531f6b4aa28d7eb1b0 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <http://fr.nomao.com/361625.html> .
+_:nodecc04c624c45e8531f6b4aa28d7eb1b0 <http://www.w3.org/2006/vcard/ns#country-name> "France" <http://fr.nomao.com/361625.html> .
+_:nodecc04c624c45e8531f6b4aa28d7eb1b0 <http://www.w3.org/2006/vcard/ns#postal-code> "44000" <http://fr.nomao.com/361625.html> .
+_:nodec290b0f046a264940adb68d5fba890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> <http://fr.nomao.com/361625.html> .
+_:nodea2a7559c60432f47c2206adbe8fe12d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/361625.html> .
+_:nodea2a7559c60432f47c2206adbe8fe12d6 <http://schema.org/ListItem/item> <http://fr.nomao.com/361625.html//> <http://fr.nomao.com/361625.html> .
+_:nodea2a7559c60432f47c2206adbe8fe12d6 <http://schema.org/ListItem/name> "Nomao"@fr <http://fr.nomao.com/361625.html> .
+_:nodec290b0f046a264940adb68d5fba890 <http://schema.org/BreadcrumbList/itemListElement> _:nodea2a7559c60432f47c2206adbe8fe12d6 <http://fr.nomao.com/361625.html> .
+_:nodebb8b9334dba5cbd448367d2926d8e990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/361625.html> .
+_:nodebb8b9334dba5cbd448367d2926d8e990 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger.html> <http://fr.nomao.com/361625.html> .
+_:nodebb8b9334dba5cbd448367d2926d8e990 <http://schema.org/ListItem/name> "Manger Nantes"@fr <http://fr.nomao.com/361625.html> .
+_:nodec290b0f046a264940adb68d5fba890 <http://schema.org/BreadcrumbList/itemListElement> _:nodebb8b9334dba5cbd448367d2926d8e990 <http://fr.nomao.com/361625.html> .
+_:nodeedc193cba6ae717d4d12aaa7dd44a83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/361625.html> .
+_:nodeedc193cba6ae717d4d12aaa7dd44a83 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger/restaurant.html> <http://fr.nomao.com/361625.html> .
+_:nodeedc193cba6ae717d4d12aaa7dd44a83 <http://schema.org/ListItem/name> "Restaurant Nantes"@fr <http://fr.nomao.com/361625.html> .
+_:nodec290b0f046a264940adb68d5fba890 <http://schema.org/BreadcrumbList/itemListElement> _:nodeedc193cba6ae717d4d12aaa7dd44a83 <http://fr.nomao.com/361625.html> .
+_:node243fc64fa28a37a249538d6ad1fdc64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> <http://fr.nomao.com/361625.html> .
+_:node243fc64fa28a37a249538d6ad1fdc64 <http://schema.org/ListItem/item> <http://fr.nomao.com/nantes/manger/restaurant,cuisine+francaise.html> <http://fr.nomao.com/361625.html> .
+_:node243fc64fa28a37a249538d6ad1fdc64 <http://schema.org/ListItem/name> "Cuisine fran\u00E7aise Nantes"@fr <http://fr.nomao.com/361625.html> .
+_:nodec290b0f046a264940adb68d5fba890 <http://schema.org/BreadcrumbList/itemListElement> _:node243fc64fa28a37a249538d6ad1fdc64 <http://fr.nomao.com/361625.html> .
+<http://fr.nomao.com/361625.html> <http://www.w3.org/1999/xhtml/microdata#item> _:nodec290b0f046a264940adb68d5fba890 <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <http://fr.nomao.com/361625.html> .
+_:node5059664287c2dcc79e2c69c56dad3fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <http://fr.nomao.com/361625.html> .
+_:node5059664287c2dcc79e2c69c56dad3fd <http://schema.org/PostalAddress/addressCountry> "France "@fr <http://fr.nomao.com/361625.html> .
+_:node5059664287c2dcc79e2c69c56dad3fd <http://schema.org/PostalAddress/streetAddress> "10 Rue des <http://fr.nomao.com/361625.html> .
+Croissants"@fr <http://fr.nomao.com/361625.html> .
+_:node5059664287c2dcc79e2c69c56dad3fd <http://schema.org/PostalAddress/postalCode> "44000 "@fr <http://fr.nomao.com/361625.html> .
+_:node5059664287c2dcc79e2c69c56dad3fd <http://schema.org/PostalAddress/addressLocality> "Nantes "@fr <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://schema.org/Restaurant/address> _:node5059664287c2dcc79e2c69c56dad3fd <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://schema.org/Restaurant/name> "FACON MAISON"@fr <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://schema.org/Restaurant/logo> "http://static.nomao.com/img/v4/1631_spot.png"@fr <http://fr.nomao.com/361625.html> .
+_:node1d1736cacb2ab61b87d36e63713977a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <http://fr.nomao.com/361625.html> .
+_:node1d1736cacb2ab61b87d36e63713977a <http://schema.org/AggregateRating/ratingValue> "4.2"@fr <http://fr.nomao.com/361625.html> .
+_:node1d1736cacb2ab61b87d36e63713977a <http://schema.org/AggregateRating/ratingCount> "7"@fr <http://fr.nomao.com/361625.html> .
+_:node1d1736cacb2ab61b87d36e63713977a <http://schema.org/AggregateRating/worstRating> "0"@fr <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://schema.org/Restaurant/aggregateRating> _:node1d1736cacb2ab61b87d36e63713977a <http://fr.nomao.com/361625.html> .
+_:node84ac11a1a2628d6ce1505528e9fd7f8 <http://schema.org/Restaurant/url> "http://fr.nomao.com/361625.html"@fr <http://fr.nomao.com/361625.html> .
+<http://fr.nomao.com/361625.html> <http://www.w3.org/1999/xhtml/microdata#item> _:node84ac11a1a2628d6ce1505528e9fd7f8 <http://fr.nomao.com/361625.html> .
+<http://fr.nomao.com/361625.html> <http://purl.org/dc/terms/title> "FACON MAISON <http://fr.nomao.com/361625.html> .
+Cuisine fran\u00E7aise, 10 Rue des <http://fr.nomao.com/361625.html> .
+Croissants, Nantes <http://fr.nomao.com/361625.html> .
+Restaurant <http://fr.nomao.com/361625.html> .
+Nomao"@fr <http://fr.nomao.com/361625.html> .

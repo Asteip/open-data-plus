@@ -1,0 +1,13 @@
+_:nodec478f2e26f4bff7b2eca8d54fb39bff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:nodec478f2e26f4bff7b2eca8d54fb39bff4 <http://www.w3.org/2006/vcard/ns#street-address> "418 rte St Joseph" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:nodec478f2e26f4bff7b2eca8d54fb39bff4 <http://www.w3.org/2006/vcard/ns#locality> "Nantes" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:nodec478f2e26f4bff7b2eca8d54fb39bff4 <http://www.w3.org/2006/vcard/ns#country-name> "France" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:nodec478f2e26f4bff7b2eca8d54fb39bff4 <http://www.w3.org/2006/vcard/ns#postal-code> "44300" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node3389f87482cd88d870f971e5d9ad1c9 <http://www.w3.org/2006/vcard/ns#fn> "Pellerin Christian" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node3389f87482cd88d870f971e5d9ad1c9 <http://www.w3.org/2006/vcard/ns#n> _:node1b4qn69ddx53006381 <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node1b4qn69ddx53006381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Name> <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node1b4qn69ddx53006381 <http://www.w3.org/2006/vcard/ns#given-name> "Pellerin" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node1b4qn69ddx53006381 <http://www.w3.org/2006/vcard/ns#family-name> "Christian" <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node3389f87482cd88d870f971e5d9ad1c9 <http://www.w3.org/2006/vcard/ns#adr> _:nodec478f2e26f4bff7b2eca8d54fb39bff4 <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node3389f87482cd88d870f971e5d9ad1c9 <http://www.w3.org/2006/vcard/ns#tel> <tel:+33.2.40.30.23.36> <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
+_:node3389f87482cd88d870f971e5d9ad1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> <https://www.annuairetel247.com/pellerin-christian-nantes-rte-st-joseph> .
